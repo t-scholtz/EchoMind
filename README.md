@@ -1,4 +1,4 @@
-# ub_speech_analysis
+# EchoMind
 Speech analysis script that converts audio into text and phonems
 
 # How to install
@@ -17,7 +17,7 @@ sudo apt-get install wget
 
 To install and configure wget for Windows:
 
-    Download wget for [Windows](https://gnuwin32.sourceforge.net/packages/wget.htm) and install the package.
+    Download wget for [Windows](https://gnuwin32.sourceforge.net/packages/wget.htm "Windows") and install the package.
     Add the wget bin path to environment variables (optional). Configuring this removes the need for full paths, and makes it a lot easier to run wget from the command prompt:
         Open the Start menu and search for “environment.”
         Select Edit the system environment variables.
@@ -46,7 +46,7 @@ pip install moviepy```
 
 ## Talk Bank
 
-To download file from talk bank, use the example command, or look at the ["how to download pdf"](https://talkbank.org/share/data.html):
+To download file from talk bank, use the example command, or look at the [how to download pdf](https://talkbank.org/share/data.html "download pdf"):
 
 'wget -e robots=off -R "index.html*" -N -nH -l inf -r --no-parent https://media.talkbank.org/ca/GulfWar/' - *this used to be in the pdf, but then they removed it*
 
