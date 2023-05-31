@@ -5,6 +5,7 @@ import pyfiglet
 import wave
 import moviepy
 import pydub
+from pydub import AudioSegment
 from termcolor import colored
 
 
@@ -59,8 +60,8 @@ if os.path.exists(dir_path+'/output/dem_output'):
     shutil.rmtree(dir_path+'/output/dem_output')
 os.makedirs(dir_path+'/output/dem_output')
 
-non_dem_out = "/output/non_dem_output"
-dem_out = "/output/dem_output"
+non_dem_out = "output/non_dem_output"
+dem_out = "output/dem_output"
 
 #runs through all files, and generates data
 loopData = [[nonDem,non_dem_out,'/InputAudioData/Non_DementiaFiles'],[Dem, dem_out,'/InputAudioData/DementiaFiles']]
@@ -87,6 +88,7 @@ for loop in loopData:
             if(verbose): print("Converting Mp3 File:" + dir_path+'/'+loop[1]+'/'+file[0]+"/"+file_name)
             sound = pydub.AudioSegment.from_mp3(audio)
             sound.export(wavFile, format="wav")
+            
         elif(file_type == ".mp4"):
             if(verbose): print("Converting Mp4 File:" + dir_path+'/'+loop[1]+'/'+file[0]+"/"+file_name)
             video = moviepy.editor.VideoFileClip(audio, verbose=verbose ,)
@@ -97,18 +99,26 @@ for loop in loopData:
                 audio.write_audiofile(wavFile)
             else:
                 audio.write_audiofile(wavFile,logger=None)
-        elif(file_type == ".cha"):
-            if(verbose): print("Converting .cha File:" + dir_path+'/'+loop[1]+'/'+file[0]+"/"+file_name)
-            print(".cha handiling not yet implement")
-
+       
         #to get initailized later
         n_channels=0
         #Check is file audio is steore or not, and if so convert it to 
-        with AudioSegment.from_file(file=wavFile, format="wav") as conversion:
-            n_channels = conversion.channels
+        try:
+            conversion = AudioSegment.from_file(wavFile, format="wav")
             if(n_channels>1):
                 sound = AudioSegment.from_wav("stereo.wav")
                 sound = sound.set_channels(1)
                 sound.export(wavFile, format="wav")
+        except:
+            print("Error converting dual to mono")
+
+
+
+
+        #Alosourus - get IPA data
+
+        #Whisper AI - get text data 
+
+        #Vosk - get text data
 
         
