@@ -11,7 +11,8 @@ You will require the following projects to run script
 ### wget
 
 **Ubunutu/Debian** 
-sudo apt-get install wget
+
+` sudo apt-get install wget `
 
 **Windows**
 
@@ -30,24 +31,24 @@ To install and configure wget for Windows:
 ## Python libaries
 
 **Ubunutu/Debian**
-```sudo apt install python3-pip
+``` sudo apt install python3-pip
 sudo apt-get install -y python3-pyfiglet
 sudo apt-get install python3-termcolor
 sudo apt-get install -y python3-pydub
-sudo apt-get install python3-moviepy```
+sudo apt-get install python3-moviepy ```
 
 **Windows**
-```py get-pip.py
+``` py get-pip.py
 pip install pyfiglet
 pip install termcolor
 pip install pydub
-pip install moviepy```
+pip install moviepy ```
 
 
 ## Talk Bank
 
 To download file from talk bank, use the example command, or look at the [how to download pdf](https://talkbank.org/share/data.html "download pdf"):
 
-'wget -e robots=off -R "index.html*" -N -nH -l inf -r --no-parent https://media.talkbank.org/ca/GulfWar/' - *this used to be in the pdf, but then they removed it*
+` wget -e robots=off -R "index.html*" -N -nH -l inf -r --no-parent https://media.talkbank.org/ca/GulfWar/ ` - *this used to be in the pdf, but then they removed it*
 
 The medical cases will require a username and password to access. Prof. Xu has one, but we are working one getting our own.
