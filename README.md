@@ -10,10 +10,10 @@ You will require the following projects to run script
 
 ### wget
 
-** Ubunutu/Debian ** 
+**Ubunutu/Debian** 
 sudo apt-get install wget
 
-** Windows **
+**Windows**
 
 To install and configure wget for Windows:
 
@@ -29,19 +29,19 @@ To install and configure wget for Windows:
 
 ## Python libaries
 
-** Ubunutu/Debian **
-'sudo apt install python3-pip' 
-'sudo apt-get install -y python3-pyfiglet'
-'sudo apt-get install python3-termcolor'
-'sudo apt-get install -y python3-pydub'
-'sudo apt-get install python3-moviepy'
+**Ubunutu/Debian**
+```sudo apt install python3-pip
+sudo apt-get install -y python3-pyfiglet
+sudo apt-get install python3-termcolor
+sudo apt-get install -y python3-pydub
+sudo apt-get install python3-moviepy```
 
-** Windows **
-'py get-pip.py'
-'pip install pyfiglet'
-'pip install termcolor'
-'pip install pydub'
-'pip install moviepy'
+**Windows**
+```py get-pip.py
+pip install pyfiglet
+pip install termcolor
+pip install pydub
+pip install moviepy```
 
 
 ## Talk Bank
