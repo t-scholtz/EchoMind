@@ -2,25 +2,51 @@ import os
 import csv
 import shutil
 import pyfiglet
+import json
 import wave
 import moviepy
 import pydub
 import math
 import sys
+import vosk
+from time import sleep
 from pydub import AudioSegment
 from termcolor import colored
 from allosaurus.app import read_recognizer
-
+from vosk import Model, KaldiRecognizer
 
 #Controls some of the optional print statements
-verbose = True
+verbose = False
+if "--verbose" in sys.argv: 
+    verbose = True
+
 #Model chosen for Allosoarus -- see github page for more options
 modelA_path = "eng2102"
+#Model for Volk - see downloads page for more options
+modelV_path = "/home/parallels/Downloads/vosk-model-en-us-0.22-lgraph"
+
+
+if not os.path.exists(modelV_path):
+    print(colored("Error - vosk model not found. Make sure model is downloaded and correct path is given to it"),"red")
+    sys.exit (1)
+
+if(verbose == False):
+    vosk.SetLogLevel(-1)
+
+try:
+    modelV = Model(modelV_path)
+
+except:
+    print(colored("Error: Could not instatiate Vosk model",'red'))
+    sys.exit(1)
+
 try:
     modelA = read_recognizer(modelA_path)
 except:
-    print(colored("Error: Could not load Allosoarus model",'red'))
+    print(colored("Error: Could not load Allosoarus model. Make sure you downloaded model before running this script.",'red'))
     sys.exit(1)
+
+
 
 
 #Recusively looks for all files in a given directory, and returns a list with a file path to them
@@ -186,14 +212,17 @@ for loop in loopData:
             #audio file currently being processed
             audioSeg = subfile+"/"+seg.rsplit('/', 1)[1]
 
+            #Sleepy time 💤(｡-‿-｡)💤
+            sleep(0.01)
             #file management
             os.makedirs(subfile)
             shutil.move(seg, audioSeg)
+            sleep(0.01)
+            #Wakey time ＼💤（´Ｏ｀）／
 
             #Alosourus - get IPA data
             outA_noTime = modelA.recognize(audioSeg)
             outA_Time = modelA.recognize(audioSeg, timestamp=True)
-
 
             with open( subfile+"/Alosourus_noTime.txt", "w") as text_file:
                 text_file.write(outA_noTime)
@@ -202,27 +231,48 @@ for loop in loopData:
                 text_file.write(outA_Time)
 
 
+            #Vosk
+            wf = open(audioSeg, "rb")
+            wf.read(44) # skip header
 
+            out = ""
+            try:
+                rec = KaldiRecognizer(modelV , 16000)
+                rec.SetWords(True)
+                while True:
+                    data = wf.read(2000)
+                    if len(data) == 0:
+                        break
+                    if rec.AcceptWaveform(data):
+                        res = json.loads(rec.Result())
+                        out+=res["text"] + "\n"
+                        
+                    else:
+                        res = json.loads(rec.PartialResult())
 
+                res = json.loads(rec.FinalResult())
+                res_text = res["text"]
+                try:
+                    res_timestamped = res["result"]
+                except:
+                    print("slight error with Vosk timestamp transcipt")
+                    res_timestamped = [{},{}]
 
-         
-       
+                with open( subfile+"/VoskTranscipt_partial.txt", "w") as text_file:
+                    text_file.write(out)
+                with open( subfile+"/VoskTranscipt.txt", "w") as text_file:
+                    text_file.write(res_text)
+                with open( subfile+"/VoskTranscipt_timestamp.txt", "w") as text_file:
+                    for item in res_timestamped:
+                        text_file.write(str(item))
+            except:
+                print("Error intialising vosk STT")
+
 
 
         
-
-
-
-
-
-
-
-
-
-        
-
         #Whisper AI - get text data 
 
-        #Vosk - get text data
+
 
         
