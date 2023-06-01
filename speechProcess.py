@@ -5,8 +5,22 @@ import pyfiglet
 import wave
 import moviepy
 import pydub
+import math
+import sys
 from pydub import AudioSegment
 from termcolor import colored
+from allosaurus.app import read_recognizer
+
+
+#Controls some of the optional print statements
+verbose = True
+#Model chosen for Allosoarus -- see github page for more options
+modelA_path = "eng2102"
+try:
+    modelA = read_recognizer(modelA_path)
+except:
+    print(colored("Error: Could not load Allosoarus model",'red'))
+    sys.exit(1)
 
 
 #Recusively looks for all files in a given directory, and returns a list with a file path to them
@@ -22,6 +36,50 @@ def getFilesInFolder(k):
      
     return ret
 
+#Slips wave files into smalle segments (15 secs atm)
+class SplitWavAudioMubin():
+    def __init__(self, folder, filename):
+        self.folder = folder
+        self.filename = filename
+        self.filepath = folder   + filename
+        self.filepaths=[]
+        
+        self.audio = AudioSegment.from_wav(self.filepath)
+    
+    def get_duration(self):
+        return self.audio.duration_seconds
+    
+    def single_split(self, from_min,from_sec, to_min,to_sec ,split_filename):
+        t1 = (from_min * 60 +from_sec)* 1000
+        t2 = (to_min * 60 +to_sec ) * 1000
+        split_audio = self.audio[t1:t2]
+        split_audio.export(self.folder  + split_filename, format="wav")
+        self.filepaths.append(str(self.folder  + split_filename))
+        if(verbose):
+            print("Audio seg split: "+self.folder  + split_filename)
+        
+    def multiple_split(self, min_per_split,sec_per_split):
+        total_mins = math.ceil(self.get_duration() / 60)
+        last_sec = math.ceil(self.get_duration() % 60)
+        for i in range(0, total_mins, min_per_split):
+            if (i <(total_mins-1)):
+                for j in range(0, 60, sec_per_split):
+                    split_fn = str(i) +":"+str(j)+ '_' + self.filename
+                    self.single_split(i,j,i,j+sec_per_split, split_fn)
+            else:
+                for j in range(0, last_sec, sec_per_split):
+                    split_fn = str(i) +":"+str(j)+ '_' + self.filename
+                    self.single_split(i,j,i,j+sec_per_split, split_fn)
+
+
+        if(verbose):
+            if i == total_mins - min_per_split:
+                print('All splited successfully :')
+                for x in self.filepaths:
+                    print(x)
+                print("_"*100)
+                
+
 
 
 #print start up message
@@ -32,9 +90,6 @@ print("UB Speech to text and phonemes project".center(46))
 print("="*46) 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
-
-#Controls some of the optional print statements
-verbose = True
 
 #Get a list of files paths to all audio files inside InputAudioData
 try:
@@ -113,9 +168,58 @@ for loop in loopData:
             print("Error converting dual to mono")
 
 
+        #Break audio into 15 sec chuncks
+        folder =  dir_path+'/'+loop[1]+'/'+file[0]+"/"
+        file = file[0]+".wav"
+        split_wav = SplitWavAudioMubin(folder, file)
+        split_wav.multiple_split(min_per_split=1,sec_per_split=15)
+
+        split_files = split_wav.filepaths
 
 
-        #Alosourus - get IPA data
+        # for every audio segment do the following
+        for seg in split_files:
+            
+            #file where data relating to audio seg should be stored
+            subfile = seg[:-4]
+
+            #audio file currently being processed
+            audioSeg = subfile+"/"+seg.rsplit('/', 1)[1]
+
+            #file management
+            os.makedirs(subfile)
+            shutil.move(seg, audioSeg)
+
+            #Alosourus - get IPA data
+            outA_noTime = modelA.recognize(audioSeg)
+            outA_Time = modelA.recognize(audioSeg, timestamp=True)
+
+
+            with open( subfile+"/Alosourus_noTime.txt", "w") as text_file:
+                text_file.write(outA_noTime)
+
+            with open( subfile+"/Alosourus_Time.txt", "w") as text_file:
+                text_file.write(outA_Time)
+
+
+
+
+
+         
+       
+
+
+        
+
+
+
+
+
+
+
+
+
+        
 
         #Whisper AI - get text data 
 

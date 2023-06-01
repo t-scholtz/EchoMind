@@ -31,19 +31,36 @@ To install and configure wget for Windows:
 ## Python libaries
 
 **Ubunutu/Debian**
-``` sudo apt install python3-pip
+``` 
+sudo apt install python3-pip
 sudo apt-get install -y python3-pyfiglet
 sudo apt-get install python3-termcolor
 sudo apt-get install -y python3-pydub
-sudo apt-get install python3-moviepy ```
+sudo apt-get install python3-moviepy 
+sudo apt install python3-numpy
+```
 
 **Windows**
-``` py get-pip.py
+``` 
+py get-pip.py
 pip install pyfiglet
 pip install termcolor
 pip install pydub
-pip install moviepy ```
+pip install moviepy
+pip install numpy 
+```
 
+
+## Allosaurus
+To install Allosaurus, use the pip command, or install it from the [git reop](https://itsfoss.com/markdown-code-block/ "git repo")
+
+` pip install allosaurus `
+
+Then you will need to install a model for it to run. The script is set to the english model which will require you to download it 
+
+` python3 -m allosaurus.bin.download_model -m eng2102 `
+
+However you can download and use other models if you wish
 
 ## Talk Bank
 
