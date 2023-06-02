@@ -33,6 +33,13 @@ if not os.path.exists(modelV_path):
 if(verbose == False):
     vosk.SetLogLevel(-1)
 
+try:
+                modelV = Model(modelV_path)
+
+except:
+    print(colored("Error: Could not instatiate Vosk model",'red'))
+    sys.exit(1)
+
 
 try:
     modelA = read_recognizer(modelA_path)
@@ -226,13 +233,6 @@ for loop in loopData:
 
 
             #Vosk
-
-            try:
-                modelV = Model(modelV_path)
-
-            except:
-                print(colored("Error: Could not instatiate Vosk model",'red'))
-                sys.exit(1)
             rec = KaldiRecognizer(modelV, 16000)
 
             wf = open(audioSeg, "rb")
