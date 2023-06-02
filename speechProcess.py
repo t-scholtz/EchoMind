@@ -23,7 +23,7 @@ if "--verbose" in sys.argv:
 #Model chosen for Allosoarus -- see github page for more options
 modelA_path = "eng2102"
 #Model for Volk - see downloads page for more options
-modelV_path = "/home/parallels/Downloads/vosk-model-en-us-0.22-lgraph"
+modelV_path = "/home/parallels/Downloads/vosk-model-en-us-0.22"
 
 
 if not os.path.exists(modelV_path):
@@ -33,12 +33,6 @@ if not os.path.exists(modelV_path):
 if(verbose == False):
     vosk.SetLogLevel(-1)
 
-try:
-    modelV = Model(modelV_path)
-
-except:
-    print(colored("Error: Could not instatiate Vosk model",'red'))
-    sys.exit(1)
 
 try:
     modelA = read_recognizer(modelA_path)
@@ -232,41 +226,45 @@ for loop in loopData:
 
 
             #Vosk
+
+            try:
+                modelV = Model(modelV_path)
+
+            except:
+                print(colored("Error: Could not instatiate Vosk model",'red'))
+                sys.exit(1)
+            rec = KaldiRecognizer(modelV, 16000)
+
             wf = open(audioSeg, "rb")
             wf.read(44) # skip header
 
-            out = ""
-            try:
-                rec = KaldiRecognizer(modelV , 16000)
-                rec.SetWords(True)
-                while True:
-                    data = wf.read(2000)
-                    if len(data) == 0:
-                        break
-                    if rec.AcceptWaveform(data):
-                        res = json.loads(rec.Result())
-                        out+=res["text"] + "\n"
-                        
-                    else:
-                        res = json.loads(rec.PartialResult())
+            while True:
+                data = wf.read(2000)
+                if len(data) == 0:
+                    break
+                if rec.AcceptWaveform(data):
+                    res = json.loads(rec.Result())
+                    print (res)
+                else:
+                    res = json.loads(rec.PartialResult())
 
-                res = json.loads(rec.FinalResult())
-                res_text = res["text"]
-                try:
-                    res_timestamped = res["result"]
-                except:
-                    print("slight error with Vosk timestamp transcipt")
-                    res_timestamped = [{},{}]
+            res = json.loads(rec.FinalResult())
+            print (res)
+\
+                # try:
+                #     res_timestamped = res["result"]
+                # except:
+                #     print("slight error with Vosk timestamp transcipt")
+                #     res_timestamped = [{},{}]
 
-                with open( subfile+"/VoskTranscipt_partial.txt", "w") as text_file:
-                    text_file.write(out)
-                with open( subfile+"/VoskTranscipt.txt", "w") as text_file:
-                    text_file.write(res_text)
-                with open( subfile+"/VoskTranscipt_timestamp.txt", "w") as text_file:
-                    for item in res_timestamped:
-                        text_file.write(str(item))
-            except:
-                print("Error intialising vosk STT")
+                # with open( subfile+"/VoskTranscipt_partial.txt", "w") as text_file:
+                #     text_file.write(out)
+                # with open( subfile+"/VoskTranscipt.txt", "w") as text_file:
+                #     text_file.write(res_text)
+                # with open( subfile+"/VoskTranscipt_timestamp.txt", "w") as text_file:
+                #     for item in res_timestamped:
+                #         text_file.write(str(item))
+           
 
 
 

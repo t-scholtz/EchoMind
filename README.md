@@ -1,6 +1,8 @@
 # EchoMind
 Speech analysis script that converts audio into text and phonems
-![temp logo](project_resources/temp_logo.png "Temp logo")
+  
+    
+![temp logo](logo_ver2.png "Temp logo")
 
 
 # How to install
