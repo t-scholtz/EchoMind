@@ -23,7 +23,7 @@ if "--verbose" in sys.argv:
 #Model chosen for Allosoarus -- see github page for more options
 modelA_path = "eng2102"
 #Model for Volk - see downloads page for more options
-modelV_path = "/home/parallels/Downloads/vosk-model-en-us-0.22"
+modelV_path = "/home/parallels/Downloads/vosk-model-en-us-0.22-lgraph"
 
 
 if not os.path.exists(modelV_path):
@@ -34,7 +34,9 @@ if(verbose == False):
     vosk.SetLogLevel(-1)
 
 try:
+    print("Loading model")
     modelV = Model(modelV_path)
+    print("model loaded")
 
 except:
     print(colored("Error: Could not instatiate Vosk model",'red'))
@@ -234,7 +236,7 @@ for loop in loopData:
 
             #Vosk
             rec = KaldiRecognizer(modelV, 16000)
-
+            rec.SetWords(True)
             wf = open(audioSeg, "rb")
             wf.read(44) # skip header
 
@@ -244,13 +246,27 @@ for loop in loopData:
                     break
                 if rec.AcceptWaveform(data):
                     res = json.loads(rec.Result())
-                    print (res)
+                    if(verbose):
+                        print (res)
                 else:
                     res = json.loads(rec.PartialResult())
 
             res = json.loads(rec.FinalResult())
-            print (res)
-\
+            if(verbose):
+                print (res)
+
+
+            with open( subfile+"/vosk_transcipt.txt", "w") as text_file:
+                text_file.write(res["text"])
+                
+            try:
+                with open( subfile+"/vosk_data.txt", "w") as text_file:
+                    text_file.write(str(res["result"]))
+            except:
+                with open( subfile+"/vosk_data.txt", "w") as text_file:
+                    text_file.write(" ")
+
+
                 # try:
                 #     res_timestamped = res["result"]
                 # except:
