@@ -2,7 +2,7 @@
 Speech analysis script that converts audio into text and phonems
   
     
-![temp logo](logo_ver2.png "Temp logo")
+![temp logo](project_resources/logo_ver2.png "Temp logo")
 
 
 # How to install

@@ -34,7 +34,7 @@ if(verbose == False):
     vosk.SetLogLevel(-1)
 
 try:
-                modelV = Model(modelV_path)
+    modelV = Model(modelV_path)
 
 except:
     print(colored("Error: Could not instatiate Vosk model",'red'))
