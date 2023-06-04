@@ -202,17 +202,17 @@ for loop in loopData:
 
         with wave.open(wavFile) as input:
             #Read basic informaiton from the wavefile
-            f.write("_"*15)
-            f.write("Number of channels  - "+ str(n_channels) )
+            f.write("\n"+"_"*15)
+            f.write("\nNumber of channels  - "+ str(n_channels) )
             sample_width = input.getsampwidth()
-            f.write("Sample Width - "+ str(sample_width))
+            f.write("\nSample Width - "+ str(sample_width))
             sample_freq = input.getframerate()
-            f.write("Frame rate  - "+ str(sample_freq))
+            f.write("\nFrame rate  - "+ str(sample_freq))
             n_samples = input.getnframes()
-            f.write("Number of Frames  - "+ str(n_samples))
+            f.write("\nNumber of Frames  - "+ str(n_samples))
             t_audio = round(n_samples/sample_freq,3)
-            f.write("lenght of Audio sample - " + str(t_audio) )
-            f.write("Compression type  - "+ str(input.getcompname()) + " --- Orignal file type: "+ file_type)
+            f.write("\nlenght of Audio sample - " + str(t_audio) )
+            f.write("\nCompression type  - "+ str(input.getcompname()) + " --- Orignal file type: "+ file_type)
 
         #Break audio into 15 sec chuncks
         folder =  dir_path+'/'+loop[1]+'/'+file[0]+"/"
@@ -298,22 +298,20 @@ for loop in loopData:
                 #     for item in res_timestamped:
                 #         text_file.write(str(item))
 
-            #Whisper AI - get text data \
-
-
+            #Whisper AI - get text data 
             
             result_timestamped = modelW.transcribe(audioSeg, word_timestamps=True,language="en")
            
             with open( subfile+"/Whisper_transcipt.txt", "w") as text_file:
                 text_file.write(result_timestamped["text"])
+
             with open( subfile+"/whisper_timestamped.txt", "w") as text_file:
-                text_file.write(str(result_timestamped["segments"]))
-
-            with open( subfile+"/tests.txt", "w") as text_file:
-                text_file.write(json.dumps(result_timestamped["segments"]))
-
-
-            #Whisper-timestamped
+                for line in result_timestamped["segments"]:
+                    text_file.write(str(line))
+            
+            parsed_json=json.loads(str(result_timestamped["segments"][0]))
+            out=(json.dumps(parsed_json, indent=4,sort_keys=False))
+            print(out)
             
 
 
