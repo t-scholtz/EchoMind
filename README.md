@@ -32,6 +32,21 @@ To install and configure wget for Windows:
         In the Variable value field add the path to the wget bin directory preceded by a semicolon (;). If installed in the default path, add C:Program Files (x86)GnuWin32bin.
     Open the command prompt (cmd.exe) and start running wget commands.
 
+
+### ffmeg
+
+**Ubunutu/Debian** 
+
+` sudo apt update && sudo apt install ffmpeg `
+
+**Windows**
+
+On Windows using Chocolatey (https://chocolatey.org/)
+` choco install ffmpeg `
+
+On Windows using Scoop (https://scoop.sh/)
+` scoop install ffmpeg `
+
 ## Python libaries
 
 **Ubunutu/Debian**
@@ -65,6 +80,27 @@ Then you will need to install a model for it to run. The script is set to the en
 ` python3 -m allosaurus.bin.download_model -m eng2102 `
 
 However you can download and use other models if you wish
+
+
+## Vosk
+
+You can install Vosk through the pip command:
+
+` pip3 install vosk `
+
+Further more you will need to download a [Model](https://alphacephei.com/vosk/models "Model"), unpack it, and update the scipt line
+
+  `"modelV_path = "/home/parallels/Downloads/vosk-model-en-us-0.22-lgraph" " `
+
+,to point to the correct path.
+
+## Wishper
+
+To install whisper use the pip command :
+
+` pip install -U openai-whisper `
+
+
 
 ## Talk Bank
 
