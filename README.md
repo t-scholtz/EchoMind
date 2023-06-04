@@ -100,6 +100,22 @@ To install whisper use the pip command :
 
 ` pip install -U openai-whisper `
 
+## whisper-timestamped
+
+Install using pip command 
+
+` pip3 install git+https://github.com/linto-ai/whisper-timestamped `
+
+light weight version of tourch for cpu proccessing as oppesed to gpu processing
+
+``` 
+pip3 install \
+     torch==1.13.1+cpu \
+     torchaudio==0.13.1+cpu \
+     -f https://download.pytorch.org/whl/torch_stable.html
+```
+Update to latest version
+` pip3 install --upgrade --no-deps --force-reinstall git+https://github.com/linto-ai/whisper-timestamped `
 
 
 ## Talk Bank

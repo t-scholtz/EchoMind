@@ -9,6 +9,7 @@ import pydub
 import math
 import sys
 import vosk
+import whisper_timestamped as whisper
 from time import sleep
 from pydub import AudioSegment
 from termcolor import colored
@@ -24,10 +25,12 @@ if "--verbose" in sys.argv:
 modelA_path = "eng2102"
 #Model for Volk - see downloads page for more options
 modelV_path = "/home/parallels/Downloads/vosk-model-en-us-0.22-lgraph"
+#Model chose for whisper
+modelW = whisper.load_model("base")
 
 
 if not os.path.exists(modelV_path):
-    print(colored("Error - vosk model not found. Make sure model is downloaded and correct path is given to it"),"red")
+    print(colored("Error - vosk model not found. Make sure model is downloaded and correct path is given to it","red"))
     sys.exit (1)
 
 if(verbose == False):
@@ -183,19 +186,33 @@ for loop in loopData:
                 audio.write_audiofile(wavFile)
             else:
                 audio.write_audiofile(wavFile,logger=None)
-       
-        #to get initailized later
-        n_channels=0
-        #Check is file audio is steore or not, and if so convert it to 
-        try:
-            conversion = AudioSegment.from_file(wavFile, format="wav")
-            if(n_channels>1):
-                sound = AudioSegment.from_wav("stereo.wav")
+
+
+        conversion = AudioSegment.from_file(file=wavFile, format="wav")
+        n_channels = conversion.channels
+        if(n_channels>1):
+            try:
+                sound = AudioSegment.from_wav(wavFile)
                 sound = sound.set_channels(1)
                 sound.export(wavFile, format="wav")
-        except:
-            print("Error converting dual to mono")
+            except:
+                print(colored("Error - trouble converting number of audio channels in file " + wavFile ,"red"))
+                sys.exit (1)
 
+
+        with wave.open(wavFile) as input:
+            #Read basic informaiton from the wavefile
+            f.write("_"*15)
+            f.write("Number of channels  - "+ str(n_channels) )
+            sample_width = input.getsampwidth()
+            f.write("Sample Width - "+ str(sample_width))
+            sample_freq = input.getframerate()
+            f.write("Frame rate  - "+ str(sample_freq))
+            n_samples = input.getnframes()
+            f.write("Number of Frames  - "+ str(n_samples))
+            t_audio = round(n_samples/sample_freq,3)
+            f.write("lenght of Audio sample - " + str(t_audio) )
+            f.write("Compression type  - "+ str(input.getcompname()) + " --- Orignal file type: "+ file_type)
 
         #Break audio into 15 sec chuncks
         folder =  dir_path+'/'+loop[1]+'/'+file[0]+"/"
@@ -235,36 +252,36 @@ for loop in loopData:
 
 
             #Vosk
-            rec = KaldiRecognizer(modelV, 16000)
-            rec.SetWords(True)
-            wf = open(audioSeg, "rb")
-            wf.read(44) # skip header
+            # rec = KaldiRecognizer(modelV, 16000)
+            # rec.SetWords(True)
+            # wf = open(audioSeg, "rb")
+            # wf.read(44) # skip header
 
-            while True:
-                data = wf.read(2000)
-                if len(data) == 0:
-                    break
-                if rec.AcceptWaveform(data):
-                    res = json.loads(rec.Result())
-                    if(verbose):
-                        print (res)
-                else:
-                    res = json.loads(rec.PartialResult())
+            # while True:
+            #     data = wf.read(2000)
+            #     if len(data) == 0:
+            #         break
+            #     if rec.AcceptWaveform(data):
+            #         res = json.loads(rec.Result())
+            #         if(verbose):
+            #             print (res)
+            #     else:
+            #         res = json.loads(rec.PartialResult())
 
-            res = json.loads(rec.FinalResult())
-            if(verbose):
-                print (res)
+            # res = json.loads(rec.FinalResult())
+            # if(verbose):
+            #     print (res)
 
 
-            with open( subfile+"/vosk_transcipt.txt", "w") as text_file:
-                text_file.write(res["text"])
+            # with open( subfile+"/vosk_transcipt.txt", "w") as text_file:
+            #     text_file.write(res["text"])
                 
-            try:
-                with open( subfile+"/vosk_data.txt", "w") as text_file:
-                    text_file.write(str(res["result"]))
-            except:
-                with open( subfile+"/vosk_data.txt", "w") as text_file:
-                    text_file.write(" ")
+            # try:
+            #     with open( subfile+"/vosk_data.txt", "w") as text_file:
+            #         text_file.write(str(res["result"]))
+            # except:
+            #     with open( subfile+"/vosk_data.txt", "w") as text_file:
+            #         text_file.write(" ")
 
 
                 # try:
@@ -280,12 +297,24 @@ for loop in loopData:
                 # with open( subfile+"/VoskTranscipt_timestamp.txt", "w") as text_file:
                 #     for item in res_timestamped:
                 #         text_file.write(str(item))
+
+            #Whisper AI - get text data \
+
+
+            
+            result_timestamped = modelW.transcribe(audioSeg, word_timestamps=True,language="en")
            
+            with open( subfile+"/Whisper_transcipt.txt", "w") as text_file:
+                text_file.write(result_timestamped["text"])
+            with open( subfile+"/whisper_timestamped.txt", "w") as text_file:
+                text_file.write(str(result_timestamped["segments"]))
+
+            with open( subfile+"/tests.txt", "w") as text_file:
+                text_file.write(json.dumps(result_timestamped["segments"]))
 
 
-
-        
-        #Whisper AI - get text data 
+            #Whisper-timestamped
+            
 
 
 
