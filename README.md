@@ -1,20 +1,32 @@
 # EchoMind
-Speech analysis script that converts audio into text and phonems
+Speech analysis script that converts audio into text and phonemes
   
-    
 ![Temp logo](/project_resources/logo_ver2.png "Temp logo")
 
+This readme consists of:
+- Overview of functionality
+- Install guide
+- Usage guide
+
+# Functionality
+
+The script is able to take in audio files and multi-layered folders containing audio files. It then converts the audio files to wave files and segments them into 15* second clips. It analyses these segments and outputs transcripts, ipa data, and phones.
 
 # How to install
-You will require the following projects to run script
+You will require the following projects/software to run the script
 - Terminal software
+- Python Libraries
+- Allosaurus
+- Vosk
+- Whisper
+- Whisper-timestamped
 - Talk bank data
 
 ## Terminal software
 
 ### wget
 
-**Ubunutu/Debian** 
+**Ubuntu/Debian** 
 
 ` sudo apt-get install wget `
 
@@ -29,13 +41,13 @@ To install and configure wget for Windows:
         Select the Advanced tab and click the Environment Variables button.
         Select the Path variable under System Variables.
         Click Edit.
-        In the Variable value field add the path to the wget bin directory preceded by a semicolon (;). If installed in the default path, add C:Program Files (x86)GnuWin32bin.
+        In the Variable value field add the path to the wget bin directory preceded by a semicolon (;). If installed in the default path, add C: Program Files (x86)GnuWin32bin.
     Open the command prompt (cmd.exe) and start running wget commands.
 
 
 ### ffmeg
 
-**Ubunutu/Debian** 
+**Ubuntu/Debian** 
 
 ` sudo apt update && sudo apt install ffmpeg `
 
@@ -47,9 +59,9 @@ On Windows using Chocolatey (https://chocolatey.org/)
 On Windows using Scoop (https://scoop.sh/)
 ` scoop install ffmpeg `
 
-## Python libaries
+## Python libraries
 
-**Ubunutu/Debian**
+**Ubuntu/Debian**
 ``` 
 sudo apt install python3-pip
 sudo apt-get install -y python3-pyfiglet
@@ -75,11 +87,11 @@ To install Allosaurus, use the pip command, or install it from the [git reop](ht
 
 ` pip install allosaurus `
 
-Then you will need to install a model for it to run. The script is set to the english model which will require you to download it 
+Then you will need to install a model for it to run. The script is set to the English model which will require you to download it 
 
 ` python3 -m allosaurus.bin.download_model -m eng2102 `
 
-However you can download and use other models if you wish
+However, you can download and use other models if you wish
 
 
 ## Vosk
@@ -88,11 +100,11 @@ You can install Vosk through the pip command:
 
 ` pip3 install vosk `
 
-Further more you will need to download a [Model](https://alphacephei.com/vosk/models "Model"), unpack it, and update the scipt line
+Furthermore you will need to download a [Model](https://alphacephei.com/vosk/models "Model"), unpack it, and update the script line
 
   `"modelV_path = "/home/parallels/Downloads/vosk-model-en-us-0.22-lgraph" " `
 
-,to point to the correct path.
+, to point to the correct path.
 
 ## Wishper
 
@@ -102,11 +114,11 @@ To install whisper use the pip command :
 
 ## whisper-timestamped
 
-Install using pip command 
+Install using the pip command 
 
 ` pip3 install git+https://github.com/linto-ai/whisper-timestamped `
 
-light weight version of tourch for cpu proccessing as oppesed to gpu processing
+lightweight version of Tourch for CPU processing as oppesed to GPU processing
 
 ``` 
 pip3 install \
@@ -114,14 +126,14 @@ pip3 install \
      torchaudio==0.13.1+cpu \
      -f https://download.pytorch.org/whl/torch_stable.html
 ```
-Update to latest version
+Update to the latest version
 ` pip3 install --upgrade --no-deps --force-reinstall git+https://github.com/linto-ai/whisper-timestamped `
 
 
 ## Talk Bank
 
-To download file from talk bank, use the example command, or look at the [how to download pdf](https://talkbank.org/share/data.html "download pdf"):
+To download a file/folder from talk bank, use the example command, or look at the [how to download pdf](https://talkbank.org/share/data.html "download pdf"):
 
 ` wget -e robots=off -R "index.html*" -N -nH -l inf -r --no-parent https://media.talkbank.org/ca/GulfWar/ ` - *this used to be in the pdf, but then they removed it*
 
-The medical cases will require a username and password to access. Prof. Xu has one, but we are working one getting our own.
+The medical cases will require a username and password to access. Prof. Xu has one, but we are working on getting our own.

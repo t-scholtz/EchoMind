@@ -309,9 +309,7 @@ for loop in loopData:
                 for line in result_timestamped["segments"]:
                     text_file.write(str(line))
             
-            parsed_json=json.loads(str(result_timestamped["segments"][0]))
-            out=(json.dumps(parsed_json, indent=4,sort_keys=False))
-            print(out)
+       
             
 
 
