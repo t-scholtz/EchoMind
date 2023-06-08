@@ -5,7 +5,7 @@ Speech analysis script that converts audio into text and phonemes
 
 This readme consists of:
 - Overview of functionality
-- Install guide
+- Installation guide
 - Usage guide
 
 # Functionality
@@ -69,6 +69,7 @@ sudo apt-get install python3-termcolor
 sudo apt-get install -y python3-pydub
 sudo apt-get install python3-moviepy 
 sudo apt install python3-numpy
+sudo apt-get install -y python-soundfile
 ```
 
 **Windows**
@@ -79,6 +80,7 @@ pip install termcolor
 pip install pydub
 pip install moviepy
 pip install numpy 
+pip install soundfile
 ```
 
 
@@ -137,3 +139,13 @@ To download a file/folder from talk bank, use the example command, or look at th
 ` wget -e robots=off -R "index.html*" -N -nH -l inf -r --no-parent https://media.talkbank.org/ca/GulfWar/ ` - *this used to be in the pdf, but then they removed it*
 
 The medical cases will require a username and password to access. Prof. Xu has one, but we are working on getting our own.
+
+# How to use
+
+After cloning the repo and downloading + installing the required software, you should be good to go. To run the script, place the audio files you wish to anaylise in the InputAudioData under the correct section. The run the script using the command 
+
+` python speechProcess.py `
+
+There is also a verbose mode,
+
+` python speechProcess.py --verbose`
