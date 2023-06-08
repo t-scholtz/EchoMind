@@ -20,6 +20,7 @@ You will require the following projects/software to run the script
 - Vosk
 - Whisper
 - Whisper-timestamped
+- PocketSphinx
 - Talk bank data
 
 ## Terminal software
@@ -128,6 +129,12 @@ pip3 install \
 ```
 Update to the latest version
 ` pip3 install --upgrade --no-deps --force-reinstall git+https://github.com/linto-ai/whisper-timestamped `
+
+
+## CMU PocketSphinx
+To install pocketsphinx, use the pip command:
+
+` pip3 install pocketsphinx `
 
 
 ## Talk Bank
