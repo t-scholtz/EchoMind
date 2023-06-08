@@ -284,6 +284,7 @@ for loop in loopData:
             #Whisper AI - get text data 
             
             result_timestamped = modelW.transcribe(audioSeg, word_timestamps=True,language="en")
+        
             with open( subfile+"/Whisper_transcipt.txt", "w") as text_file:
                 text_file.write(result_timestamped["text"])
 
