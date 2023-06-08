@@ -1,0 +1,1 @@
+{'id': 0, 'seek': 0, 'start': 0.0, 'end': 0.54, 'text': ' you', 'tokens': [50364, 291, 50464], 'temperature': 0.0, 'avg_logprob': -0.9374144077301025, 'compression_ratio': 0.2727272727272727, 'no_speech_prob': 0.9580753445625305, 'words': [{'word': ' you', 'start': 0.0, 'end': 0.54, 'probability': 0.25402525067329407}]}

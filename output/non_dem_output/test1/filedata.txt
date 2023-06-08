@@ -1,8 +1,8 @@
 The file came from: /test1.mp3
 _______________
-Number of channels  - 2
+Number of channels  - 1
 Sample Width - 2
-Frame rate  - 48000
-Number of Frames  - 5790686
+Frame rate  - 16000
+Number of Frames  - 1930229
 lenght of Audio sample - 120.639
 Compression type  - not compressed --- Orignal file type: .mp3

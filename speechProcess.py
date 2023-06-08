@@ -9,12 +9,12 @@ import pydub
 import math
 import sys
 import vosk
+import soundfile as sf
 import whisper_timestamped as whisper
-from time import sleep
 from pydub import AudioSegment
 from termcolor import colored
 from allosaurus.app import read_recognizer
-from vosk import Model, KaldiRecognizer
+from vosk import Model, KaldiRecognizer, SetLogLevel
 
 #Controls some of the optional print statements
 verbose = False
@@ -24,7 +24,7 @@ if "--verbose" in sys.argv:
 #Model chosen for Allosoarus -- see github page for more options
 modelA_path = "eng2102"
 #Model for Volk - see downloads page for more options
-modelV_path = "/home/parallels/Downloads/vosk-model-en-us-0.22-lgraph"
+modelV_path = "/home/parallels/Downloads/vosk-model-small-en-us-0.15"
 #Model chose for whisper
 modelW = whisper.load_model("base")
 
@@ -34,7 +34,9 @@ if not os.path.exists(modelV_path):
     sys.exit (1)
 
 if(verbose == False):
-    vosk.SetLogLevel(-1)
+    SetLogLevel(-1)
+else:
+     SetLogLevel(0)
 
 try:
     print("Loading model")
@@ -52,9 +54,6 @@ except:
     print(colored("Error: Could not load Allosoarus model. Make sure you downloaded model before running this script.",'red'))
     sys.exit(1)
 
-
-
-
 #Recusively looks for all files in a given directory, and returns a list with a file path to them
 def getFilesInFolder(k):
     ret = []
@@ -65,7 +64,6 @@ def getFilesInFolder(k):
             ret+=[f]
         else:
             ret+=getFilesInFolder(f)
-     
     return ret
 
 #Slips wave files into smalle segments (15 secs atm)
@@ -103,7 +101,6 @@ class SplitWavAudioMubin():
                     split_fn = str(i) +":"+str(j)+ '_' + self.filename
                     self.single_split(i,j,i,j+sec_per_split, split_fn)
 
-
         if(verbose):
             if i == total_mins - min_per_split:
                 print('All splited successfully :')
@@ -129,7 +126,6 @@ try:
 except:
     print("Non dem Files not found")
     nonDem=[]
-
 try:    
     Dem = getFilesInFolder(dir_path+'/InputAudioData/DementiaFiles')
 except:
@@ -170,13 +166,22 @@ for loop in loopData:
         #convert the file to a .wav if needed, and then copy the .wav to be part of the output
         if(file_type == ".wav"):
             if(verbose): print("Native Wave File:" + dir_path+'/'+loop[1]+'/'+file[0]+"/"+file_name)
-            shutil.copyfile(audio, dir_path+'/'+loop[1]+'/'+file[0]+"/"+file_name)
+            ob = sf.SoundFile(audio)
+            if(format(ob.subtype) != "PCM_16"):
+                data, samplerate = sf.read(audio)
+                sf.write(dir_path+'/'+loop[1]+'/'+file[0]+"/"+file_name, data, samplerate, subtype='PCM_16')
+            else:
+                shutil.copyfile(audio, dir_path+'/'+loop[1]+'/'+file[0]+"/"+file_name)
+
         elif(file_type == ".mp3"):
             if(verbose): print("Converting Mp3 File:" + dir_path+'/'+loop[1]+'/'+file[0]+"/"+file_name)
             sound = pydub.AudioSegment.from_mp3(audio)
+            sound.set_channels(1)
+            sound = sound.set_frame_rate(16000)                
+            sound = sound.set_channels(1)   
             sound.export(wavFile, format="wav")
-            
         elif(file_type == ".mp4"):
+            #may need to fix conversion - not sure if 16 bit wav or not
             if(verbose): print("Converting Mp4 File:" + dir_path+'/'+loop[1]+'/'+file[0]+"/"+file_name)
             video = moviepy.editor.VideoFileClip(audio, verbose=verbose ,)
             #Extract the Audio
@@ -232,13 +237,10 @@ for loop in loopData:
             #audio file currently being processed
             audioSeg = subfile+"/"+seg.rsplit('/', 1)[1]
 
-            #Sleepy time 💤(｡-‿-｡)💤
-            sleep(0.01)
+            
             #file management
             os.makedirs(subfile)
             shutil.move(seg, audioSeg)
-            sleep(0.01)
-            #Wakey time ＼💤（´Ｏ｀）／
 
             #Alosourus - get IPA data
             outA_noTime = modelA.recognize(audioSeg)
@@ -252,56 +254,36 @@ for loop in loopData:
 
 
             #Vosk
-            # rec = KaldiRecognizer(modelV, 16000)
-            # rec.SetWords(True)
-            # wf = open(audioSeg, "rb")
-            # wf.read(44) # skip header
+            wf = wave.open(audioSeg, "rb")
+            if wf.getnchannels() != 1 or wf.getsampwidth() != 2 or wf.getcomptype() != "NONE":
+                print("Audio file must be WAV format mono PCM.")
+                sys.exit(1)
+            rec = KaldiRecognizer(modelV, wf.getframerate())
+            rec.SetWords(True)
+            rec.SetPartialWords(True)
 
-            # while True:
-            #     data = wf.read(2000)
-            #     if len(data) == 0:
-            #         break
-            #     if rec.AcceptWaveform(data):
-            #         res = json.loads(rec.Result())
-            #         if(verbose):
-            #             print (res)
-            #     else:
-            #         res = json.loads(rec.PartialResult())
+            while True:
+                data = wf.readframes(4000)
+                if len(data) == 0:
+                    break
+                if rec.AcceptWaveform(data):
+                    rec.Result()
+                else:
+                    rec.PartialResult()
 
-            # res = json.loads(rec.FinalResult())
-            # if(verbose):
-            #     print (res)
+            res = json.loads(rec.FinalResult())
+            with open( subfile+"/vosk_transcipt.txt", "a+") as text_file:
+                text_file.write(res["text"]+"\n")
 
-
-            # with open( subfile+"/vosk_transcipt.txt", "w") as text_file:
-            #     text_file.write(res["text"])
-                
-            # try:
-            #     with open( subfile+"/vosk_data.txt", "w") as text_file:
-            #         text_file.write(str(res["result"]))
-            # except:
-            #     with open( subfile+"/vosk_data.txt", "w") as text_file:
-            #         text_file.write(" ")
-
-
-                # try:
-                #     res_timestamped = res["result"]
-                # except:
-                #     print("slight error with Vosk timestamp transcipt")
-                #     res_timestamped = [{},{}]
-
-                # with open( subfile+"/VoskTranscipt_partial.txt", "w") as text_file:
-                #     text_file.write(out)
-                # with open( subfile+"/VoskTranscipt.txt", "w") as text_file:
-                #     text_file.write(res_text)
-                # with open( subfile+"/VoskTranscipt_timestamp.txt", "w") as text_file:
-                #     for item in res_timestamped:
-                #         text_file.write(str(item))
-
+            with open( subfile+"/vosk_timestamped.txt", "a+") as text_file:
+                try:
+                    for line in res['result']:
+                        text_file.write(str(line)+"\n")
+                except:
+                    text_file.write("silence")
             #Whisper AI - get text data 
             
             result_timestamped = modelW.transcribe(audioSeg, word_timestamps=True,language="en")
-           
             with open( subfile+"/Whisper_transcipt.txt", "w") as text_file:
                 text_file.write(result_timestamped["text"])
 
