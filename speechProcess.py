@@ -237,13 +237,10 @@ for loop in loopData:
             #audio file currently being processed
             audioSeg = subfile+"/"+seg.rsplit('/', 1)[1]
 
-            #Sleepy time 💤(｡-‿-｡)💤
-            sleep(0.01)
+            
             #file management
             os.makedirs(subfile)
             shutil.move(seg, audioSeg)
-            sleep(0.01)
-            #Wakey time ＼💤（´Ｏ｀）／
 
             #Alosourus - get IPA data
             outA_noTime = modelA.recognize(audioSeg)
@@ -281,8 +278,7 @@ for loop in loopData:
             with open( subfile+"/vosk_timestamped.txt", "a+") as text_file:
                 try:
                     for line in res['result']:
-                        text_file.write(str(line))
-                    text_file.write("\n")
+                        text_file.write(str(line)+"\n")
                 except:
                     text_file.write("silence")
             #Whisper AI - get text data 
