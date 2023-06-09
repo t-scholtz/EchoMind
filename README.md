@@ -138,6 +138,12 @@ To install pocketsphinx, use the pip command:
 
 ` pip3 install pocketsphinx `
 
+Then to get the phone dictotaionary for english, I would recommond cloning this git repo:
+
+` https://github.com/cmusphinx/pocketsphinx/tree/c178c8dc1948685ed93c6c4ee93122a7bc789cfd `
+
+Then you will want to get the path to model, and update it according in the script. This lets the script access the phone dictionary
+
 
 ## Talk Bank
 

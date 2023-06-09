@@ -9,6 +9,9 @@ import pydub
 import math
 import sys
 import vosk
+import librosa
+from pocketsphinx import pocketsphinx as ps
+from pocketsphinx import AudioFile
 import soundfile as sf
 import whisper_timestamped as whisper
 from pydub import AudioSegment
@@ -24,9 +27,11 @@ if "--verbose" in sys.argv:
 #Model chosen for Allosoarus -- see github page for more options
 modelA_path = "eng2102"
 #Model for Volk - see downloads page for more options
-modelV_path = "/home/parallels/Downloads/vosk-model-small-en-us-0.15"
+modelV_path = "/home/tim/Downloads/vosk-model-small-en-us-0.15"
 #Model chose for whisper
 modelW = whisper.load_model("base")
+#models for CMU
+MODEL_DIR = '/home/tim/Downloads/pocketsphinx/model'
 
 
 if not os.path.exists(modelV_path):
@@ -53,6 +58,22 @@ try:
 except:
     print(colored("Error: Could not load Allosoarus model. Make sure you downloaded model before running this script.",'red'))
     sys.exit(1)
+
+try:
+    # Create a decoder with certain model
+    config = ps.Decoder.default_config()
+    config.set_string('-hmm', os.path.join(MODEL_DIR, 'en-us/en-us'))
+    config.set_string('-allphone', os.path.join(MODEL_DIR, 'en-us/en-us-phone.lm.bin'))
+    config.set_float('-lw', 2.0)
+    config.set_float('-pip', 0.3)
+    config.set_float('-beam', 1e-10)
+    config.set_float('-pbeam', 1e-10)
+    config.set_boolean('-mmap', False)
+    config["lm"] = None
+except:
+    print(colored("Error: Could not load CMU model. Honestly I would just give up at this point",'red'))
+    sys.exit(1)
+
 
 #Recusively looks for all files in a given directory, and returns a list with a file path to them
 def getFilesInFolder(k):
@@ -291,6 +312,55 @@ for loop in loopData:
             with open( subfile+"/whisper_timestamped.txt", "w") as text_file:
                 for line in result_timestamped["segments"]:
                     text_file.write(str(line))
+            
+            #CMU Sphinx - I don't really know how this works, or how I got it to work
+
+            # Frames per Second
+            fps = 100
+            
+            # Decode streaming data
+            decoder = ps.Decoder(config)
+
+            # Convert into 16KHz mono '.raw' file
+            y, sr = librosa.load(path=audioSeg, sr=16000, mono=True)
+            sf.write(file=(audioSeg[:-3]+'raw'), data=y, samplerate=sr, subtype='PCM_16', format='RAW')
+
+            
+            audioPS =AudioFile((audioSeg),frate=fps)
+            for phrase in audioPS:
+                for s in phrase.seg():
+                    with open( subfile+"/Cmu_transcipt.txt", "a+") as text_file:
+                        text_file.write(s.word + " ")
+
+                    with open( subfile+"/Cmu_timestamped.txt", "a+") as text_file:
+                        text_file.write(s.word + "," +  str(s.start_frame / fps) +","+str( s.end_frame / fps)+"\n" )
+                
+                with open( subfile+"/Cmu_transcipt.txt", "a+") as text_file:
+                        text_file.write("Confidence: "+ str(phrase.confidence()))
+
+                with open( subfile+"/Cmu_timestamped.txt", "a+") as text_file:
+                        text_file.write("Confidence: "+ str(phrase.confidence()))
+
+            decoder.start_utt()
+            stream = open(audioSeg[:-3]+'raw', 'rb')
+            while True:
+                buf = stream.read(1024)
+                if buf:
+                    decoder.process_raw(buf, False, False)
+                else:
+                    break
+            decoder.end_utt()
+
+            pho = [seg.word for seg in decoder.seg()]
+
+            with open( subfile+"/Cmu_phone.txt", "w") as text_file:
+                text_file.write(str(pho))
+
+            with open( subfile+"/Cmu_phone_ts.txt", "w") as text_file:
+                for seg in decoder.seg():
+                    text_file.write(str(seg.word + "," +str( seg.start_frame/fps) + ","+ str(seg.end_frame/fps) +"\n"))
+
+
             
        
             
