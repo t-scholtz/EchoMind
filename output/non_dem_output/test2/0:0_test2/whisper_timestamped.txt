@@ -1,0 +1,161 @@
+{
+    "text": " He began a confused complaint against the wizard, who had vanished behind the curtain on the left.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.76,
+            "text": " He began a confused complaint against the wizard, who",
+            "tokens": [
+                50364,
+                634,
+                4283,
+                257,
+                9019,
+                20100,
+                1970,
+                264,
+                25807,
+                11,
+                567,
+                50500
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37145543098449707,
+            "compression_ratio": 1.1395348837209303,
+            "no_speech_prob": 0.0009714820771478117,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.6542431712150574
+                },
+                {
+                    "word": " began",
+                    "start": 0.34,
+                    "end": 0.58,
+                    "probability": 0.9959275126457214
+                },
+                {
+                    "word": " a",
+                    "start": 0.58,
+                    "end": 0.72,
+                    "probability": 0.9908438920974731
+                },
+                {
+                    "word": " confused",
+                    "start": 0.72,
+                    "end": 1.1,
+                    "probability": 0.9930517673492432
+                },
+                {
+                    "word": " complaint",
+                    "start": 1.1,
+                    "end": 1.52,
+                    "probability": 0.9913620352745056
+                },
+                {
+                    "word": " against",
+                    "start": 1.52,
+                    "end": 1.84,
+                    "probability": 0.9986534118652344
+                },
+                {
+                    "word": " the",
+                    "start": 1.84,
+                    "end": 2.04,
+                    "probability": 0.9859147071838379
+                },
+                {
+                    "word": " wizard,",
+                    "start": 2.04,
+                    "end": 2.32,
+                    "probability": 0.8920789957046509
+                },
+                {
+                    "word": " who",
+                    "start": 2.68,
+                    "end": 2.76,
+                    "probability": 0.9957234859466553
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.76,
+            "end": 4.54,
+            "text": " had vanished behind the curtain on the left.",
+            "tokens": [
+                50500,
+                632,
+                37518,
+                2261,
+                264,
+                26789,
+                322,
+                264,
+                1411,
+                13,
+                50646
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37145543098449707,
+            "compression_ratio": 1.1395348837209303,
+            "no_speech_prob": 0.0009714820771478117,
+            "words": [
+                {
+                    "word": " had",
+                    "start": 2.76,
+                    "end": 2.86,
+                    "probability": 0.40065595507621765
+                },
+                {
+                    "word": " vanished",
+                    "start": 2.86,
+                    "end": 3.12,
+                    "probability": 0.9280620217323303
+                },
+                {
+                    "word": " behind",
+                    "start": 3.12,
+                    "end": 3.52,
+                    "probability": 0.9857023358345032
+                },
+                {
+                    "word": " the",
+                    "start": 3.52,
+                    "end": 3.68,
+                    "probability": 0.9903609752655029
+                },
+                {
+                    "word": " curtain",
+                    "start": 3.68,
+                    "end": 3.96,
+                    "probability": 0.9958269000053406
+                },
+                {
+                    "word": " on",
+                    "start": 3.96,
+                    "end": 4.12,
+                    "probability": 0.9886766672134399
+                },
+                {
+                    "word": " the",
+                    "start": 4.12,
+                    "end": 4.26,
+                    "probability": 0.9981716871261597
+                },
+                {
+                    "word": " left.",
+                    "start": 4.26,
+                    "end": 4.54,
+                    "probability": 0.9806678295135498
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

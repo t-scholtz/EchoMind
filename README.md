@@ -70,7 +70,8 @@ sudo apt-get install python3-termcolor
 sudo apt-get install -y python3-pydub
 sudo apt-get install python3-moviepy 
 sudo apt install python3-numpy
-sudo apt-get install -y python-soundfile
+sudo apt-get install libsndfile1
+pip3 install soundfile
 ```
 
 **Windows**

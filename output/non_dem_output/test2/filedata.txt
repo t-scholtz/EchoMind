@@ -1,0 +1,8 @@
+The file came from: /test2.flac
+_______________
+Number of channels  - 1
+Sample Width - 2
+Frame rate  - 16000
+Number of Frames  - 78480
+lenght of Audio sample - 4.905
+Compression type  - not compressed --- Orignal file type: .flac

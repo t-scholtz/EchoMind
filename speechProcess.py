@@ -10,6 +10,7 @@ import math
 import sys
 import vosk
 import librosa
+import pyflac
 from pocketsphinx import pocketsphinx as ps
 from pocketsphinx import AudioFile
 import soundfile as sf
@@ -212,6 +213,9 @@ for loop in loopData:
                 audio.write_audiofile(wavFile)
             else:
                 audio.write_audiofile(wavFile,logger=None)
+        elif(file_type == '.flac'):
+                data, samplerate = sf.read(audio)
+                sf.write(wavFile, data, samplerate, subtype='PCM_16')
 
 
         conversion = AudioSegment.from_file(file=wavFile, format="wav")
@@ -310,8 +314,8 @@ for loop in loopData:
                 text_file.write(result_timestamped["text"])
 
             with open( subfile+"/whisper_timestamped.txt", "w") as text_file:
-                for line in result_timestamped["segments"]:
-                    text_file.write(str(line))
+                json_object = json.dumps(result_timestamped, indent=4)
+                text_file.write(json_object)
             
             #CMU Sphinx - I don't really know how this works, or how I got it to work
 
