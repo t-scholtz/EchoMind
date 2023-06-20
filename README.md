@@ -163,3 +163,13 @@ After cloning the repo and downloading + installing the required software, you s
 There is also a verbose mode,
 
 ` python speechProcess.py --verbose`
+
+
+## Testing output
+
+To analyses the accuracy of speech to text output, place tests into testData/input
+tests should be in the form of :
+
+exampleFolder \
+               ---- exampleFolder.audio
+               ---- text.txt (transciption text as a plain text file)
