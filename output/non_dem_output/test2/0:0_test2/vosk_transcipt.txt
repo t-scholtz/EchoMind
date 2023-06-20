@@ -1,1 +1,0 @@
-he began a confused complaint against the wizard who had vanished behind the curtain on the left

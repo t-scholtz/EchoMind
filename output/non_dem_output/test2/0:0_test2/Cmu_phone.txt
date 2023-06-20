@@ -1,1 +1,0 @@
-['SIL', 'JH', 'IH', 'B', 'IY', 'G', 'AE', 'N', 'IH', 'K', 'IH', 'N', 'F', 'Y', 'UW', 'Z', 'D', 'UW', 'T', 'UH', 'EY', 'D', 'IY', 'G', 'IH', 'N', 'T', 'P', 'W', 'Z', 'ER', 'T', 'F', 'EH', 'V', 'W', 'UW', 'V', 'EH', 'N', 'AH', 'SH', 'B', 'L', 'HH', 'AY', 'N', 'D', 'UH', 'K', 'ER', 'N', 'AA', 'N', 'D', 'L', 'OY', 'F', 'D', 'SIL', '+NSN+']
