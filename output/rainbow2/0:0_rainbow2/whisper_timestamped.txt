@@ -1,0 +1,343 @@
+{
+    "text": " When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. The rainbow is a division of white light into many beautiful colors. These take the shape of a long round arch with the",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.32,
+            "end": 5.72,
+            "text": " When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.",
+            "tokens": [
+                50364,
+                1133,
+                264,
+                18379,
+                16750,
+                3342,
+                471,
+                49715,
+                294,
+                264,
+                1988,
+                11,
+                436,
+                605,
+                382,
+                257,
+                582,
+                1434,
+                293,
+                1254,
+                257,
+                18526,
+                13,
+                50712
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1818667741922232,
+            "compression_ratio": 1.4680851063829787,
+            "no_speech_prob": 0.0026953162159770727,
+            "words": [
+                {
+                    "word": " When",
+                    "start": 0.32,
+                    "end": 0.94,
+                    "probability": 0.7597603797912598
+                },
+                {
+                    "word": " the",
+                    "start": 0.94,
+                    "end": 1.06,
+                    "probability": 0.9844042658805847
+                },
+                {
+                    "word": " sunlight",
+                    "start": 1.06,
+                    "end": 1.46,
+                    "probability": 0.8611236214637756
+                },
+                {
+                    "word": " strikes",
+                    "start": 1.46,
+                    "end": 1.96,
+                    "probability": 0.9781967997550964
+                },
+                {
+                    "word": " raindrops",
+                    "start": 1.96,
+                    "end": 2.4,
+                    "probability": 0.9677607814470927
+                },
+                {
+                    "word": " in",
+                    "start": 2.4,
+                    "end": 2.72,
+                    "probability": 0.9422513842582703
+                },
+                {
+                    "word": " the",
+                    "start": 2.72,
+                    "end": 2.96,
+                    "probability": 0.9743558764457703
+                },
+                {
+                    "word": " air,",
+                    "start": 2.96,
+                    "end": 3.26,
+                    "probability": 0.9982670545578003
+                },
+                {
+                    "word": " they",
+                    "start": 3.88,
+                    "end": 3.94,
+                    "probability": 0.9302918314933777
+                },
+                {
+                    "word": " act",
+                    "start": 3.94,
+                    "end": 4.24,
+                    "probability": 0.9971106052398682
+                },
+                {
+                    "word": " as",
+                    "start": 4.24,
+                    "end": 4.38,
+                    "probability": 0.9978431463241577
+                },
+                {
+                    "word": " a",
+                    "start": 4.38,
+                    "end": 4.46,
+                    "probability": 0.9845137000083923
+                },
+                {
+                    "word": " prism",
+                    "start": 4.46,
+                    "end": 4.8,
+                    "probability": 0.9539175033569336
+                },
+                {
+                    "word": " and",
+                    "start": 4.8,
+                    "end": 4.98,
+                    "probability": 0.622064471244812
+                },
+                {
+                    "word": " form",
+                    "start": 4.98,
+                    "end": 5.22,
+                    "probability": 0.9048852920532227
+                },
+                {
+                    "word": " a",
+                    "start": 5.22,
+                    "end": 5.36,
+                    "probability": 0.992716372013092
+                },
+                {
+                    "word": " rainbow.",
+                    "start": 5.36,
+                    "end": 5.72,
+                    "probability": 0.8987342119216919
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.56,
+            "end": 10.42,
+            "text": " The rainbow is a division of white light into many beautiful colors.",
+            "tokens": [
+                50712,
+                440,
+                18526,
+                307,
+                257,
+                10044,
+                295,
+                2418,
+                1442,
+                666,
+                867,
+                2238,
+                4577,
+                13,
+                50968
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1818667741922232,
+            "compression_ratio": 1.4680851063829787,
+            "no_speech_prob": 0.0026953162159770727,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 6.56,
+                    "end": 6.96,
+                    "probability": 0.9904524087905884
+                },
+                {
+                    "word": " rainbow",
+                    "start": 6.96,
+                    "end": 7.38,
+                    "probability": 0.9923762679100037
+                },
+                {
+                    "word": " is",
+                    "start": 7.38,
+                    "end": 7.7,
+                    "probability": 0.997968852519989
+                },
+                {
+                    "word": " a",
+                    "start": 7.7,
+                    "end": 7.82,
+                    "probability": 0.7518728971481323
+                },
+                {
+                    "word": " division",
+                    "start": 7.82,
+                    "end": 8.22,
+                    "probability": 0.9865520000457764
+                },
+                {
+                    "word": " of",
+                    "start": 8.22,
+                    "end": 8.42,
+                    "probability": 0.9962378740310669
+                },
+                {
+                    "word": " white",
+                    "start": 8.42,
+                    "end": 8.68,
+                    "probability": 0.9773149490356445
+                },
+                {
+                    "word": " light",
+                    "start": 8.68,
+                    "end": 8.96,
+                    "probability": 0.9814866185188293
+                },
+                {
+                    "word": " into",
+                    "start": 8.96,
+                    "end": 9.26,
+                    "probability": 0.983496904373169
+                },
+                {
+                    "word": " many",
+                    "start": 9.26,
+                    "end": 9.56,
+                    "probability": 0.9928015470504761
+                },
+                {
+                    "word": " beautiful",
+                    "start": 9.56,
+                    "end": 9.98,
+                    "probability": 0.9911717772483826
+                },
+                {
+                    "word": " colors.",
+                    "start": 9.98,
+                    "end": 10.42,
+                    "probability": 0.7620489597320557
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 1042,
+            "start": 11.46,
+            "end": 14.98,
+            "text": " These take the shape of a long round arch with the",
+            "tokens": [
+                50412,
+                1981,
+                747,
+                264,
+                3909,
+                295,
+                257,
+                938,
+                3098,
+                3912,
+                365,
+                264,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.44392333711896625,
+            "compression_ratio": 0.9259259259259259,
+            "no_speech_prob": 0.6263871192932129,
+            "words": [
+                {
+                    "word": " These",
+                    "start": 11.46,
+                    "end": 12.02,
+                    "probability": 0.3031635880470276
+                },
+                {
+                    "word": " take",
+                    "start": 12.02,
+                    "end": 12.3,
+                    "probability": 0.9866700768470764
+                },
+                {
+                    "word": " the",
+                    "start": 12.3,
+                    "end": 12.48,
+                    "probability": 0.9537231922149658
+                },
+                {
+                    "word": " shape",
+                    "start": 12.48,
+                    "end": 12.74,
+                    "probability": 0.9993041753768921
+                },
+                {
+                    "word": " of",
+                    "start": 12.74,
+                    "end": 12.94,
+                    "probability": 0.9950447082519531
+                },
+                {
+                    "word": " a",
+                    "start": 12.94,
+                    "end": 13.04,
+                    "probability": 0.9720637798309326
+                },
+                {
+                    "word": " long",
+                    "start": 13.04,
+                    "end": 13.38,
+                    "probability": 0.9928832054138184
+                },
+                {
+                    "word": " round",
+                    "start": 13.38,
+                    "end": 13.9,
+                    "probability": 0.9425399899482727
+                },
+                {
+                    "word": " arch",
+                    "start": 13.9,
+                    "end": 14.38,
+                    "probability": 0.991795003414154
+                },
+                {
+                    "word": " with",
+                    "start": 14.38,
+                    "end": 14.88,
+                    "probability": 0.9433975219726562
+                },
+                {
+                    "word": " the",
+                    "start": 14.88,
+                    "end": 14.98,
+                    "probability": 0.7517942786216736
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,397 @@
+{
+    "text": " Okay, somebody's ordered a client bottle. Ask my robot, robot delivers the box of bottles. I bring it over here. I go away at step one. Take a picture of it. All these mathematicians are smiling at it. Whether permitting, I'm going to walk out to the other side.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 9.1,
+            "text": " Okay, somebody's ordered a client bottle. Ask my robot, robot delivers the box of bottles. I bring it over here. I go away at step one. Take a picture of it.",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                2618,
+                311,
+                8866,
+                257,
+                6423,
+                7817,
+                13,
+                12320,
+                452,
+                7881,
+                11,
+                7881,
+                24860,
+                264,
+                2424,
+                295,
+                15923,
+                13,
+                286,
+                1565,
+                309,
+                670,
+                510,
+                13,
+                286,
+                352,
+                1314,
+                412,
+                1823,
+                472,
+                13,
+                3664,
+                257,
+                3036,
+                295,
+                309,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40404661963967714,
+            "compression_ratio": 1.4719101123595506,
+            "no_speech_prob": 0.011146510019898415,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.4219669997692108
+                },
+                {
+                    "word": " somebody's",
+                    "start": 0.64,
+                    "end": 1.22,
+                    "probability": 0.9485271573066711
+                },
+                {
+                    "word": " ordered",
+                    "start": 1.22,
+                    "end": 1.4,
+                    "probability": 0.8129792213439941
+                },
+                {
+                    "word": " a",
+                    "start": 1.4,
+                    "end": 1.58,
+                    "probability": 0.5382989048957825
+                },
+                {
+                    "word": " client",
+                    "start": 1.58,
+                    "end": 1.82,
+                    "probability": 0.23132707178592682
+                },
+                {
+                    "word": " bottle.",
+                    "start": 1.82,
+                    "end": 2.1,
+                    "probability": 0.8391525149345398
+                },
+                {
+                    "word": " Ask",
+                    "start": 2.4,
+                    "end": 2.58,
+                    "probability": 0.9551668763160706
+                },
+                {
+                    "word": " my",
+                    "start": 2.58,
+                    "end": 2.8,
+                    "probability": 0.5273240804672241
+                },
+                {
+                    "word": " robot,",
+                    "start": 2.8,
+                    "end": 3.12,
+                    "probability": 0.9572124481201172
+                },
+                {
+                    "word": " robot",
+                    "start": 3.12,
+                    "end": 3.58,
+                    "probability": 0.659381091594696
+                },
+                {
+                    "word": " delivers",
+                    "start": 3.58,
+                    "end": 3.98,
+                    "probability": 0.5871558785438538
+                },
+                {
+                    "word": " the",
+                    "start": 3.98,
+                    "end": 4.34,
+                    "probability": 0.6373253464698792
+                },
+                {
+                    "word": " box",
+                    "start": 4.34,
+                    "end": 4.64,
+                    "probability": 0.9565660357475281
+                },
+                {
+                    "word": " of",
+                    "start": 4.64,
+                    "end": 4.78,
+                    "probability": 0.7258527874946594
+                },
+                {
+                    "word": " bottles.",
+                    "start": 4.78,
+                    "end": 5.04,
+                    "probability": 0.9908230304718018
+                },
+                {
+                    "word": " I",
+                    "start": 5.22,
+                    "end": 5.26,
+                    "probability": 0.9871608018875122
+                },
+                {
+                    "word": " bring",
+                    "start": 5.26,
+                    "end": 5.48,
+                    "probability": 0.9869676232337952
+                },
+                {
+                    "word": " it",
+                    "start": 5.48,
+                    "end": 5.64,
+                    "probability": 0.9974034428596497
+                },
+                {
+                    "word": " over",
+                    "start": 5.64,
+                    "end": 5.84,
+                    "probability": 0.9964970946311951
+                },
+                {
+                    "word": " here.",
+                    "start": 5.84,
+                    "end": 6.1,
+                    "probability": 0.9837120175361633
+                },
+                {
+                    "word": " I",
+                    "start": 6.42,
+                    "end": 6.52,
+                    "probability": 0.9952636957168579
+                },
+                {
+                    "word": " go",
+                    "start": 6.52,
+                    "end": 6.68,
+                    "probability": 0.9948878884315491
+                },
+                {
+                    "word": " away",
+                    "start": 6.68,
+                    "end": 6.98,
+                    "probability": 0.46264711022377014
+                },
+                {
+                    "word": " at",
+                    "start": 6.98,
+                    "end": 7.18,
+                    "probability": 0.7017810344696045
+                },
+                {
+                    "word": " step",
+                    "start": 7.18,
+                    "end": 7.6,
+                    "probability": 0.7804594039916992
+                },
+                {
+                    "word": " one.",
+                    "start": 7.6,
+                    "end": 7.9,
+                    "probability": 0.8333326578140259
+                },
+                {
+                    "word": " Take",
+                    "start": 8.2,
+                    "end": 8.3,
+                    "probability": 0.9907107949256897
+                },
+                {
+                    "word": " a",
+                    "start": 8.3,
+                    "end": 8.46,
+                    "probability": 0.998908519744873
+                },
+                {
+                    "word": " picture",
+                    "start": 8.46,
+                    "end": 8.78,
+                    "probability": 0.9992423057556152
+                },
+                {
+                    "word": " of",
+                    "start": 8.78,
+                    "end": 8.94,
+                    "probability": 0.9937688112258911
+                },
+                {
+                    "word": " it.",
+                    "start": 8.94,
+                    "end": 9.1,
+                    "probability": 0.9973025321960449
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 10.38,
+            "end": 14.98,
+            "text": " All these mathematicians are smiling at it. Whether permitting, I'm going to walk out to the other side.",
+            "tokens": [
+                50864,
+                1057,
+                613,
+                32811,
+                2567,
+                366,
+                16005,
+                412,
+                309,
+                13,
+                8503,
+                4784,
+                2414,
+                11,
+                286,
+                478,
+                516,
+                281,
+                1792,
+                484,
+                281,
+                264,
+                661,
+                1252,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40404661963967714,
+            "compression_ratio": 1.4719101123595506,
+            "no_speech_prob": 0.011146510019898415,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 10.38,
+                    "end": 10.76,
+                    "probability": 0.9350064992904663
+                },
+                {
+                    "word": " these",
+                    "start": 10.76,
+                    "end": 11.02,
+                    "probability": 0.9892755150794983
+                },
+                {
+                    "word": " mathematicians",
+                    "start": 11.02,
+                    "end": 11.86,
+                    "probability": 0.9982258677482605
+                },
+                {
+                    "word": " are",
+                    "start": 11.86,
+                    "end": 11.98,
+                    "probability": 0.9981164932250977
+                },
+                {
+                    "word": " smiling",
+                    "start": 11.98,
+                    "end": 12.42,
+                    "probability": 0.9922156929969788
+                },
+                {
+                    "word": " at",
+                    "start": 12.42,
+                    "end": 12.7,
+                    "probability": 0.9968390464782715
+                },
+                {
+                    "word": " it.",
+                    "start": 12.7,
+                    "end": 12.82,
+                    "probability": 0.9921742677688599
+                },
+                {
+                    "word": " Whether",
+                    "start": 13.1,
+                    "end": 13.26,
+                    "probability": 0.6807469725608826
+                },
+                {
+                    "word": " permitting,",
+                    "start": 13.26,
+                    "end": 13.72,
+                    "probability": 0.9494595527648926
+                },
+                {
+                    "word": " I'm",
+                    "start": 14.06,
+                    "end": 14.26,
+                    "probability": 0.9912156462669373
+                },
+                {
+                    "word": " going",
+                    "start": 14.26,
+                    "end": 14.36,
+                    "probability": 0.7220456600189209
+                },
+                {
+                    "word": " to",
+                    "start": 14.36,
+                    "end": 14.46,
+                    "probability": 0.9983349442481995
+                },
+                {
+                    "word": " walk",
+                    "start": 14.46,
+                    "end": 14.64,
+                    "probability": 0.9901987314224243
+                },
+                {
+                    "word": " out",
+                    "start": 14.64,
+                    "end": 14.88,
+                    "probability": 0.9213211536407471
+                },
+                {
+                    "word": " to",
+                    "start": 14.88,
+                    "end": 14.98,
+                    "probability": 0.6502649784088135
+                },
+                {
+                    "word": " the",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.28391319513320923
+                },
+                {
+                    "word": " other",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.03877661004662514
+                },
+                {
+                    "word": " side.",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.48850739002227783
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,372 @@
+{
+    "text": " The exchange of ideas, thoughts and feelings that happens when people talk to each other, and as usual, we'll be learning some new vocabulary as well. With the rise of Twitter and social media, which encourages us to give our opinion on a subject,",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.46,
+            "end": 5.9,
+            "text": " The exchange of ideas, thoughts and feelings that happens when people talk to each other,",
+            "tokens": [
+                50364,
+                440,
+                7742,
+                295,
+                3487,
+                11,
+                4598,
+                293,
+                6640,
+                300,
+                2314,
+                562,
+                561,
+                751,
+                281,
+                1184,
+                661,
+                11,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2988223042981378,
+            "compression_ratio": 1.4277456647398843,
+            "no_speech_prob": 0.14647376537322998,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.46,
+                    "end": 1.0,
+                    "probability": 0.09464094787836075
+                },
+                {
+                    "word": " exchange",
+                    "start": 1.0,
+                    "end": 1.32,
+                    "probability": 0.43445947766304016
+                },
+                {
+                    "word": " of",
+                    "start": 1.32,
+                    "end": 1.66,
+                    "probability": 0.9957523345947266
+                },
+                {
+                    "word": " ideas,",
+                    "start": 1.66,
+                    "end": 2.06,
+                    "probability": 0.9961469173431396
+                },
+                {
+                    "word": " thoughts",
+                    "start": 2.46,
+                    "end": 2.66,
+                    "probability": 0.9957542419433594
+                },
+                {
+                    "word": " and",
+                    "start": 2.66,
+                    "end": 2.96,
+                    "probability": 0.8112816214561462
+                },
+                {
+                    "word": " feelings",
+                    "start": 2.96,
+                    "end": 3.4,
+                    "probability": 0.9793758988380432
+                },
+                {
+                    "word": " that",
+                    "start": 3.4,
+                    "end": 3.8,
+                    "probability": 0.9528363347053528
+                },
+                {
+                    "word": " happens",
+                    "start": 3.8,
+                    "end": 4.16,
+                    "probability": 0.8923312425613403
+                },
+                {
+                    "word": " when",
+                    "start": 4.16,
+                    "end": 4.46,
+                    "probability": 0.9940471649169922
+                },
+                {
+                    "word": " people",
+                    "start": 4.46,
+                    "end": 4.84,
+                    "probability": 0.9955247640609741
+                },
+                {
+                    "word": " talk",
+                    "start": 4.84,
+                    "end": 5.22,
+                    "probability": 0.9983612895011902
+                },
+                {
+                    "word": " to",
+                    "start": 5.22,
+                    "end": 5.44,
+                    "probability": 0.9971216320991516
+                },
+                {
+                    "word": " each",
+                    "start": 5.44,
+                    "end": 5.68,
+                    "probability": 0.9993801116943359
+                },
+                {
+                    "word": " other,",
+                    "start": 5.68,
+                    "end": 5.9,
+                    "probability": 0.9895012974739075
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.08,
+            "end": 9.5,
+            "text": " and as usual, we'll be learning some new vocabulary as well.",
+            "tokens": [
+                50678,
+                293,
+                382,
+                7713,
+                11,
+                321,
+                603,
+                312,
+                2539,
+                512,
+                777,
+                19864,
+                382,
+                731,
+                13,
+                50848
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2988223042981378,
+            "compression_ratio": 1.4277456647398843,
+            "no_speech_prob": 0.14647376537322998,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 6.08,
+                    "end": 6.28,
+                    "probability": 0.9766421318054199
+                },
+                {
+                    "word": " as",
+                    "start": 6.28,
+                    "end": 6.52,
+                    "probability": 0.7591776847839355
+                },
+                {
+                    "word": " usual,",
+                    "start": 6.52,
+                    "end": 7.0,
+                    "probability": 0.9982699155807495
+                },
+                {
+                    "word": " we'll",
+                    "start": 7.16,
+                    "end": 7.5,
+                    "probability": 0.8187733888626099
+                },
+                {
+                    "word": " be",
+                    "start": 7.5,
+                    "end": 7.6,
+                    "probability": 0.9913768768310547
+                },
+                {
+                    "word": " learning",
+                    "start": 7.6,
+                    "end": 7.9,
+                    "probability": 0.9986602067947388
+                },
+                {
+                    "word": " some",
+                    "start": 7.9,
+                    "end": 8.16,
+                    "probability": 0.9827956557273865
+                },
+                {
+                    "word": " new",
+                    "start": 8.16,
+                    "end": 8.4,
+                    "probability": 0.9746078848838806
+                },
+                {
+                    "word": " vocabulary",
+                    "start": 8.4,
+                    "end": 8.94,
+                    "probability": 0.9757446050643921
+                },
+                {
+                    "word": " as",
+                    "start": 8.94,
+                    "end": 9.3,
+                    "probability": 0.9367615580558777
+                },
+                {
+                    "word": " well.",
+                    "start": 9.3,
+                    "end": 9.5,
+                    "probability": 0.9964967370033264
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.7,
+            "end": 14.76,
+            "text": " With the rise of Twitter and social media, which encourages us to give our opinion on a subject,",
+            "tokens": [
+                50848,
+                2022,
+                264,
+                6272,
+                295,
+                5794,
+                293,
+                2093,
+                3021,
+                11,
+                597,
+                28071,
+                505,
+                281,
+                976,
+                527,
+                4800,
+                322,
+                257,
+                3983,
+                11,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2988223042981378,
+            "compression_ratio": 1.4277456647398843,
+            "no_speech_prob": 0.14647376537322998,
+            "words": [
+                {
+                    "word": " With",
+                    "start": 9.7,
+                    "end": 9.82,
+                    "probability": 0.7257502675056458
+                },
+                {
+                    "word": " the",
+                    "start": 9.82,
+                    "end": 9.98,
+                    "probability": 0.9842155575752258
+                },
+                {
+                    "word": " rise",
+                    "start": 9.98,
+                    "end": 10.22,
+                    "probability": 0.9883922934532166
+                },
+                {
+                    "word": " of",
+                    "start": 10.22,
+                    "end": 10.44,
+                    "probability": 0.9971940517425537
+                },
+                {
+                    "word": " Twitter",
+                    "start": 10.44,
+                    "end": 10.82,
+                    "probability": 0.6373558640480042
+                },
+                {
+                    "word": " and",
+                    "start": 10.82,
+                    "end": 11.1,
+                    "probability": 0.973899781703949
+                },
+                {
+                    "word": " social",
+                    "start": 11.1,
+                    "end": 11.42,
+                    "probability": 0.9773059487342834
+                },
+                {
+                    "word": " media,",
+                    "start": 11.42,
+                    "end": 11.9,
+                    "probability": 0.9988681077957153
+                },
+                {
+                    "word": " which",
+                    "start": 12.16,
+                    "end": 12.28,
+                    "probability": 0.9895800948143005
+                },
+                {
+                    "word": " encourages",
+                    "start": 12.28,
+                    "end": 12.76,
+                    "probability": 0.9016528129577637
+                },
+                {
+                    "word": " us",
+                    "start": 12.76,
+                    "end": 13.06,
+                    "probability": 0.9986141920089722
+                },
+                {
+                    "word": " to",
+                    "start": 13.06,
+                    "end": 13.3,
+                    "probability": 0.9968774318695068
+                },
+                {
+                    "word": " give",
+                    "start": 13.3,
+                    "end": 13.44,
+                    "probability": 0.9960122108459473
+                },
+                {
+                    "word": " our",
+                    "start": 13.44,
+                    "end": 13.64,
+                    "probability": 0.994750440120697
+                },
+                {
+                    "word": " opinion",
+                    "start": 13.64,
+                    "end": 14.06,
+                    "probability": 0.9849580526351929
+                },
+                {
+                    "word": " on",
+                    "start": 14.06,
+                    "end": 14.28,
+                    "probability": 0.9971729516983032
+                },
+                {
+                    "word": " a",
+                    "start": 14.28,
+                    "end": 14.4,
+                    "probability": 0.9894054532051086
+                },
+                {
+                    "word": " subject,",
+                    "start": 14.4,
+                    "end": 14.76,
+                    "probability": 0.9992893934249878
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

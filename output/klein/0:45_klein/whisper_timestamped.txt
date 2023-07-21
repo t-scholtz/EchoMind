@@ -1,0 +1,203 @@
+{
+    "text": " Take a picture of the guy against the sky. Against whatever is blossoming, whatever leaves there are. How about, hey.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.04,
+            "end": 4.3,
+            "text": " Take a picture of the guy against the sky.",
+            "tokens": [
+                50364,
+                3664,
+                257,
+                3036,
+                295,
+                264,
+                2146,
+                1970,
+                264,
+                5443,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4259105451179273,
+            "compression_ratio": 1.1818181818181819,
+            "no_speech_prob": 0.14578476548194885,
+            "words": [
+                {
+                    "word": " Take",
+                    "start": 1.04,
+                    "end": 1.72,
+                    "probability": 0.20022240281105042
+                },
+                {
+                    "word": " a",
+                    "start": 1.72,
+                    "end": 2.08,
+                    "probability": 0.9899069666862488
+                },
+                {
+                    "word": " picture",
+                    "start": 2.08,
+                    "end": 2.4,
+                    "probability": 0.9978297352790833
+                },
+                {
+                    "word": " of",
+                    "start": 2.4,
+                    "end": 2.62,
+                    "probability": 0.9949291944503784
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 2.74,
+                    "probability": 0.991191565990448
+                },
+                {
+                    "word": " guy",
+                    "start": 2.74,
+                    "end": 2.94,
+                    "probability": 0.9904119372367859
+                },
+                {
+                    "word": " against",
+                    "start": 2.94,
+                    "end": 3.72,
+                    "probability": 0.6974012851715088
+                },
+                {
+                    "word": " the",
+                    "start": 3.72,
+                    "end": 3.92,
+                    "probability": 0.9515630602836609
+                },
+                {
+                    "word": " sky.",
+                    "start": 3.92,
+                    "end": 4.3,
+                    "probability": 0.9251301884651184
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.38,
+            "end": 9.12,
+            "text": " Against whatever is blossoming, whatever leaves there are.",
+            "tokens": [
+                50614,
+                29995,
+                2035,
+                307,
+                22956,
+                10539,
+                11,
+                2035,
+                5510,
+                456,
+                366,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4259105451179273,
+            "compression_ratio": 1.1818181818181819,
+            "no_speech_prob": 0.14578476548194885,
+            "words": [
+                {
+                    "word": " Against",
+                    "start": 5.38,
+                    "end": 6.6,
+                    "probability": 0.9047903418540955
+                },
+                {
+                    "word": " whatever",
+                    "start": 6.6,
+                    "end": 6.98,
+                    "probability": 0.9615001678466797
+                },
+                {
+                    "word": " is",
+                    "start": 6.98,
+                    "end": 7.32,
+                    "probability": 0.9043042063713074
+                },
+                {
+                    "word": " blossoming,",
+                    "start": 7.32,
+                    "end": 7.88,
+                    "probability": 0.9964846670627594
+                },
+                {
+                    "word": " whatever",
+                    "start": 8.12,
+                    "end": 8.28,
+                    "probability": 0.969196617603302
+                },
+                {
+                    "word": " leaves",
+                    "start": 8.28,
+                    "end": 8.62,
+                    "probability": 0.9733924865722656
+                },
+                {
+                    "word": " there",
+                    "start": 8.62,
+                    "end": 8.94,
+                    "probability": 0.9039683938026428
+                },
+                {
+                    "word": " are.",
+                    "start": 8.94,
+                    "end": 9.12,
+                    "probability": 0.8674763441085815
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.08,
+            "end": 12.68,
+            "text": " How about, hey.",
+            "tokens": [
+                50864,
+                1012,
+                466,
+                11,
+                4177,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4259105451179273,
+            "compression_ratio": 1.1818181818181819,
+            "no_speech_prob": 0.14578476548194885,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 11.08,
+                    "end": 11.76,
+                    "probability": 0.6322715282440186
+                },
+                {
+                    "word": " about,",
+                    "start": 11.76,
+                    "end": 11.92,
+                    "probability": 0.9545500874519348
+                },
+                {
+                    "word": " hey.",
+                    "start": 12.38,
+                    "end": 12.68,
+                    "probability": 0.7616199254989624
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

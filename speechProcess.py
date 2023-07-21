@@ -19,6 +19,13 @@ from pydub import AudioSegment
 from termcolor import colored
 from allosaurus.app import read_recognizer
 from vosk import Model, KaldiRecognizer, SetLogLevel
+import subprocess as s
+import os
+import string
+import soundfile
+from collections import Counter
+from espnet_model_zoo.downloader import ModelDownloader
+from espnet2.bin.asr_inference import Speech2Text
 
 #Controls some of the optional print statements
 verbose = False
@@ -31,6 +38,8 @@ modelA_path = "eng2102"
 modelV_path = "/home/tim/Downloads/vosk-model-small-en-us-0.15"
 #Model chose for whisper
 modelW = whisper.load_model("base")
+#Model for Espnet - maybe better ones, couldn;t find though
+modelE = "byan/librispeech_asr_train_asr_conformer_raw_bpe_batch_bins30000000_accum_grad3_optim_conflr0.001_sp"
 #models for CMU
 MODEL_DIR = '/home/tim/Downloads/pocketsphinx/model'
 
@@ -51,6 +60,23 @@ try:
 
 except:
     print(colored("Error: Could not instatiate Vosk model",'red'))
+    sys.exit(1)
+
+try:
+    print("downloading espnet moddel")
+    d = ModelDownloader()
+    speech2text = Speech2Text(
+        **d.download_and_unpack(modelE),
+        device="cpu", #cuda if gpu
+        minlenratio=0.0,
+        maxlenratio=0.0,
+        ctc_weight=0.3,
+        beam_size=10,
+        batch_size=0,
+        nbest=1
+    )
+except:
+    print(colored("Error: Could not download and run Espnet model",'red'))
     sys.exit(1)
 
 
@@ -74,6 +100,69 @@ try:
 except:
     print(colored("Error: Could not load CMU model. Honestly I would just give up at this point",'red'))
     sys.exit(1)
+
+def combine_transcripts(transcripts):
+    for i in range(len(transcripts)):
+        transcripts[i] = "start: " + transcripts[i] + " ;end"
+
+    # Find segments that exist in all transcripts
+    # Find word frequencies across all transcripts
+    word_frequencies = Counter()
+    for transcript in transcripts:
+        word_frequencies.update(transcript.split())
+
+    # Find segments that exist in all transcripts
+    num_transcripts = len(transcripts)
+    common_segments = set(word for word, count in word_frequencies.items() if count == num_transcripts)
+
+    # Split transcripts into matching and non-matching parts
+    matching_parts = []
+    non_matching_parts = []
+    for transcript in transcripts:
+        transcript_parts = []
+        current_part = []
+        for word in transcript.split():
+            if word in common_segments:
+                if current_part:
+                    transcript_parts.append(current_part)
+                    current_part = []
+                transcript_parts.append([word])
+            else:
+                current_part.append(word)
+        if current_part:
+            transcript_parts.append(current_part)
+        matching_parts.append(transcript_parts)
+
+    # Insert <blank> into non-matching parts
+    max_len = max(len(sublist) for sublist in matching_parts)
+    for sublist in matching_parts:
+        while len(sublist) < max_len:
+            sublist.append(['<blank>'])
+
+    # Insert <blank> into non-matching parts
+    size = len(matching_parts)
+    for count in range(max([len(i) for i in matching_parts])):
+        if(all(matching_parts[0][count] == sublist[count] for sublist in matching_parts[1:])):
+            pass
+        else:
+            if(all(len(matching_parts[0][count]) == len(sublist[count]) for sublist in matching_parts[1:])):
+                pass
+            else:
+                maxLen = max([len((matching_parts[i][count])) for i in range(3)])
+
+                for j in range(3):
+                    while len(matching_parts[j][count]) < maxLen:
+                        matching_parts[j][count].append('<blank>')
+
+    # Choose most common word at each position
+    final_transcript = []
+    for parts in zip(*matching_parts):
+        for i in range(len(parts[0])):
+            word_counts = Counter([part[i] for part in parts])
+            most_common_word = word_counts.most_common(1)[0][0]
+            final_transcript.append(most_common_word)
+
+    return ' '.join(final_transcript)
 
 
 #Recusively looks for all files in a given directory, and returns a list with a file path to them
@@ -243,22 +332,34 @@ for audio in input:
 
         #audio file currently being processed
         audioSeg = subfile+"/"+seg.rsplit('/', 1)[1]
+        transciption = []
 
         
         #file management
         os.makedirs(subfile)
         shutil.move(seg, audioSeg)
 
-        #Alosourus - get IPA data
-        outA_noTime = modelA.recognize(audioSeg)
-        outA_Time = modelA.recognize(audioSeg, timestamp=True)
+        # #Alosourus - get IPA data
+        # outA_noTime = modelA.recognize(audioSeg)
+        # outA_Time = modelA.recognize(audioSeg, timestamp=True)
 
-        with open( subfile+"/Alosourus_noTime.txt", "w") as text_file:
-            text_file.write(outA_noTime)
+        # with open( subfile+"/Alosourus_noTime.txt", "w") as text_file:
+        #     text_file.write(outA_noTime)
 
-        with open( subfile+"/Alosourus_Time.txt", "w") as text_file:
-            text_file.write(outA_Time)
+        # with open( subfile+"/Alosourus_Time.txt", "w") as text_file:
+        #     text_file.write(outA_Time)
 
+        #Whisper AI - get text data 
+        
+        result_timestamped = modelW.transcribe(audioSeg, word_timestamps=True,language="en")
+        
+        with open( subfile+"/Whisper_transcipt.txt", "w") as text_file:
+            text_file.write(result_timestamped["text"])
+            transciption.append(result_timestamped["text"])
+
+        with open( subfile+"/whisper_timestamped.txt", "w") as text_file:
+            json_object = json.dumps(result_timestamped, indent=4)
+            text_file.write(json_object)
 
         #Vosk
         wf = wave.open(audioSeg, "rb")
@@ -286,8 +387,11 @@ for audio in input:
         with open(subfile+"/vosk_timestamped.txt", "w") as text_file:
             text_file.write(" ")
         with open( subfile+"/vosk_transcipt.txt", "a+") as text_file:
+            temp = ""
             for result in res:
                 text_file.write(result["text"]+"\n")
+                temp +=(result["text"]+" ")
+            transciption.append(temp)
         with open( subfile+"/vosk_timestamped.txt", "a+") as text_file:
             for result in res:
                 try:
@@ -295,60 +399,76 @@ for audio in input:
                         text_file.write(str(line)+"\n")
                 except:
                     text_file.write("silence")
-        #Whisper AI - get text data 
         
-        result_timestamped = modelW.transcribe(audioSeg, word_timestamps=True,language="en")
         
-        with open( subfile+"/Whisper_transcipt.txt", "w") as text_file:
-            text_file.write(result_timestamped["text"])
+        # #CMU Sphinx - I don't really know how this works, or how I got it to work
 
-        with open( subfile+"/whisper_timestamped.txt", "w") as text_file:
-            json_object = json.dumps(result_timestamped, indent=4)
-            text_file.write(json_object)
+        # # Frames per Second
+        # fps = 100
         
-        #CMU Sphinx - I don't really know how this works, or how I got it to work
+        # # Decode streaming data
+        # decoder = ps.Decoder(config)
 
-        # Frames per Second
-        fps = 100
-        
-        # Decode streaming data
-        decoder = ps.Decoder(config)
+        # # Convert into 16KHz mono '.raw' file
+        # # y, sr = librosa.load(path=audioSeg, sr=16000, mono=True)
+        # # sf.write(file=(audioSeg[:-3]+'raw'), data=y, samplerate=sr, subtype='PCM_16', format='RAW')
 
-        # Convert into 16KHz mono '.raw' file
-        y, sr = librosa.load(path=audioSeg, sr=16000, mono=True)
-        sf.write(file=(audioSeg[:-3]+'raw'), data=y, samplerate=sr, subtype='PCM_16', format='RAW')
+        # with open( subfile+"/Cmu_transcipt.txt", "w") as text_file:
+        #     text_file.write(" ")
+        # with open( subfile+"/Cmu_timestamped.txt", "w") as text_file:
+        #     text_file.write(" ")
 
-        
-        audioPS =AudioFile((audioSeg),frate=fps)
-        for phrase in audioPS:
-            for s in phrase.seg():
-                with open( subfile+"/Cmu_transcipt.txt", "a+") as text_file:
-                    text_file.write(s.word + " ")
+        # audioPS =AudioFile((audioSeg),frate=fps)
+        # for phrase in audioPS:
+        #     for s in phrase.seg():
+        #         with open( subfile+"/Cmu_transcipt.txt", "a+") as text_file:
+        #             text_file.write(s.word + " ")
 
-                with open( subfile+"/Cmu_timestamped.txt", "a+") as text_file:
-                    text_file.write(s.word + "," +  str(s.start_frame / fps) +","+str( s.end_frame / fps)+"\n" )
+        #         with open( subfile+"/Cmu_timestamped.txt", "a+") as text_file:
+        #             text_file.write(s.word + "," +  str(s.start_frame / fps) +","+str( s.end_frame / fps)+"\n" )
             
             
 
-            with open( subfile+"/Cmu_timestamped.txt", "a+") as text_file:
-                    text_file.write("Confidence: "+ str(phrase.confidence()))
+        #     with open( subfile+"/Cmu_timestamped.txt", "a+") as text_file:
+        #             text_file.write("Confidence: "+ str(phrase.confidence()))
+        
 
-        decoder.start_utt()
-        stream = open(audioSeg[:-3]+'raw', 'rb')
-        while True:
-            buf = stream.read(1024)
-            if buf:
-                decoder.process_raw(buf, False, False)
-            else:
-                break
-        decoder.end_utt()
+        # decoder.start_utt()
+        # stream = open(audioSeg[:-3]+'raw', 'rb')
+        # while True:
+        #     buf = stream.read(1024)
+        #     if buf:
+        #         decoder.process_raw(buf, False, False)
+        #     else:
+        #         break
+        # decoder.end_utt()
 
-        pho = [seg.word for seg in decoder.seg()]
+        # pho = [seg.word for seg in decoder.seg()]
 
-        with open( subfile+"/Cmu_phone.txt", "w") as text_file:
-            text_file.write(str(pho))
+        # with open( subfile+"/Cmu_phone.txt", "w") as text_file:
+        #     text_file.write(str(pho))
 
-        with open( subfile+"/Cmu_phone_ts.txt", "w") as text_file:
-            for seg in decoder.seg():
-                text_file.write(str(seg.word + "," +str( seg.start_frame/fps) + ","+ str(seg.end_frame/fps) +"\n"))
+        # with open( subfile+"/Cmu_phone_ts.txt", "w") as text_file:
+        #     for seg in decoder.seg():
+        #         text_file.write(str(seg.word + "," +str( seg.start_frame/fps) + ","+ str(seg.end_frame/fps) +"\n"))
+
+        #EspNET - STT Code
+        
+        speech, rate = soundfile.read(audioSeg)
+        nbests = speech2text(speech)
+        text, *_ = nbests[0]
+        with open( subfile+"/Espnet_transcipt.txt", "w") as text_file:
+            transciption.append(text)
+            text_file.write(text)
+
+        for i in range(len(transciption)):
+            transciption[i] = (transciption[i].translate(str.maketrans('', '', string.punctuation))).lower()
+        result = combine_transcripts(transciption)
+
+        with open( subfile+"/combined.txt", "a+") as text_file:
+            text_file.write(result[7:-4].replace('<blank> ',' '))
+
+        
+
+
                 

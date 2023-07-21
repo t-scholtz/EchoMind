@@ -1,0 +1,438 @@
+{
+    "text": " It's an experience. Now, Monopoly is much more like Papers, please. It's not fun, but it is good. Everything you dislike was designed to make you feel capitalism. The ridiculously unfair power of a Monopoly is purposeful, and the emphasis on luck is no mistake.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.02,
+            "text": " It's an experience.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                364,
+                1752,
+                13,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3026185754227312,
+            "compression_ratio": 1.4184782608695652,
+            "no_speech_prob": 0.024504482746124268,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.587663397192955
+                },
+                {
+                    "word": " an",
+                    "start": 0.48,
+                    "end": 0.54,
+                    "probability": 0.9685339331626892
+                },
+                {
+                    "word": " experience.",
+                    "start": 0.54,
+                    "end": 1.02,
+                    "probability": 0.9896872639656067
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.56,
+            "end": 3.82,
+            "text": " Now, Monopoly is much more like Papers, please.",
+            "tokens": [
+                50434,
+                823,
+                11,
+                4713,
+                27891,
+                307,
+                709,
+                544,
+                411,
+                430,
+                14441,
+                11,
+                1767,
+                13,
+                50582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3026185754227312,
+            "compression_ratio": 1.4184782608695652,
+            "no_speech_prob": 0.024504482746124268,
+            "words": [
+                {
+                    "word": " Now,",
+                    "start": 1.56,
+                    "end": 1.7,
+                    "probability": 0.8275856971740723
+                },
+                {
+                    "word": " Monopoly",
+                    "start": 1.94,
+                    "end": 2.32,
+                    "probability": 0.8034458756446838
+                },
+                {
+                    "word": " is",
+                    "start": 2.32,
+                    "end": 2.52,
+                    "probability": 0.9918301701545715
+                },
+                {
+                    "word": " much",
+                    "start": 2.52,
+                    "end": 2.64,
+                    "probability": 0.9888501763343811
+                },
+                {
+                    "word": " more",
+                    "start": 2.64,
+                    "end": 2.86,
+                    "probability": 0.9860259890556335
+                },
+                {
+                    "word": " like",
+                    "start": 2.86,
+                    "end": 3.02,
+                    "probability": 0.9953674077987671
+                },
+                {
+                    "word": " Papers,",
+                    "start": 3.02,
+                    "end": 3.44,
+                    "probability": 0.6132597029209137
+                },
+                {
+                    "word": " please.",
+                    "start": 3.64,
+                    "end": 3.82,
+                    "probability": 0.7826886177062988
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.24,
+            "end": 6.36,
+            "text": " It's not fun, but it is good.",
+            "tokens": [
+                50582,
+                467,
+                311,
+                406,
+                1019,
+                11,
+                457,
+                309,
+                307,
+                665,
+                13,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3026185754227312,
+            "compression_ratio": 1.4184782608695652,
+            "no_speech_prob": 0.024504482746124268,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 4.24,
+                    "end": 4.44,
+                    "probability": 0.9896803200244904
+                },
+                {
+                    "word": " not",
+                    "start": 4.44,
+                    "end": 4.6,
+                    "probability": 0.9946717619895935
+                },
+                {
+                    "word": " fun,",
+                    "start": 4.6,
+                    "end": 5.04,
+                    "probability": 0.9693745970726013
+                },
+                {
+                    "word": " but",
+                    "start": 5.36,
+                    "end": 5.46,
+                    "probability": 0.9949663281440735
+                },
+                {
+                    "word": " it",
+                    "start": 5.46,
+                    "end": 5.6,
+                    "probability": 0.9782755374908447
+                },
+                {
+                    "word": " is",
+                    "start": 5.6,
+                    "end": 5.94,
+                    "probability": 0.8081759214401245
+                },
+                {
+                    "word": " good.",
+                    "start": 5.94,
+                    "end": 6.36,
+                    "probability": 0.9567695260047913
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.82,
+            "end": 9.76,
+            "text": " Everything you dislike was designed to make you feel capitalism.",
+            "tokens": [
+                50724,
+                5471,
+                291,
+                26006,
+                390,
+                4761,
+                281,
+                652,
+                291,
+                841,
+                19704,
+                13,
+                50874
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3026185754227312,
+            "compression_ratio": 1.4184782608695652,
+            "no_speech_prob": 0.024504482746124268,
+            "words": [
+                {
+                    "word": " Everything",
+                    "start": 6.82,
+                    "end": 7.16,
+                    "probability": 0.9849180579185486
+                },
+                {
+                    "word": " you",
+                    "start": 7.16,
+                    "end": 7.36,
+                    "probability": 0.9897679686546326
+                },
+                {
+                    "word": " dislike",
+                    "start": 7.36,
+                    "end": 7.7,
+                    "probability": 0.963801383972168
+                },
+                {
+                    "word": " was",
+                    "start": 7.7,
+                    "end": 7.94,
+                    "probability": 0.9685040712356567
+                },
+                {
+                    "word": " designed",
+                    "start": 7.94,
+                    "end": 8.22,
+                    "probability": 0.99782794713974
+                },
+                {
+                    "word": " to",
+                    "start": 8.22,
+                    "end": 8.44,
+                    "probability": 0.9985722303390503
+                },
+                {
+                    "word": " make",
+                    "start": 8.44,
+                    "end": 8.58,
+                    "probability": 0.9960179924964905
+                },
+                {
+                    "word": " you",
+                    "start": 8.58,
+                    "end": 8.76,
+                    "probability": 0.9981892704963684
+                },
+                {
+                    "word": " feel",
+                    "start": 8.76,
+                    "end": 9.06,
+                    "probability": 0.9956531524658203
+                },
+                {
+                    "word": " capitalism.",
+                    "start": 9.06,
+                    "end": 9.76,
+                    "probability": 0.962753415107727
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.14,
+            "end": 14.74,
+            "text": " The ridiculously unfair power of a Monopoly is purposeful, and the emphasis on luck is",
+            "tokens": [
+                50874,
+                440,
+                41358,
+                17019,
+                1347,
+                295,
+                257,
+                4713,
+                27891,
+                307,
+                4334,
+                906,
+                11,
+                293,
+                264,
+                16271,
+                322,
+                3668,
+                307,
+                51100
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3026185754227312,
+            "compression_ratio": 1.4184782608695652,
+            "no_speech_prob": 0.024504482746124268,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 10.14,
+                    "end": 10.2,
+                    "probability": 0.9803181886672974
+                },
+                {
+                    "word": " ridiculously",
+                    "start": 10.2,
+                    "end": 10.62,
+                    "probability": 0.9435235857963562
+                },
+                {
+                    "word": " unfair",
+                    "start": 10.62,
+                    "end": 11.2,
+                    "probability": 0.9925346374511719
+                },
+                {
+                    "word": " power",
+                    "start": 11.2,
+                    "end": 11.64,
+                    "probability": 0.9938185811042786
+                },
+                {
+                    "word": " of",
+                    "start": 11.64,
+                    "end": 11.8,
+                    "probability": 0.9979763627052307
+                },
+                {
+                    "word": " a",
+                    "start": 11.8,
+                    "end": 11.86,
+                    "probability": 0.9620552659034729
+                },
+                {
+                    "word": " Monopoly",
+                    "start": 11.86,
+                    "end": 12.34,
+                    "probability": 0.935682862997055
+                },
+                {
+                    "word": " is",
+                    "start": 12.34,
+                    "end": 12.58,
+                    "probability": 0.9941872358322144
+                },
+                {
+                    "word": " purposeful,",
+                    "start": 12.58,
+                    "end": 13.12,
+                    "probability": 0.9778155088424683
+                },
+                {
+                    "word": " and",
+                    "start": 13.4,
+                    "end": 13.48,
+                    "probability": 0.9960081577301025
+                },
+                {
+                    "word": " the",
+                    "start": 13.48,
+                    "end": 13.58,
+                    "probability": 0.9773787260055542
+                },
+                {
+                    "word": " emphasis",
+                    "start": 13.58,
+                    "end": 13.96,
+                    "probability": 0.9986143112182617
+                },
+                {
+                    "word": " on",
+                    "start": 13.96,
+                    "end": 14.26,
+                    "probability": 0.9939584732055664
+                },
+                {
+                    "word": " luck",
+                    "start": 14.26,
+                    "end": 14.48,
+                    "probability": 0.891137421131134
+                },
+                {
+                    "word": " is",
+                    "start": 14.48,
+                    "end": 14.74,
+                    "probability": 0.9926961660385132
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 14.74,
+            "end": 14.98,
+            "text": " no mistake.",
+            "tokens": [
+                51100,
+                572,
+                6146,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3026185754227312,
+            "compression_ratio": 1.4184782608695652,
+            "no_speech_prob": 0.024504482746124268,
+            "words": [
+                {
+                    "word": " no",
+                    "start": 14.74,
+                    "end": 14.88,
+                    "probability": 0.34374579787254333
+                },
+                {
+                    "word": " mistake.",
+                    "start": 14.88,
+                    "end": 14.98,
+                    "probability": 0.19552645087242126
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,171 @@
+{
+    "text": " In the modern age, we've lost our reverence for the dream state, but Rimsleep is what has made us special.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 7.22,
+            "end": 14.36,
+            "text": " In the modern age, we've lost our reverence for the dream state, but Rimsleep is what has made us special.",
+            "tokens": [
+                50364,
+                682,
+                264,
+                4363,
+                3205,
+                11,
+                321,
+                600,
+                2731,
+                527,
+                18438,
+                655,
+                337,
+                264,
+                3055,
+                1785,
+                11,
+                457,
+                497,
+                18857,
+                306,
+                595,
+                307,
+                437,
+                575,
+                1027,
+                505,
+                2121,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34043662778792844,
+            "compression_ratio": 1.164835164835165,
+            "no_speech_prob": 0.02249402180314064,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 7.22,
+                    "end": 7.82,
+                    "probability": 0.24728240072727203
+                },
+                {
+                    "word": " the",
+                    "start": 7.82,
+                    "end": 7.94,
+                    "probability": 0.9835816621780396
+                },
+                {
+                    "word": " modern",
+                    "start": 7.94,
+                    "end": 8.26,
+                    "probability": 0.9910935759544373
+                },
+                {
+                    "word": " age,",
+                    "start": 8.26,
+                    "end": 8.76,
+                    "probability": 0.9921137094497681
+                },
+                {
+                    "word": " we've",
+                    "start": 8.94,
+                    "end": 9.34,
+                    "probability": 0.9633344411849976
+                },
+                {
+                    "word": " lost",
+                    "start": 9.34,
+                    "end": 9.54,
+                    "probability": 0.9975689053535461
+                },
+                {
+                    "word": " our",
+                    "start": 9.54,
+                    "end": 9.84,
+                    "probability": 0.9965426325798035
+                },
+                {
+                    "word": " reverence",
+                    "start": 9.84,
+                    "end": 10.32,
+                    "probability": 0.9882121384143829
+                },
+                {
+                    "word": " for",
+                    "start": 10.32,
+                    "end": 10.5,
+                    "probability": 0.9943760633468628
+                },
+                {
+                    "word": " the",
+                    "start": 10.5,
+                    "end": 10.62,
+                    "probability": 0.9909721612930298
+                },
+                {
+                    "word": " dream",
+                    "start": 10.62,
+                    "end": 10.82,
+                    "probability": 0.7041164636611938
+                },
+                {
+                    "word": " state,",
+                    "start": 10.82,
+                    "end": 11.2,
+                    "probability": 0.9650963544845581
+                },
+                {
+                    "word": " but",
+                    "start": 11.62,
+                    "end": 12.1,
+                    "probability": 0.9911194443702698
+                },
+                {
+                    "word": " Rimsleep",
+                    "start": 12.1,
+                    "end": 12.68,
+                    "probability": 0.46411043405532837
+                },
+                {
+                    "word": " is",
+                    "start": 12.68,
+                    "end": 12.9,
+                    "probability": 0.9943023920059204
+                },
+                {
+                    "word": " what",
+                    "start": 12.9,
+                    "end": 13.1,
+                    "probability": 0.9985328912734985
+                },
+                {
+                    "word": " has",
+                    "start": 13.1,
+                    "end": 13.36,
+                    "probability": 0.9847550988197327
+                },
+                {
+                    "word": " made",
+                    "start": 13.36,
+                    "end": 13.58,
+                    "probability": 0.9977895021438599
+                },
+                {
+                    "word": " us",
+                    "start": 13.58,
+                    "end": 13.82,
+                    "probability": 0.9975903034210205
+                },
+                {
+                    "word": " special.",
+                    "start": 13.82,
+                    "end": 14.36,
+                    "probability": 0.9979708790779114
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

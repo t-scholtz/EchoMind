@@ -1,0 +1,95 @@
+{
+    "text": " Almost getting there. But first before he pack everything up.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.44,
+            "end": 4.32,
+            "text": " Almost getting there. But first before he pack everything up.",
+            "tokens": [
+                50364,
+                12627,
+                1242,
+                456,
+                13,
+                583,
+                700,
+                949,
+                415,
+                2844,
+                1203,
+                493,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5575368881225586,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.039676301181316376,
+            "words": [
+                {
+                    "word": " Almost",
+                    "start": 0.44,
+                    "end": 1.14,
+                    "probability": 0.4156036376953125
+                },
+                {
+                    "word": " getting",
+                    "start": 1.14,
+                    "end": 1.6,
+                    "probability": 0.9469864964485168
+                },
+                {
+                    "word": " there.",
+                    "start": 1.6,
+                    "end": 1.84,
+                    "probability": 0.9729378819465637
+                },
+                {
+                    "word": " But",
+                    "start": 2.42,
+                    "end": 2.62,
+                    "probability": 0.9693633913993835
+                },
+                {
+                    "word": " first",
+                    "start": 2.62,
+                    "end": 2.94,
+                    "probability": 0.972826361656189
+                },
+                {
+                    "word": " before",
+                    "start": 2.94,
+                    "end": 3.34,
+                    "probability": 0.4890139698982239
+                },
+                {
+                    "word": " he",
+                    "start": 3.34,
+                    "end": 3.52,
+                    "probability": 0.8124499320983887
+                },
+                {
+                    "word": " pack",
+                    "start": 3.52,
+                    "end": 3.7,
+                    "probability": 0.9447771310806274
+                },
+                {
+                    "word": " everything",
+                    "start": 3.7,
+                    "end": 4.08,
+                    "probability": 0.9858435988426208
+                },
+                {
+                    "word": " up.",
+                    "start": 4.08,
+                    "end": 4.32,
+                    "probability": 0.9965184926986694
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,415 @@
+{
+    "text": " and old enough to be in the public domain anyway, not so with the 97 design. And while its creator makes no claim to copyright, saying the flag is de facto public domain, but what usually happens when a company commissions content is the company controls that content.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.96,
+            "text": " and old enough to be in the public domain anyway, not so with the 97 design.",
+            "tokens": [
+                50364,
+                293,
+                1331,
+                1547,
+                281,
+                312,
+                294,
+                264,
+                1908,
+                9274,
+                4033,
+                11,
+                406,
+                370,
+                365,
+                264,
+                23399,
+                1715,
+                13,
+                50634
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20037221908569336,
+            "compression_ratio": 1.5227272727272727,
+            "no_speech_prob": 0.005579373799264431,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.330439954996109
+                },
+                {
+                    "word": " old",
+                    "start": 0.34,
+                    "end": 0.62,
+                    "probability": 0.7573492527008057
+                },
+                {
+                    "word": " enough",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9899731874465942
+                },
+                {
+                    "word": " to",
+                    "start": 0.84,
+                    "end": 0.98,
+                    "probability": 0.9827150702476501
+                },
+                {
+                    "word": " be",
+                    "start": 0.98,
+                    "end": 1.1,
+                    "probability": 0.990669846534729
+                },
+                {
+                    "word": " in",
+                    "start": 1.1,
+                    "end": 1.18,
+                    "probability": 0.9863970875740051
+                },
+                {
+                    "word": " the",
+                    "start": 1.18,
+                    "end": 1.26,
+                    "probability": 0.9624425768852234
+                },
+                {
+                    "word": " public",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.9823451638221741
+                },
+                {
+                    "word": " domain",
+                    "start": 1.5,
+                    "end": 1.8,
+                    "probability": 0.9966530203819275
+                },
+                {
+                    "word": " anyway,",
+                    "start": 1.8,
+                    "end": 2.28,
+                    "probability": 0.7217103242874146
+                },
+                {
+                    "word": " not",
+                    "start": 2.58,
+                    "end": 2.74,
+                    "probability": 0.9863473176956177
+                },
+                {
+                    "word": " so",
+                    "start": 2.74,
+                    "end": 3.16,
+                    "probability": 0.94395512342453
+                },
+                {
+                    "word": " with",
+                    "start": 3.16,
+                    "end": 3.44,
+                    "probability": 0.9538692831993103
+                },
+                {
+                    "word": " the",
+                    "start": 3.44,
+                    "end": 3.6,
+                    "probability": 0.9758614897727966
+                },
+                {
+                    "word": " 97",
+                    "start": 3.6,
+                    "end": 4.38,
+                    "probability": 0.8537717461585999
+                },
+                {
+                    "word": " design.",
+                    "start": 4.38,
+                    "end": 4.96,
+                    "probability": 0.9594003558158875
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.26,
+            "end": 9.72,
+            "text": " And while its creator makes no claim to copyright, saying the flag is de facto public domain,",
+            "tokens": [
+                50634,
+                400,
+                1339,
+                1080,
+                14181,
+                1669,
+                572,
+                3932,
+                281,
+                17996,
+                11,
+                1566,
+                264,
+                7166,
+                307,
+                368,
+                42225,
+                1908,
+                9274,
+                11,
+                50866
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20037221908569336,
+            "compression_ratio": 1.5227272727272727,
+            "no_speech_prob": 0.005579373799264431,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 5.26,
+                    "end": 5.4,
+                    "probability": 0.959726870059967
+                },
+                {
+                    "word": " while",
+                    "start": 5.4,
+                    "end": 5.58,
+                    "probability": 0.9720073342323303
+                },
+                {
+                    "word": " its",
+                    "start": 5.58,
+                    "end": 5.74,
+                    "probability": 0.8587175011634827
+                },
+                {
+                    "word": " creator",
+                    "start": 5.74,
+                    "end": 6.06,
+                    "probability": 0.9906871914863586
+                },
+                {
+                    "word": " makes",
+                    "start": 6.06,
+                    "end": 6.28,
+                    "probability": 0.9895037412643433
+                },
+                {
+                    "word": " no",
+                    "start": 6.28,
+                    "end": 6.52,
+                    "probability": 0.99781334400177
+                },
+                {
+                    "word": " claim",
+                    "start": 6.52,
+                    "end": 6.8,
+                    "probability": 0.9896053075790405
+                },
+                {
+                    "word": " to",
+                    "start": 6.8,
+                    "end": 6.98,
+                    "probability": 0.9980411529541016
+                },
+                {
+                    "word": " copyright,",
+                    "start": 6.98,
+                    "end": 7.42,
+                    "probability": 0.9823893308639526
+                },
+                {
+                    "word": " saying",
+                    "start": 7.64,
+                    "end": 7.78,
+                    "probability": 0.994687557220459
+                },
+                {
+                    "word": " the",
+                    "start": 7.78,
+                    "end": 8.0,
+                    "probability": 0.9533308744430542
+                },
+                {
+                    "word": " flag",
+                    "start": 8.0,
+                    "end": 8.28,
+                    "probability": 0.9850906133651733
+                },
+                {
+                    "word": " is",
+                    "start": 8.28,
+                    "end": 8.48,
+                    "probability": 0.9876168370246887
+                },
+                {
+                    "word": " de",
+                    "start": 8.48,
+                    "end": 8.6,
+                    "probability": 0.9005945920944214
+                },
+                {
+                    "word": " facto",
+                    "start": 8.6,
+                    "end": 8.88,
+                    "probability": 0.9969215989112854
+                },
+                {
+                    "word": " public",
+                    "start": 8.88,
+                    "end": 9.26,
+                    "probability": 0.9753482937812805
+                },
+                {
+                    "word": " domain,",
+                    "start": 9.26,
+                    "end": 9.72,
+                    "probability": 0.9877486824989319
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.96,
+            "end": 14.72,
+            "text": " but what usually happens when a company commissions content is the company controls that",
+            "tokens": [
+                50866,
+                457,
+                437,
+                2673,
+                2314,
+                562,
+                257,
+                2237,
+                38912,
+                2701,
+                307,
+                264,
+                2237,
+                9003,
+                300,
+                51098
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20037221908569336,
+            "compression_ratio": 1.5227272727272727,
+            "no_speech_prob": 0.005579373799264431,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 9.96,
+                    "end": 10.04,
+                    "probability": 0.9773812294006348
+                },
+                {
+                    "word": " what",
+                    "start": 10.04,
+                    "end": 10.18,
+                    "probability": 0.9853628873825073
+                },
+                {
+                    "word": " usually",
+                    "start": 10.18,
+                    "end": 10.54,
+                    "probability": 0.9852140545845032
+                },
+                {
+                    "word": " happens",
+                    "start": 10.54,
+                    "end": 11.0,
+                    "probability": 0.9973015189170837
+                },
+                {
+                    "word": " when",
+                    "start": 11.0,
+                    "end": 11.22,
+                    "probability": 0.9906687140464783
+                },
+                {
+                    "word": " a",
+                    "start": 11.22,
+                    "end": 11.3,
+                    "probability": 0.9689218997955322
+                },
+                {
+                    "word": " company",
+                    "start": 11.3,
+                    "end": 11.62,
+                    "probability": 0.9552334547042847
+                },
+                {
+                    "word": " commissions",
+                    "start": 11.62,
+                    "end": 12.18,
+                    "probability": 0.8601928949356079
+                },
+                {
+                    "word": " content",
+                    "start": 12.18,
+                    "end": 12.7,
+                    "probability": 0.9878413081169128
+                },
+                {
+                    "word": " is",
+                    "start": 12.7,
+                    "end": 12.98,
+                    "probability": 0.9921446442604065
+                },
+                {
+                    "word": " the",
+                    "start": 12.98,
+                    "end": 13.12,
+                    "probability": 0.9822914600372314
+                },
+                {
+                    "word": " company",
+                    "start": 13.12,
+                    "end": 13.58,
+                    "probability": 0.9830439686775208
+                },
+                {
+                    "word": " controls",
+                    "start": 13.58,
+                    "end": 14.32,
+                    "probability": 0.9805532097816467
+                },
+                {
+                    "word": " that",
+                    "start": 14.32,
+                    "end": 14.72,
+                    "probability": 0.9671697020530701
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.72,
+            "end": 14.98,
+            "text": " content.",
+            "tokens": [
+                51098,
+                2701,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20037221908569336,
+            "compression_ratio": 1.5227272727272727,
+            "no_speech_prob": 0.005579373799264431,
+            "words": [
+                {
+                    "word": " content.",
+                    "start": 14.72,
+                    "end": 14.98,
+                    "probability": 0.7521487474441528
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

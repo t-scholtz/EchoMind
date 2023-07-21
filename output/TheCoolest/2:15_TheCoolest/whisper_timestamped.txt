@@ -1,0 +1,387 @@
+{
+    "text": " 10th copyright. So of course, on finding this out, one might think to email multimedia corporation about it. But they went bust, and now with no one to ask, it becomes a question of who could claim to claim the copyright. How hard could that-",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.74,
+            "text": " 10th copyright. So of course, on finding this out, one might think to email multimedia",
+            "tokens": [
+                50364,
+                1266,
+                392,
+                17996,
+                13,
+                407,
+                295,
+                1164,
+                11,
+                322,
+                5006,
+                341,
+                484,
+                11,
+                472,
+                1062,
+                519,
+                281,
+                3796,
+                49202,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.246592146451356,
+            "compression_ratio": 1.4666666666666666,
+            "no_speech_prob": 0.06230943277478218,
+            "words": [
+                {
+                    "word": " 10th",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.2579103037714958
+                },
+                {
+                    "word": " copyright.",
+                    "start": 0.36,
+                    "end": 0.82,
+                    "probability": 0.5884648561477661
+                },
+                {
+                    "word": " So",
+                    "start": 1.18,
+                    "end": 1.3,
+                    "probability": 0.9667815566062927
+                },
+                {
+                    "word": " of",
+                    "start": 1.3,
+                    "end": 1.44,
+                    "probability": 0.8035871982574463
+                },
+                {
+                    "word": " course,",
+                    "start": 1.44,
+                    "end": 1.68,
+                    "probability": 0.9951536655426025
+                },
+                {
+                    "word": " on",
+                    "start": 1.84,
+                    "end": 1.94,
+                    "probability": 0.9819849133491516
+                },
+                {
+                    "word": " finding",
+                    "start": 1.94,
+                    "end": 2.28,
+                    "probability": 0.9526353478431702
+                },
+                {
+                    "word": " this",
+                    "start": 2.28,
+                    "end": 2.54,
+                    "probability": 0.9969743490219116
+                },
+                {
+                    "word": " out,",
+                    "start": 2.54,
+                    "end": 2.78,
+                    "probability": 0.9982498288154602
+                },
+                {
+                    "word": " one",
+                    "start": 2.9,
+                    "end": 3.04,
+                    "probability": 0.9930347204208374
+                },
+                {
+                    "word": " might",
+                    "start": 3.04,
+                    "end": 3.24,
+                    "probability": 0.9972713589668274
+                },
+                {
+                    "word": " think",
+                    "start": 3.24,
+                    "end": 3.46,
+                    "probability": 0.9955845475196838
+                },
+                {
+                    "word": " to",
+                    "start": 3.46,
+                    "end": 3.66,
+                    "probability": 0.9678782820701599
+                },
+                {
+                    "word": " email",
+                    "start": 3.66,
+                    "end": 3.98,
+                    "probability": 0.8777279853820801
+                },
+                {
+                    "word": " multimedia",
+                    "start": 3.98,
+                    "end": 4.74,
+                    "probability": 0.9018235206604004
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.74,
+            "end": 10.24,
+            "text": " corporation about it. But they went bust, and now with no one to ask, it becomes a question",
+            "tokens": [
+                50604,
+                22197,
+                466,
+                309,
+                13,
+                583,
+                436,
+                1437,
+                19432,
+                11,
+                293,
+                586,
+                365,
+                572,
+                472,
+                281,
+                1029,
+                11,
+                309,
+                3643,
+                257,
+                1168,
+                50878
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.246592146451356,
+            "compression_ratio": 1.4666666666666666,
+            "no_speech_prob": 0.06230943277478218,
+            "words": [
+                {
+                    "word": " corporation",
+                    "start": 4.74,
+                    "end": 5.52,
+                    "probability": 0.7745879888534546
+                },
+                {
+                    "word": " about",
+                    "start": 5.52,
+                    "end": 5.9,
+                    "probability": 0.9969511032104492
+                },
+                {
+                    "word": " it.",
+                    "start": 5.9,
+                    "end": 6.16,
+                    "probability": 0.9977013468742371
+                },
+                {
+                    "word": " But",
+                    "start": 6.36,
+                    "end": 6.5,
+                    "probability": 0.9909125566482544
+                },
+                {
+                    "word": " they",
+                    "start": 6.5,
+                    "end": 6.82,
+                    "probability": 0.8099232316017151
+                },
+                {
+                    "word": " went",
+                    "start": 6.82,
+                    "end": 7.0,
+                    "probability": 0.9938737154006958
+                },
+                {
+                    "word": " bust,",
+                    "start": 7.0,
+                    "end": 7.32,
+                    "probability": 0.9855020046234131
+                },
+                {
+                    "word": " and",
+                    "start": 7.56,
+                    "end": 7.68,
+                    "probability": 0.995305061340332
+                },
+                {
+                    "word": " now",
+                    "start": 7.68,
+                    "end": 8.0,
+                    "probability": 0.9745434522628784
+                },
+                {
+                    "word": " with",
+                    "start": 8.0,
+                    "end": 8.22,
+                    "probability": 0.852410614490509
+                },
+                {
+                    "word": " no",
+                    "start": 8.22,
+                    "end": 8.4,
+                    "probability": 0.9754727482795715
+                },
+                {
+                    "word": " one",
+                    "start": 8.4,
+                    "end": 8.54,
+                    "probability": 0.9783722758293152
+                },
+                {
+                    "word": " to",
+                    "start": 8.54,
+                    "end": 8.7,
+                    "probability": 0.9983524084091187
+                },
+                {
+                    "word": " ask,",
+                    "start": 8.7,
+                    "end": 9.14,
+                    "probability": 0.9975185394287109
+                },
+                {
+                    "word": " it",
+                    "start": 9.2,
+                    "end": 9.28,
+                    "probability": 0.996385931968689
+                },
+                {
+                    "word": " becomes",
+                    "start": 9.28,
+                    "end": 9.62,
+                    "probability": 0.9932304620742798
+                },
+                {
+                    "word": " a",
+                    "start": 9.62,
+                    "end": 9.86,
+                    "probability": 0.9945974349975586
+                },
+                {
+                    "word": " question",
+                    "start": 9.86,
+                    "end": 10.24,
+                    "probability": 0.9989295601844788
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.24,
+            "end": 14.98,
+            "text": " of who could claim to claim the copyright. How hard could that-",
+            "tokens": [
+                50878,
+                295,
+                567,
+                727,
+                3932,
+                281,
+                3932,
+                264,
+                17996,
+                13,
+                1012,
+                1152,
+                727,
+                300,
+                12,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.246592146451356,
+            "compression_ratio": 1.4666666666666666,
+            "no_speech_prob": 0.06230943277478218,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 10.24,
+                    "end": 10.46,
+                    "probability": 0.9950463771820068
+                },
+                {
+                    "word": " who",
+                    "start": 10.46,
+                    "end": 10.8,
+                    "probability": 0.5012066960334778
+                },
+                {
+                    "word": " could",
+                    "start": 10.8,
+                    "end": 11.12,
+                    "probability": 0.9817246198654175
+                },
+                {
+                    "word": " claim",
+                    "start": 11.12,
+                    "end": 11.64,
+                    "probability": 0.9693004488945007
+                },
+                {
+                    "word": " to",
+                    "start": 11.64,
+                    "end": 12.0,
+                    "probability": 0.9712561368942261
+                },
+                {
+                    "word": " claim",
+                    "start": 12.0,
+                    "end": 12.48,
+                    "probability": 0.9886815547943115
+                },
+                {
+                    "word": " the",
+                    "start": 12.48,
+                    "end": 12.68,
+                    "probability": 0.9906594753265381
+                },
+                {
+                    "word": " copyright.",
+                    "start": 12.68,
+                    "end": 13.24,
+                    "probability": 0.9954764246940613
+                },
+                {
+                    "word": " How",
+                    "start": 13.54,
+                    "end": 13.84,
+                    "probability": 0.9245004057884216
+                },
+                {
+                    "word": " hard",
+                    "start": 13.84,
+                    "end": 14.34,
+                    "probability": 0.992863118648529
+                },
+                {
+                    "word": " could",
+                    "start": 14.34,
+                    "end": 14.68,
+                    "probability": 0.9900668859481812
+                },
+                {
+                    "word": " that",
+                    "start": 14.68,
+                    "end": 14.92,
+                    "probability": 0.974601686000824
+                },
+                {
+                    "word": "-",
+                    "start": 14.92,
+                    "end": 14.98,
+                    "probability": 0.2098718136548996
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

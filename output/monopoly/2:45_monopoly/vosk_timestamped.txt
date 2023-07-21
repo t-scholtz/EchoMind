@@ -1,0 +1,13 @@
+ {'conf': 1.0, 'end': 0.72, 'start': 0.0, 'word': 'infringement'}
+{'conf': 1.0, 'end': 0.99, 'start': 0.81, 'word': 'they'}
+{'conf': 1.0, 'end': 1.32, 'start': 0.99, 'word': 'further'}
+{'conf': 1.0, 'end': 1.62, 'start': 1.32, 'word': 'proof'}
+{'conf': 0.577719, 'end': 1.737091, 'start': 1.62, 'word': 'that'}
+{'conf': 1.0, 'end': 2.13, 'start': 1.737091, 'word': 'critique'}
+{'conf': 1.0, 'end': 2.28, 'start': 2.13, 'word': 'on'}
+{'conf': 1.0, 'end': 2.97, 'start': 2.28, 'word': 'capitalism'}
+{'conf': 0.605463, 'end': 3.12, 'start': 3.0, 'word': 'of'}
+{'conf': 1.0, 'end': 3.3, 'start': 3.12, 'word': 'their'}
+{'conf': 1.0, 'end': 3.6, 'start': 3.3, 'word': 'own'}
+{'conf': 1.0, 'end': 4.05, 'start': 3.6, 'word': 'game'}
+silence

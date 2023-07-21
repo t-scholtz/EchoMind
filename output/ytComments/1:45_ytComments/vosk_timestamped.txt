@@ -1,0 +1,20 @@
+ {'conf': 0.81508, 'end': 0.21, 'start': 0.06, 'word': 'as'}
+{'conf': 1.0, 'end': 0.33, 'start': 0.21, 'word': 'to'}
+{'conf': 1.0, 'end': 0.75, 'start': 0.33, 'word': 'spend'}
+{'conf': 1.0, 'end': 0.93, 'start': 0.75, 'word': 'an'}
+{'conf': 1.0, 'end': 2.07, 'start': 0.99, 'word': 'unreasonable'}
+{'conf': 1.0, 'end': 2.49, 'start': 2.07, 'word': 'amount'}
+{'conf': 1.0, 'end': 2.58, 'start': 2.49, 'word': 'of'}
+{'conf': 1.0, 'end': 3.0, 'start': 2.58, 'word': 'time'}
+{'conf': 1.0, 'end': 3.45, 'start': 3.0, 'word': 'working'}
+{'conf': 1.0, 'end': 3.66, 'start': 3.45, 'word': 'on'}
+{'conf': 1.0, 'end': 4.23, 'start': 3.66, 'word': 'animated'}
+{'conf': 0.647972, 'end': 4.65, 'start': 4.23, 'word': 'explain'}
+{'conf': 0.327295, 'end': 4.89, 'start': 4.65, 'word': 'hers'}
+{'conf': 1.0, 'end': 5.25, 'start': 5.01, 'word': 'for'}
+{'conf': 1.0, 'end': 5.4, 'start': 5.25, 'word': 'the'}
+{'conf': 1.0, 'end': 5.88, 'start': 5.4, 'word': 'internet'}
+{'conf': 1.0, 'end': 6.51, 'start': 6.33, 'word': "it's"}
+{'conf': 1.0, 'end': 6.63, 'start': 6.51, 'word': 'an'}
+{'conf': 1.0, 'end': 6.96, 'start': 6.63, 'word': 'honor'}
+silencesilence

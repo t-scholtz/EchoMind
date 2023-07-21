@@ -1,0 +1,484 @@
+{
+    "text": " game, but it's not fun. Most of your time is spent looking at boring documents. Make a tiny mistake and you get a citation, which means no food for your family. Even its biggest fans find it nerve-wracking and stressful. But we love it because we know that every annoyance was designed to teach us something.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.48,
+            "text": " game, but it's not fun. Most of your time is spent looking at boring documents. Make",
+            "tokens": [
+                50364,
+                1216,
+                11,
+                457,
+                309,
+                311,
+                406,
+                1019,
+                13,
+                4534,
+                295,
+                428,
+                565,
+                307,
+                4418,
+                1237,
+                412,
+                9989,
+                8512,
+                13,
+                4387,
+                50590
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13586959591159573,
+            "compression_ratio": 1.4879227053140096,
+            "no_speech_prob": 0.016046972945332527,
+            "words": [
+                {
+                    "word": " game,",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5659692287445068
+                },
+                {
+                    "word": " but",
+                    "start": 0.44,
+                    "end": 0.52,
+                    "probability": 0.9889683127403259
+                },
+                {
+                    "word": " it's",
+                    "start": 0.52,
+                    "end": 0.76,
+                    "probability": 0.9778367578983307
+                },
+                {
+                    "word": " not",
+                    "start": 0.76,
+                    "end": 0.9,
+                    "probability": 0.994146466255188
+                },
+                {
+                    "word": " fun.",
+                    "start": 0.9,
+                    "end": 1.34,
+                    "probability": 0.9726869463920593
+                },
+                {
+                    "word": " Most",
+                    "start": 1.74,
+                    "end": 1.86,
+                    "probability": 0.9850742816925049
+                },
+                {
+                    "word": " of",
+                    "start": 1.86,
+                    "end": 2.02,
+                    "probability": 0.9939820170402527
+                },
+                {
+                    "word": " your",
+                    "start": 2.02,
+                    "end": 2.12,
+                    "probability": 0.9961976408958435
+                },
+                {
+                    "word": " time",
+                    "start": 2.12,
+                    "end": 2.32,
+                    "probability": 0.9986169338226318
+                },
+                {
+                    "word": " is",
+                    "start": 2.32,
+                    "end": 2.52,
+                    "probability": 0.9652453064918518
+                },
+                {
+                    "word": " spent",
+                    "start": 2.52,
+                    "end": 2.68,
+                    "probability": 0.9927896857261658
+                },
+                {
+                    "word": " looking",
+                    "start": 2.68,
+                    "end": 2.96,
+                    "probability": 0.9966366291046143
+                },
+                {
+                    "word": " at",
+                    "start": 2.96,
+                    "end": 3.16,
+                    "probability": 0.9954732060432434
+                },
+                {
+                    "word": " boring",
+                    "start": 3.16,
+                    "end": 3.42,
+                    "probability": 0.9931800365447998
+                },
+                {
+                    "word": " documents.",
+                    "start": 3.42,
+                    "end": 3.96,
+                    "probability": 0.9940627217292786
+                },
+                {
+                    "word": " Make",
+                    "start": 4.38,
+                    "end": 4.48,
+                    "probability": 0.9868510365486145
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.48,
+            "end": 8.92,
+            "text": " a tiny mistake and you get a citation, which means no food for your family. Even its",
+            "tokens": [
+                50590,
+                257,
+                5870,
+                6146,
+                293,
+                291,
+                483,
+                257,
+                45590,
+                11,
+                597,
+                1355,
+                572,
+                1755,
+                337,
+                428,
+                1605,
+                13,
+                2754,
+                1080,
+                50812
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13586959591159573,
+            "compression_ratio": 1.4879227053140096,
+            "no_speech_prob": 0.016046972945332527,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 4.48,
+                    "end": 4.64,
+                    "probability": 0.9977340698242188
+                },
+                {
+                    "word": " tiny",
+                    "start": 4.64,
+                    "end": 4.9,
+                    "probability": 0.9963357448577881
+                },
+                {
+                    "word": " mistake",
+                    "start": 4.9,
+                    "end": 5.28,
+                    "probability": 0.9982428550720215
+                },
+                {
+                    "word": " and",
+                    "start": 5.28,
+                    "end": 5.56,
+                    "probability": 0.8012346625328064
+                },
+                {
+                    "word": " you",
+                    "start": 5.56,
+                    "end": 5.66,
+                    "probability": 0.9512734413146973
+                },
+                {
+                    "word": " get",
+                    "start": 5.66,
+                    "end": 5.8,
+                    "probability": 0.9963173866271973
+                },
+                {
+                    "word": " a",
+                    "start": 5.8,
+                    "end": 5.92,
+                    "probability": 0.9930197596549988
+                },
+                {
+                    "word": " citation,",
+                    "start": 5.92,
+                    "end": 6.4,
+                    "probability": 0.9940782785415649
+                },
+                {
+                    "word": " which",
+                    "start": 6.66,
+                    "end": 6.8,
+                    "probability": 0.996936559677124
+                },
+                {
+                    "word": " means",
+                    "start": 6.8,
+                    "end": 6.96,
+                    "probability": 0.9987329840660095
+                },
+                {
+                    "word": " no",
+                    "start": 6.96,
+                    "end": 7.24,
+                    "probability": 0.9462113976478577
+                },
+                {
+                    "word": " food",
+                    "start": 7.24,
+                    "end": 7.5,
+                    "probability": 0.9986610412597656
+                },
+                {
+                    "word": " for",
+                    "start": 7.5,
+                    "end": 7.7,
+                    "probability": 0.995843231678009
+                },
+                {
+                    "word": " your",
+                    "start": 7.7,
+                    "end": 7.8,
+                    "probability": 0.9955044388771057
+                },
+                {
+                    "word": " family.",
+                    "start": 7.8,
+                    "end": 8.18,
+                    "probability": 0.9985496401786804
+                },
+                {
+                    "word": " Even",
+                    "start": 8.52,
+                    "end": 8.68,
+                    "probability": 0.9919008612632751
+                },
+                {
+                    "word": " its",
+                    "start": 8.68,
+                    "end": 8.92,
+                    "probability": 0.9177061915397644
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.92,
+            "end": 13.12,
+            "text": " biggest fans find it nerve-wracking and stressful. But we love it because we know that every",
+            "tokens": [
+                50812,
+                3880,
+                4499,
+                915,
+                309,
+                16355,
+                12,
+                7449,
+                14134,
+                293,
+                19108,
+                13,
+                583,
+                321,
+                959,
+                309,
+                570,
+                321,
+                458,
+                300,
+                633,
+                51022
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13586959591159573,
+            "compression_ratio": 1.4879227053140096,
+            "no_speech_prob": 0.016046972945332527,
+            "words": [
+                {
+                    "word": " biggest",
+                    "start": 8.92,
+                    "end": 9.16,
+                    "probability": 0.9961540102958679
+                },
+                {
+                    "word": " fans",
+                    "start": 9.16,
+                    "end": 9.62,
+                    "probability": 0.9903562068939209
+                },
+                {
+                    "word": " find",
+                    "start": 9.62,
+                    "end": 9.94,
+                    "probability": 0.9742329120635986
+                },
+                {
+                    "word": " it",
+                    "start": 9.94,
+                    "end": 10.08,
+                    "probability": 0.9979498982429504
+                },
+                {
+                    "word": " nerve",
+                    "start": 10.08,
+                    "end": 10.24,
+                    "probability": 0.998790442943573
+                },
+                {
+                    "word": "-wracking",
+                    "start": 10.24,
+                    "end": 10.54,
+                    "probability": 0.7822508215904236
+                },
+                {
+                    "word": " and",
+                    "start": 10.54,
+                    "end": 10.76,
+                    "probability": 0.9897337555885315
+                },
+                {
+                    "word": " stressful.",
+                    "start": 10.76,
+                    "end": 11.18,
+                    "probability": 0.9981967806816101
+                },
+                {
+                    "word": " But",
+                    "start": 11.54,
+                    "end": 11.64,
+                    "probability": 0.9928392171859741
+                },
+                {
+                    "word": " we",
+                    "start": 11.64,
+                    "end": 11.78,
+                    "probability": 0.9769819378852844
+                },
+                {
+                    "word": " love",
+                    "start": 11.78,
+                    "end": 11.96,
+                    "probability": 0.9959701299667358
+                },
+                {
+                    "word": " it",
+                    "start": 11.96,
+                    "end": 12.08,
+                    "probability": 0.9942376613616943
+                },
+                {
+                    "word": " because",
+                    "start": 12.08,
+                    "end": 12.34,
+                    "probability": 0.9035726189613342
+                },
+                {
+                    "word": " we",
+                    "start": 12.34,
+                    "end": 12.5,
+                    "probability": 0.9831745028495789
+                },
+                {
+                    "word": " know",
+                    "start": 12.5,
+                    "end": 12.64,
+                    "probability": 0.9976361989974976
+                },
+                {
+                    "word": " that",
+                    "start": 12.64,
+                    "end": 12.76,
+                    "probability": 0.9742358326911926
+                },
+                {
+                    "word": " every",
+                    "start": 12.76,
+                    "end": 13.12,
+                    "probability": 0.9879735708236694
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.12,
+            "end": 14.98,
+            "text": " annoyance was designed to teach us something.",
+            "tokens": [
+                51022,
+                8759,
+                719,
+                390,
+                4761,
+                281,
+                2924,
+                505,
+                746,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13586959591159573,
+            "compression_ratio": 1.4879227053140096,
+            "no_speech_prob": 0.016046972945332527,
+            "words": [
+                {
+                    "word": " annoyance",
+                    "start": 13.12,
+                    "end": 13.66,
+                    "probability": 0.9948533177375793
+                },
+                {
+                    "word": " was",
+                    "start": 13.66,
+                    "end": 13.78,
+                    "probability": 0.9893088340759277
+                },
+                {
+                    "word": " designed",
+                    "start": 13.78,
+                    "end": 14.1,
+                    "probability": 0.9990035891532898
+                },
+                {
+                    "word": " to",
+                    "start": 14.1,
+                    "end": 14.3,
+                    "probability": 0.9979774355888367
+                },
+                {
+                    "word": " teach",
+                    "start": 14.3,
+                    "end": 14.54,
+                    "probability": 0.9970356225967407
+                },
+                {
+                    "word": " us",
+                    "start": 14.54,
+                    "end": 14.68,
+                    "probability": 0.9967408776283264
+                },
+                {
+                    "word": " something.",
+                    "start": 14.68,
+                    "end": 14.98,
+                    "probability": 0.9888923764228821
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

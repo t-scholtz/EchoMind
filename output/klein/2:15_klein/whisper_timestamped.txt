@@ -1,0 +1,258 @@
+{
+    "text": " Throw in some sheets of unimportant information. A calibration decal runs from 0.0 milliliters all the way up to 0.00 to 0.000 milliliters. Start.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.22,
+            "text": " Throw in some sheets of unimportant information.",
+            "tokens": [
+                50364,
+                22228,
+                294,
+                512,
+                15421,
+                295,
+                517,
+                41654,
+                1589,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3523814989172894,
+            "compression_ratio": 1.3272727272727274,
+            "no_speech_prob": 0.019990455359220505,
+            "words": [
+                {
+                    "word": " Throw",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.8542405366897583
+                },
+                {
+                    "word": " in",
+                    "start": 0.66,
+                    "end": 0.96,
+                    "probability": 0.9332265257835388
+                },
+                {
+                    "word": " some",
+                    "start": 0.96,
+                    "end": 1.32,
+                    "probability": 0.9943217039108276
+                },
+                {
+                    "word": " sheets",
+                    "start": 1.32,
+                    "end": 1.68,
+                    "probability": 0.9891553521156311
+                },
+                {
+                    "word": " of",
+                    "start": 1.68,
+                    "end": 2.34,
+                    "probability": 0.9959023594856262
+                },
+                {
+                    "word": " unimportant",
+                    "start": 2.34,
+                    "end": 3.54,
+                    "probability": 0.8325722813606262
+                },
+                {
+                    "word": " information.",
+                    "start": 3.54,
+                    "end": 4.22,
+                    "probability": 0.9970301389694214
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.86,
+            "end": 14.2,
+            "text": " A calibration decal runs from 0.0 milliliters all the way up to 0.00 to 0.000 milliliters.",
+            "tokens": [
+                50596,
+                316,
+                38732,
+                979,
+                304,
+                6676,
+                490,
+                1958,
+                13,
+                15,
+                1728,
+                34050,
+                433,
+                439,
+                264,
+                636,
+                493,
+                281,
+                1958,
+                13,
+                628,
+                281,
+                1958,
+                13,
+                1360,
+                1728,
+                34050,
+                433,
+                13,
+                51084
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3523814989172894,
+            "compression_ratio": 1.3272727272727274,
+            "no_speech_prob": 0.019990455359220505,
+            "words": [
+                {
+                    "word": " A",
+                    "start": 4.86,
+                    "end": 5.0,
+                    "probability": 0.9619547128677368
+                },
+                {
+                    "word": " calibration",
+                    "start": 5.0,
+                    "end": 5.78,
+                    "probability": 0.9804189801216125
+                },
+                {
+                    "word": " decal",
+                    "start": 5.78,
+                    "end": 6.34,
+                    "probability": 0.9774286150932312
+                },
+                {
+                    "word": " runs",
+                    "start": 6.34,
+                    "end": 6.86,
+                    "probability": 0.7923555970191956
+                },
+                {
+                    "word": " from",
+                    "start": 6.86,
+                    "end": 7.28,
+                    "probability": 0.9946038126945496
+                },
+                {
+                    "word": " 0",
+                    "start": 7.28,
+                    "end": 7.84,
+                    "probability": 0.9666171073913574
+                },
+                {
+                    "word": ".0",
+                    "start": 7.84,
+                    "end": 8.56,
+                    "probability": 0.9613922536373138
+                },
+                {
+                    "word": " milliliters",
+                    "start": 8.56,
+                    "end": 9.24,
+                    "probability": 0.8000777065753937
+                },
+                {
+                    "word": " all",
+                    "start": 9.24,
+                    "end": 10.04,
+                    "probability": 0.8327763080596924
+                },
+                {
+                    "word": " the",
+                    "start": 10.04,
+                    "end": 10.22,
+                    "probability": 0.9978983402252197
+                },
+                {
+                    "word": " way",
+                    "start": 10.22,
+                    "end": 10.4,
+                    "probability": 0.9993634819984436
+                },
+                {
+                    "word": " up",
+                    "start": 10.4,
+                    "end": 10.58,
+                    "probability": 0.9767994284629822
+                },
+                {
+                    "word": " to",
+                    "start": 10.58,
+                    "end": 10.82,
+                    "probability": 0.9954179525375366
+                },
+                {
+                    "word": " 0",
+                    "start": 10.82,
+                    "end": 11.24,
+                    "probability": 0.8356770277023315
+                },
+                {
+                    "word": ".00",
+                    "start": 11.24,
+                    "end": 11.68,
+                    "probability": 0.3904297649860382
+                },
+                {
+                    "word": " to",
+                    "start": 11.68,
+                    "end": 12.02,
+                    "probability": 0.856515645980835
+                },
+                {
+                    "word": " 0",
+                    "start": 12.02,
+                    "end": 12.46,
+                    "probability": 0.9294332265853882
+                },
+                {
+                    "word": ".000",
+                    "start": 12.46,
+                    "end": 13.24,
+                    "probability": 0.8263716995716095
+                },
+                {
+                    "word": " milliliters.",
+                    "start": 13.24,
+                    "end": 14.2,
+                    "probability": 0.9898305535316467
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.32,
+            "end": 14.62,
+            "text": " Start.",
+            "tokens": [
+                51084,
+                6481,
+                13,
+                51104
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3523814989172894,
+            "compression_ratio": 1.3272727272727274,
+            "no_speech_prob": 0.019990455359220505,
+            "words": [
+                {
+                    "word": " Start.",
+                    "start": 14.32,
+                    "end": 14.62,
+                    "probability": 0.9776775240898132
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

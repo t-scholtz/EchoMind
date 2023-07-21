@@ -1,0 +1,408 @@
+{
+    "text": " Let myself do a bit of basic banging. Ugh, that sounds very strange to say. And tracked multimedia corporation and their unbingable, name through two potential lines of ownership. One through multiple corporate asset acquisitions and name changes that ended up in a multiple",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.26,
+            "text": " Let myself do a bit of basic banging.",
+            "tokens": [
+                50364,
+                961,
+                2059,
+                360,
+                257,
+                857,
+                295,
+                3875,
+                36982,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3593316078186035,
+            "compression_ratio": 1.4972677595628416,
+            "no_speech_prob": 0.02262795902788639,
+            "words": [
+                {
+                    "word": " Let",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.2928939461708069
+                },
+                {
+                    "word": " myself",
+                    "start": 0.24,
+                    "end": 0.62,
+                    "probability": 0.5807572603225708
+                },
+                {
+                    "word": " do",
+                    "start": 0.62,
+                    "end": 0.9,
+                    "probability": 0.9768021702766418
+                },
+                {
+                    "word": " a",
+                    "start": 0.9,
+                    "end": 1.08,
+                    "probability": 0.9842129945755005
+                },
+                {
+                    "word": " bit",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.8986057639122009
+                },
+                {
+                    "word": " of",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.9834758043289185
+                },
+                {
+                    "word": " basic",
+                    "start": 1.54,
+                    "end": 1.9,
+                    "probability": 0.9147983193397522
+                },
+                {
+                    "word": " banging.",
+                    "start": 1.9,
+                    "end": 2.26,
+                    "probability": 0.3992074429988861
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.58,
+            "end": 4.06,
+            "text": " Ugh, that sounds very strange to say.",
+            "tokens": [
+                50476,
+                16506,
+                11,
+                300,
+                3263,
+                588,
+                5861,
+                281,
+                584,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3593316078186035,
+            "compression_ratio": 1.4972677595628416,
+            "no_speech_prob": 0.02262795902788639,
+            "words": [
+                {
+                    "word": " Ugh,",
+                    "start": 2.58,
+                    "end": 2.68,
+                    "probability": 0.13935357332229614
+                },
+                {
+                    "word": " that",
+                    "start": 2.92,
+                    "end": 2.96,
+                    "probability": 0.9730220437049866
+                },
+                {
+                    "word": " sounds",
+                    "start": 2.96,
+                    "end": 3.18,
+                    "probability": 0.9875906705856323
+                },
+                {
+                    "word": " very",
+                    "start": 3.18,
+                    "end": 3.4,
+                    "probability": 0.9539928436279297
+                },
+                {
+                    "word": " strange",
+                    "start": 3.4,
+                    "end": 3.7,
+                    "probability": 0.9952458739280701
+                },
+                {
+                    "word": " to",
+                    "start": 3.7,
+                    "end": 3.86,
+                    "probability": 0.9581690430641174
+                },
+                {
+                    "word": " say.",
+                    "start": 3.86,
+                    "end": 4.06,
+                    "probability": 0.9975594282150269
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.26,
+            "end": 9.46,
+            "text": " And tracked multimedia corporation and their unbingable, name through two potential lines",
+            "tokens": [
+                50580,
+                400,
+                31703,
+                49202,
+                22197,
+                293,
+                641,
+                517,
+                65,
+                278,
+                712,
+                11,
+                1315,
+                807,
+                732,
+                3995,
+                3876,
+                50844
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3593316078186035,
+            "compression_ratio": 1.4972677595628416,
+            "no_speech_prob": 0.02262795902788639,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 4.26,
+                    "end": 4.3,
+                    "probability": 0.5798861980438232
+                },
+                {
+                    "word": " tracked",
+                    "start": 4.3,
+                    "end": 4.56,
+                    "probability": 0.49119409918785095
+                },
+                {
+                    "word": " multimedia",
+                    "start": 4.56,
+                    "end": 5.18,
+                    "probability": 0.9654173851013184
+                },
+                {
+                    "word": " corporation",
+                    "start": 5.18,
+                    "end": 5.82,
+                    "probability": 0.7917335033416748
+                },
+                {
+                    "word": " and",
+                    "start": 5.82,
+                    "end": 6.24,
+                    "probability": 0.8076618909835815
+                },
+                {
+                    "word": " their",
+                    "start": 6.24,
+                    "end": 6.4,
+                    "probability": 0.8130977153778076
+                },
+                {
+                    "word": " unbingable,",
+                    "start": 6.4,
+                    "end": 7.08,
+                    "probability": 0.7561580687761307
+                },
+                {
+                    "word": " name",
+                    "start": 7.26,
+                    "end": 7.86,
+                    "probability": 0.26346680521965027
+                },
+                {
+                    "word": " through",
+                    "start": 7.86,
+                    "end": 8.26,
+                    "probability": 0.8354779481887817
+                },
+                {
+                    "word": " two",
+                    "start": 8.26,
+                    "end": 8.62,
+                    "probability": 0.5953257083892822
+                },
+                {
+                    "word": " potential",
+                    "start": 8.62,
+                    "end": 9.04,
+                    "probability": 0.99094557762146
+                },
+                {
+                    "word": " lines",
+                    "start": 9.04,
+                    "end": 9.46,
+                    "probability": 0.991665780544281
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.46,
+            "end": 10.14,
+            "text": " of ownership.",
+            "tokens": [
+                50844,
+                295,
+                15279,
+                13,
+                50894
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3593316078186035,
+            "compression_ratio": 1.4972677595628416,
+            "no_speech_prob": 0.02262795902788639,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 9.46,
+                    "end": 9.72,
+                    "probability": 0.9970495700836182
+                },
+                {
+                    "word": " ownership.",
+                    "start": 9.72,
+                    "end": 10.14,
+                    "probability": 0.9962784647941589
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.3,
+            "end": 14.98,
+            "text": " One through multiple corporate asset acquisitions and name changes that ended up in a multiple",
+            "tokens": [
+                50894,
+                1485,
+                807,
+                3866,
+                10896,
+                11999,
+                17883,
+                2451,
+                293,
+                1315,
+                2962,
+                300,
+                4590,
+                493,
+                294,
+                257,
+                3866,
+                51116
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3593316078186035,
+            "compression_ratio": 1.4972677595628416,
+            "no_speech_prob": 0.02262795902788639,
+            "words": [
+                {
+                    "word": " One",
+                    "start": 10.3,
+                    "end": 10.44,
+                    "probability": 0.9512835741043091
+                },
+                {
+                    "word": " through",
+                    "start": 10.44,
+                    "end": 10.74,
+                    "probability": 0.9904161691665649
+                },
+                {
+                    "word": " multiple",
+                    "start": 10.74,
+                    "end": 11.28,
+                    "probability": 0.9919702410697937
+                },
+                {
+                    "word": " corporate",
+                    "start": 11.28,
+                    "end": 11.84,
+                    "probability": 0.9685848355293274
+                },
+                {
+                    "word": " asset",
+                    "start": 11.84,
+                    "end": 12.28,
+                    "probability": 0.911618709564209
+                },
+                {
+                    "word": " acquisitions",
+                    "start": 12.28,
+                    "end": 13.02,
+                    "probability": 0.9732726812362671
+                },
+                {
+                    "word": " and",
+                    "start": 13.02,
+                    "end": 13.22,
+                    "probability": 0.8129487633705139
+                },
+                {
+                    "word": " name",
+                    "start": 13.22,
+                    "end": 13.48,
+                    "probability": 0.9505674839019775
+                },
+                {
+                    "word": " changes",
+                    "start": 13.48,
+                    "end": 13.86,
+                    "probability": 0.989500105381012
+                },
+                {
+                    "word": " that",
+                    "start": 13.86,
+                    "end": 14.06,
+                    "probability": 0.980805516242981
+                },
+                {
+                    "word": " ended",
+                    "start": 14.06,
+                    "end": 14.3,
+                    "probability": 0.991828203201294
+                },
+                {
+                    "word": " up",
+                    "start": 14.3,
+                    "end": 14.48,
+                    "probability": 0.9850330948829651
+                },
+                {
+                    "word": " in",
+                    "start": 14.48,
+                    "end": 14.64,
+                    "probability": 0.9968840479850769
+                },
+                {
+                    "word": " a",
+                    "start": 14.64,
+                    "end": 14.74,
+                    "probability": 0.9818829298019409
+                },
+                {
+                    "word": " multiple",
+                    "start": 14.74,
+                    "end": 14.98,
+                    "probability": 0.6699109673500061
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

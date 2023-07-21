@@ -1,0 +1,485 @@
+{
+    "text": " humans that you are, actually making these videos happen, you alone will be able to post in the comments below. The official video discussion which happens over at the Reddit is unchanged, they don't have this problem as much, so if you are a student and thus banned from Patreon, I'll see you next time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.74,
+            "text": " humans that you are, actually making these videos happen, you alone will be able to post",
+            "tokens": [
+                50364,
+                6255,
+                300,
+                291,
+                366,
+                11,
+                767,
+                1455,
+                613,
+                2145,
+                1051,
+                11,
+                291,
+                3312,
+                486,
+                312,
+                1075,
+                281,
+                2183,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23171175638834635,
+            "compression_ratio": 1.4975369458128078,
+            "no_speech_prob": 0.10072436183691025,
+            "words": [
+                {
+                    "word": " humans",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.27362993359565735
+                },
+                {
+                    "word": " that",
+                    "start": 0.28,
+                    "end": 0.44,
+                    "probability": 0.5707321166992188
+                },
+                {
+                    "word": " you",
+                    "start": 0.44,
+                    "end": 0.64,
+                    "probability": 0.970400333404541
+                },
+                {
+                    "word": " are,",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.947966456413269
+                },
+                {
+                    "word": " actually",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.7478082180023193
+                },
+                {
+                    "word": " making",
+                    "start": 1.3,
+                    "end": 1.7,
+                    "probability": 0.9610020518302917
+                },
+                {
+                    "word": " these",
+                    "start": 1.7,
+                    "end": 1.96,
+                    "probability": 0.9234693646430969
+                },
+                {
+                    "word": " videos",
+                    "start": 1.96,
+                    "end": 2.26,
+                    "probability": 0.9782124161720276
+                },
+                {
+                    "word": " happen,",
+                    "start": 2.26,
+                    "end": 2.68,
+                    "probability": 0.986666738986969
+                },
+                {
+                    "word": " you",
+                    "start": 3.0,
+                    "end": 3.16,
+                    "probability": 0.9571885466575623
+                },
+                {
+                    "word": " alone",
+                    "start": 3.16,
+                    "end": 3.58,
+                    "probability": 0.9981731176376343
+                },
+                {
+                    "word": " will",
+                    "start": 3.58,
+                    "end": 3.82,
+                    "probability": 0.9869257211685181
+                },
+                {
+                    "word": " be",
+                    "start": 3.82,
+                    "end": 3.98,
+                    "probability": 0.9876013398170471
+                },
+                {
+                    "word": " able",
+                    "start": 3.98,
+                    "end": 4.24,
+                    "probability": 0.9862740635871887
+                },
+                {
+                    "word": " to",
+                    "start": 4.24,
+                    "end": 4.42,
+                    "probability": 0.9957385063171387
+                },
+                {
+                    "word": " post",
+                    "start": 4.42,
+                    "end": 4.74,
+                    "probability": 0.9846469163894653
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.74,
+            "end": 5.92,
+            "text": " in the comments below.",
+            "tokens": [
+                50608,
+                294,
+                264,
+                3053,
+                2507,
+                13,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23171175638834635,
+            "compression_ratio": 1.4975369458128078,
+            "no_speech_prob": 0.10072436183691025,
+            "words": [
+                {
+                    "word": " in",
+                    "start": 4.74,
+                    "end": 5.0,
+                    "probability": 0.8886565566062927
+                },
+                {
+                    "word": " the",
+                    "start": 5.0,
+                    "end": 5.16,
+                    "probability": 0.982105016708374
+                },
+                {
+                    "word": " comments",
+                    "start": 5.16,
+                    "end": 5.52,
+                    "probability": 0.9887030124664307
+                },
+                {
+                    "word": " below.",
+                    "start": 5.52,
+                    "end": 5.92,
+                    "probability": 0.964713990688324
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.24,
+            "end": 10.42,
+            "text": " The official video discussion which happens over at the Reddit is unchanged, they don't",
+            "tokens": [
+                50680,
+                440,
+                4783,
+                960,
+                5017,
+                597,
+                2314,
+                670,
+                412,
+                264,
+                32210,
+                307,
+                44553,
+                11,
+                436,
+                500,
+                380,
+                50888
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23171175638834635,
+            "compression_ratio": 1.4975369458128078,
+            "no_speech_prob": 0.10072436183691025,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 6.24,
+                    "end": 6.36,
+                    "probability": 0.9521187543869019
+                },
+                {
+                    "word": " official",
+                    "start": 6.36,
+                    "end": 6.74,
+                    "probability": 0.9512386322021484
+                },
+                {
+                    "word": " video",
+                    "start": 6.74,
+                    "end": 7.08,
+                    "probability": 0.9866086840629578
+                },
+                {
+                    "word": " discussion",
+                    "start": 7.08,
+                    "end": 7.54,
+                    "probability": 0.9938637018203735
+                },
+                {
+                    "word": " which",
+                    "start": 7.54,
+                    "end": 7.72,
+                    "probability": 0.5277016162872314
+                },
+                {
+                    "word": " happens",
+                    "start": 7.72,
+                    "end": 8.04,
+                    "probability": 0.9892014265060425
+                },
+                {
+                    "word": " over",
+                    "start": 8.04,
+                    "end": 8.38,
+                    "probability": 0.9686487913131714
+                },
+                {
+                    "word": " at",
+                    "start": 8.38,
+                    "end": 8.66,
+                    "probability": 0.98189777135849
+                },
+                {
+                    "word": " the",
+                    "start": 8.66,
+                    "end": 8.86,
+                    "probability": 0.6480631232261658
+                },
+                {
+                    "word": " Reddit",
+                    "start": 8.86,
+                    "end": 9.08,
+                    "probability": 0.8248836994171143
+                },
+                {
+                    "word": " is",
+                    "start": 9.08,
+                    "end": 9.4,
+                    "probability": 0.9614701867103577
+                },
+                {
+                    "word": " unchanged,",
+                    "start": 9.4,
+                    "end": 9.96,
+                    "probability": 0.8966946601867676
+                },
+                {
+                    "word": " they",
+                    "start": 10.2,
+                    "end": 10.26,
+                    "probability": 0.884270966053009
+                },
+                {
+                    "word": " don't",
+                    "start": 10.26,
+                    "end": 10.42,
+                    "probability": 0.9801715314388275
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.42,
+            "end": 14.84,
+            "text": " have this problem as much, so if you are a student and thus banned from Patreon, I'll",
+            "tokens": [
+                50888,
+                362,
+                341,
+                1154,
+                382,
+                709,
+                11,
+                370,
+                498,
+                291,
+                366,
+                257,
+                3107,
+                293,
+                8807,
+                19564,
+                490,
+                15692,
+                11,
+                286,
+                603,
+                51110
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23171175638834635,
+            "compression_ratio": 1.4975369458128078,
+            "no_speech_prob": 0.10072436183691025,
+            "words": [
+                {
+                    "word": " have",
+                    "start": 10.42,
+                    "end": 10.6,
+                    "probability": 0.9910688400268555
+                },
+                {
+                    "word": " this",
+                    "start": 10.6,
+                    "end": 10.76,
+                    "probability": 0.9335498213768005
+                },
+                {
+                    "word": " problem",
+                    "start": 10.76,
+                    "end": 11.1,
+                    "probability": 0.978331983089447
+                },
+                {
+                    "word": " as",
+                    "start": 11.1,
+                    "end": 11.32,
+                    "probability": 0.8813691735267639
+                },
+                {
+                    "word": " much,",
+                    "start": 11.32,
+                    "end": 11.58,
+                    "probability": 0.9974179267883301
+                },
+                {
+                    "word": " so",
+                    "start": 11.76,
+                    "end": 11.86,
+                    "probability": 0.9843736886978149
+                },
+                {
+                    "word": " if",
+                    "start": 11.86,
+                    "end": 12.1,
+                    "probability": 0.9899652600288391
+                },
+                {
+                    "word": " you",
+                    "start": 12.1,
+                    "end": 12.24,
+                    "probability": 0.9969161748886108
+                },
+                {
+                    "word": " are",
+                    "start": 12.24,
+                    "end": 12.38,
+                    "probability": 0.9701640605926514
+                },
+                {
+                    "word": " a",
+                    "start": 12.38,
+                    "end": 12.56,
+                    "probability": 0.9914194345474243
+                },
+                {
+                    "word": " student",
+                    "start": 12.56,
+                    "end": 12.88,
+                    "probability": 0.9965372085571289
+                },
+                {
+                    "word": " and",
+                    "start": 12.88,
+                    "end": 13.2,
+                    "probability": 0.964192271232605
+                },
+                {
+                    "word": " thus",
+                    "start": 13.2,
+                    "end": 13.42,
+                    "probability": 0.987841784954071
+                },
+                {
+                    "word": " banned",
+                    "start": 13.42,
+                    "end": 13.82,
+                    "probability": 0.9300844073295593
+                },
+                {
+                    "word": " from",
+                    "start": 13.82,
+                    "end": 14.08,
+                    "probability": 0.9958851933479309
+                },
+                {
+                    "word": " Patreon,",
+                    "start": 14.08,
+                    "end": 14.48,
+                    "probability": 0.7150840163230896
+                },
+                {
+                    "word": " I'll",
+                    "start": 14.74,
+                    "end": 14.84,
+                    "probability": 0.9754505157470703
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.84,
+            "end": 14.98,
+            "text": " see you next time.",
+            "tokens": [
+                51110,
+                536,
+                291,
+                958,
+                565,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23171175638834635,
+            "compression_ratio": 1.4975369458128078,
+            "no_speech_prob": 0.10072436183691025,
+            "words": [
+                {
+                    "word": " see",
+                    "start": 14.84,
+                    "end": 14.98,
+                    "probability": 0.9905272722244263
+                },
+                {
+                    "word": " you",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.9282177090644836
+                },
+                {
+                    "word": " next",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.3217712640762329
+                },
+                {
+                    "word": " time.",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.8606081008911133
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

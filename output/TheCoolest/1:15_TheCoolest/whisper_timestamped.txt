@@ -1,0 +1,371 @@
+{
+    "text": " way until 1997 with a curious development as a company multimedia corporation was developing a video game, The 3D World Atlas. And yes, for 190's kids, a digital atlas totally counted as a game. Multi-co noticed Antarctica's flag absence and",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.76,
+            "text": " way until 1997 with a curious development as a company multimedia corporation was developing",
+            "tokens": [
+                50364,
+                636,
+                1826,
+                22383,
+                365,
+                257,
+                6369,
+                3250,
+                382,
+                257,
+                2237,
+                49202,
+                22197,
+                390,
+                6416,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2597866694132487,
+            "compression_ratio": 1.3388888888888888,
+            "no_speech_prob": 0.01929863914847374,
+            "words": [
+                {
+                    "word": " way",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4976087808609009
+                },
+                {
+                    "word": " until",
+                    "start": 0.18,
+                    "end": 0.48,
+                    "probability": 0.7938459515571594
+                },
+                {
+                    "word": " 1997",
+                    "start": 0.48,
+                    "end": 1.08,
+                    "probability": 0.9887298941612244
+                },
+                {
+                    "word": " with",
+                    "start": 1.08,
+                    "end": 1.6,
+                    "probability": 0.7902678847312927
+                },
+                {
+                    "word": " a",
+                    "start": 1.6,
+                    "end": 1.76,
+                    "probability": 0.9819899797439575
+                },
+                {
+                    "word": " curious",
+                    "start": 1.76,
+                    "end": 2.22,
+                    "probability": 0.9108085632324219
+                },
+                {
+                    "word": " development",
+                    "start": 2.22,
+                    "end": 2.76,
+                    "probability": 0.9963221549987793
+                },
+                {
+                    "word": " as",
+                    "start": 2.76,
+                    "end": 2.98,
+                    "probability": 0.7168872356414795
+                },
+                {
+                    "word": " a",
+                    "start": 2.98,
+                    "end": 3.12,
+                    "probability": 0.9937422871589661
+                },
+                {
+                    "word": " company",
+                    "start": 3.12,
+                    "end": 3.52,
+                    "probability": 0.9724245667457581
+                },
+                {
+                    "word": " multimedia",
+                    "start": 3.52,
+                    "end": 4.2,
+                    "probability": 0.6316667795181274
+                },
+                {
+                    "word": " corporation",
+                    "start": 4.2,
+                    "end": 4.94,
+                    "probability": 0.972876250743866
+                },
+                {
+                    "word": " was",
+                    "start": 4.94,
+                    "end": 5.24,
+                    "probability": 0.9599413871765137
+                },
+                {
+                    "word": " developing",
+                    "start": 5.24,
+                    "end": 5.76,
+                    "probability": 0.9962682127952576
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.76,
+            "end": 8.14,
+            "text": " a video game, The 3D World Atlas.",
+            "tokens": [
+                50656,
+                257,
+                960,
+                1216,
+                11,
+                440,
+                805,
+                35,
+                3937,
+                32485,
+                13,
+                50792
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2597866694132487,
+            "compression_ratio": 1.3388888888888888,
+            "no_speech_prob": 0.01929863914847374,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 5.76,
+                    "end": 5.96,
+                    "probability": 0.9517650604248047
+                },
+                {
+                    "word": " video",
+                    "start": 5.96,
+                    "end": 6.26,
+                    "probability": 0.972072422504425
+                },
+                {
+                    "word": " game,",
+                    "start": 6.26,
+                    "end": 6.66,
+                    "probability": 0.9960722923278809
+                },
+                {
+                    "word": " The",
+                    "start": 6.84,
+                    "end": 6.9,
+                    "probability": 0.41519030928611755
+                },
+                {
+                    "word": " 3D",
+                    "start": 6.9,
+                    "end": 7.38,
+                    "probability": 0.9531905353069305
+                },
+                {
+                    "word": " World",
+                    "start": 7.38,
+                    "end": 7.66,
+                    "probability": 0.9364439845085144
+                },
+                {
+                    "word": " Atlas.",
+                    "start": 7.66,
+                    "end": 8.14,
+                    "probability": 0.9075950384140015
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.46,
+            "end": 12.42,
+            "text": " And yes, for 190's kids, a digital atlas totally counted as a game.",
+            "tokens": [
+                50792,
+                400,
+                2086,
+                11,
+                337,
+                37609,
+                311,
+                2301,
+                11,
+                257,
+                4562,
+                412,
+                7743,
+                3879,
+                20150,
+                382,
+                257,
+                1216,
+                13,
+                51004
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2597866694132487,
+            "compression_ratio": 1.3388888888888888,
+            "no_speech_prob": 0.01929863914847374,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 8.46,
+                    "end": 8.56,
+                    "probability": 0.9531199336051941
+                },
+                {
+                    "word": " yes,",
+                    "start": 8.56,
+                    "end": 8.72,
+                    "probability": 0.9277094006538391
+                },
+                {
+                    "word": " for",
+                    "start": 8.86,
+                    "end": 8.92,
+                    "probability": 0.9637950658798218
+                },
+                {
+                    "word": " 190's",
+                    "start": 8.92,
+                    "end": 9.52,
+                    "probability": 0.3104488104581833
+                },
+                {
+                    "word": " kids,",
+                    "start": 9.52,
+                    "end": 9.68,
+                    "probability": 0.9769548177719116
+                },
+                {
+                    "word": " a",
+                    "start": 9.86,
+                    "end": 9.94,
+                    "probability": 0.9765983819961548
+                },
+                {
+                    "word": " digital",
+                    "start": 9.94,
+                    "end": 10.36,
+                    "probability": 0.889713704586029
+                },
+                {
+                    "word": " atlas",
+                    "start": 10.36,
+                    "end": 10.88,
+                    "probability": 0.688118040561676
+                },
+                {
+                    "word": " totally",
+                    "start": 10.88,
+                    "end": 11.34,
+                    "probability": 0.6997988820075989
+                },
+                {
+                    "word": " counted",
+                    "start": 11.34,
+                    "end": 11.84,
+                    "probability": 0.9724413752555847
+                },
+                {
+                    "word": " as",
+                    "start": 11.84,
+                    "end": 12.08,
+                    "probability": 0.9944842457771301
+                },
+                {
+                    "word": " a",
+                    "start": 12.08,
+                    "end": 12.16,
+                    "probability": 0.9932255148887634
+                },
+                {
+                    "word": " game.",
+                    "start": 12.16,
+                    "end": 12.42,
+                    "probability": 0.9969793558120728
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.58,
+            "end": 14.9,
+            "text": " Multi-co noticed Antarctica's flag absence and",
+            "tokens": [
+                51004,
+                29238,
+                12,
+                1291,
+                5694,
+                39866,
+                311,
+                7166,
+                17145,
+                293,
+                51111
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2597866694132487,
+            "compression_ratio": 1.3388888888888888,
+            "no_speech_prob": 0.01929863914847374,
+            "words": [
+                {
+                    "word": " Multi",
+                    "start": 12.58,
+                    "end": 12.8,
+                    "probability": 0.45333489775657654
+                },
+                {
+                    "word": "-co",
+                    "start": 12.8,
+                    "end": 13.02,
+                    "probability": 0.7273336350917816
+                },
+                {
+                    "word": " noticed",
+                    "start": 13.02,
+                    "end": 13.3,
+                    "probability": 0.8690192699432373
+                },
+                {
+                    "word": " Antarctica's",
+                    "start": 13.3,
+                    "end": 14.02,
+                    "probability": 0.9048103988170624
+                },
+                {
+                    "word": " flag",
+                    "start": 14.02,
+                    "end": 14.22,
+                    "probability": 0.8969032764434814
+                },
+                {
+                    "word": " absence",
+                    "start": 14.22,
+                    "end": 14.64,
+                    "probability": 0.9718555212020874
+                },
+                {
+                    "word": " and",
+                    "start": 14.64,
+                    "end": 14.9,
+                    "probability": 0.8599690794944763
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

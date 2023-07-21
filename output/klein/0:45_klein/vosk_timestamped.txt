@@ -1,0 +1,21 @@
+ {'conf': 1.0, 'end': 0.33, 'start': 0.03, 'word': 'right'}
+{'conf': 1.0, 'end': 2.04, 'start': 1.8, 'word': 'take'}
+{'conf': 1.0, 'end': 2.1, 'start': 2.04, 'word': 'a'}
+{'conf': 1.0, 'end': 2.55, 'start': 2.1, 'word': 'picture'}
+{'conf': 1.0, 'end': 2.67, 'start': 2.55, 'word': 'of'}
+{'conf': 1.0, 'end': 2.76, 'start': 2.67, 'word': 'the'}
+{'conf': 1.0, 'end': 3.12, 'start': 2.76, 'word': 'guy'}
+{'conf': 1.0, 'end': 3.84, 'start': 3.42, 'word': 'against'}
+{'conf': 1.0, 'end': 3.93, 'start': 3.84, 'word': 'the'}
+{'conf': 1.0, 'end': 4.38, 'start': 3.93, 'word': 'sky'}
+{'conf': 1.0, 'end': 6.84, 'start': 6.36, 'word': 'against'}
+{'conf': 1.0, 'end': 7.231346, 'start': 6.84, 'word': 'whatever'}
+{'conf': 0.637905, 'end': 7.35, 'start': 7.231346, 'word': 'is'}
+{'conf': 1.0, 'end': 8.01, 'start': 7.35, 'word': 'blossoming'}
+{'conf': 1.0, 'end': 8.43, 'start': 8.07, 'word': 'whatever'}
+{'conf': 0.55438, 'end': 8.741503, 'start': 8.43, 'word': 'leave'}
+{'conf': 0.370338, 'end': 9.18, 'start': 8.92014, 'word': 'are'}
+{'conf': 1.0, 'end': 11.76, 'start': 11.61, 'word': 'how'}
+{'conf': 1.0, 'end': 12.09, 'start': 11.76, 'word': 'about'}
+{'conf': 1.0, 'end': 12.84, 'start': 12.51, 'word': 'hey'}
+silence

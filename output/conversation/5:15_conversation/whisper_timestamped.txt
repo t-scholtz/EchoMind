@@ -1,0 +1,341 @@
+{
+    "text": " Okay, let's recap the vocabulary we've learned from this program on the art of good conversations, starting with Chinwag, a long and pleasant conversation between friends. When something is enriched, it's improved by having something else added to it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.48,
+            "text": " Okay, let's recap the vocabulary we've learned from this program on the art of good conversations,",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                718,
+                311,
+                20928,
+                264,
+                19864,
+                321,
+                600,
+                3264,
+                490,
+                341,
+                1461,
+                322,
+                264,
+                1523,
+                295,
+                665,
+                7315,
+                11,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22699454792758875,
+            "compression_ratio": 1.4593023255813953,
+            "no_speech_prob": 0.009579306468367577,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.4626244306564331
+                },
+                {
+                    "word": " let's",
+                    "start": 0.52,
+                    "end": 0.72,
+                    "probability": 0.9817147552967072
+                },
+                {
+                    "word": " recap",
+                    "start": 0.72,
+                    "end": 1.04,
+                    "probability": 0.9811522960662842
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.9869861006736755
+                },
+                {
+                    "word": " vocabulary",
+                    "start": 1.26,
+                    "end": 1.88,
+                    "probability": 0.9945893287658691
+                },
+                {
+                    "word": " we've",
+                    "start": 1.88,
+                    "end": 2.28,
+                    "probability": 0.9811508059501648
+                },
+                {
+                    "word": " learned",
+                    "start": 2.28,
+                    "end": 2.44,
+                    "probability": 0.8963579535484314
+                },
+                {
+                    "word": " from",
+                    "start": 2.44,
+                    "end": 2.66,
+                    "probability": 0.9949942231178284
+                },
+                {
+                    "word": " this",
+                    "start": 2.66,
+                    "end": 2.82,
+                    "probability": 0.9937466382980347
+                },
+                {
+                    "word": " program",
+                    "start": 2.82,
+                    "end": 3.3,
+                    "probability": 0.6443313956260681
+                },
+                {
+                    "word": " on",
+                    "start": 3.3,
+                    "end": 3.62,
+                    "probability": 0.9578489065170288
+                },
+                {
+                    "word": " the",
+                    "start": 3.62,
+                    "end": 3.76,
+                    "probability": 0.8831979632377625
+                },
+                {
+                    "word": " art",
+                    "start": 3.76,
+                    "end": 4.04,
+                    "probability": 0.6824056506156921
+                },
+                {
+                    "word": " of",
+                    "start": 4.04,
+                    "end": 4.4,
+                    "probability": 0.9900996088981628
+                },
+                {
+                    "word": " good",
+                    "start": 4.4,
+                    "end": 4.64,
+                    "probability": 0.9219847321510315
+                },
+                {
+                    "word": " conversations,",
+                    "start": 4.64,
+                    "end": 5.48,
+                    "probability": 0.9678415656089783
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.82,
+            "end": 10.26,
+            "text": " starting with Chinwag, a long and pleasant conversation between friends.",
+            "tokens": [
+                50656,
+                2891,
+                365,
+                4430,
+                86,
+                559,
+                11,
+                257,
+                938,
+                293,
+                16232,
+                3761,
+                1296,
+                1855,
+                13,
+                50880
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22699454792758875,
+            "compression_ratio": 1.4593023255813953,
+            "no_speech_prob": 0.009579306468367577,
+            "words": [
+                {
+                    "word": " starting",
+                    "start": 5.82,
+                    "end": 6.16,
+                    "probability": 0.9884560108184814
+                },
+                {
+                    "word": " with",
+                    "start": 6.16,
+                    "end": 6.52,
+                    "probability": 0.9960017800331116
+                },
+                {
+                    "word": " Chinwag,",
+                    "start": 6.52,
+                    "end": 7.26,
+                    "probability": 0.7571868896484375
+                },
+                {
+                    "word": " a",
+                    "start": 7.42,
+                    "end": 7.48,
+                    "probability": 0.9209561944007874
+                },
+                {
+                    "word": " long",
+                    "start": 7.48,
+                    "end": 7.78,
+                    "probability": 0.9907440543174744
+                },
+                {
+                    "word": " and",
+                    "start": 7.78,
+                    "end": 8.12,
+                    "probability": 0.9573721885681152
+                },
+                {
+                    "word": " pleasant",
+                    "start": 8.12,
+                    "end": 8.52,
+                    "probability": 0.9948527216911316
+                },
+                {
+                    "word": " conversation",
+                    "start": 8.52,
+                    "end": 9.28,
+                    "probability": 0.997678816318512
+                },
+                {
+                    "word": " between",
+                    "start": 9.28,
+                    "end": 9.66,
+                    "probability": 0.9932756423950195
+                },
+                {
+                    "word": " friends.",
+                    "start": 9.66,
+                    "end": 10.26,
+                    "probability": 0.9847403168678284
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.38,
+            "end": 14.98,
+            "text": " When something is enriched, it's improved by having something else added to it.",
+            "tokens": [
+                50880,
+                1133,
+                746,
+                307,
+                48624,
+                11,
+                309,
+                311,
+                9689,
+                538,
+                1419,
+                746,
+                1646,
+                3869,
+                281,
+                309,
+                13,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22699454792758875,
+            "compression_ratio": 1.4593023255813953,
+            "no_speech_prob": 0.009579306468367577,
+            "words": [
+                {
+                    "word": " When",
+                    "start": 10.38,
+                    "end": 10.52,
+                    "probability": 0.5243109464645386
+                },
+                {
+                    "word": " something",
+                    "start": 10.52,
+                    "end": 10.92,
+                    "probability": 0.9935156106948853
+                },
+                {
+                    "word": " is",
+                    "start": 10.92,
+                    "end": 11.28,
+                    "probability": 0.996492326259613
+                },
+                {
+                    "word": " enriched,",
+                    "start": 11.28,
+                    "end": 11.82,
+                    "probability": 0.9859549403190613
+                },
+                {
+                    "word": " it's",
+                    "start": 12.32,
+                    "end": 12.52,
+                    "probability": 0.9930498600006104
+                },
+                {
+                    "word": " improved",
+                    "start": 12.52,
+                    "end": 13.16,
+                    "probability": 0.9909151196479797
+                },
+                {
+                    "word": " by",
+                    "start": 13.16,
+                    "end": 13.42,
+                    "probability": 0.9488703608512878
+                },
+                {
+                    "word": " having",
+                    "start": 13.42,
+                    "end": 13.64,
+                    "probability": 0.9943291544914246
+                },
+                {
+                    "word": " something",
+                    "start": 13.64,
+                    "end": 14.04,
+                    "probability": 0.9983983635902405
+                },
+                {
+                    "word": " else",
+                    "start": 14.04,
+                    "end": 14.42,
+                    "probability": 0.9987977743148804
+                },
+                {
+                    "word": " added",
+                    "start": 14.42,
+                    "end": 14.76,
+                    "probability": 0.9926940202713013
+                },
+                {
+                    "word": " to",
+                    "start": 14.76,
+                    "end": 14.98,
+                    "probability": 0.972743809223175
+                },
+                {
+                    "word": " it.",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.3683391213417053
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

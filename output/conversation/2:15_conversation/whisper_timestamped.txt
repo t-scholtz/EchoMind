@@ -1,0 +1,321 @@
+{
+    "text": " I was conscious of experiences of others and wanted to try and understand them. Also partially, Michael, it was a survival instinct because I was a little brown boy in a predominantly white school, a state school.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.34,
+            "text": " I was conscious of experiences of others and wanted to try and understand them. Also partially,",
+            "tokens": [
+                50364,
+                286,
+                390,
+                6648,
+                295,
+                5235,
+                295,
+                2357,
+                293,
+                1415,
+                281,
+                853,
+                293,
+                1223,
+                552,
+                13,
+                2743,
+                18886,
+                11,
+                50740
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1542435276265047,
+            "compression_ratio": 1.42,
+            "no_speech_prob": 0.005904123652726412,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.2892513871192932
+                },
+                {
+                    "word": " was",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.2780688405036926
+                },
+                {
+                    "word": " conscious",
+                    "start": 0.36,
+                    "end": 0.86,
+                    "probability": 0.9864485859870911
+                },
+                {
+                    "word": " of",
+                    "start": 0.86,
+                    "end": 1.16,
+                    "probability": 0.9962761402130127
+                },
+                {
+                    "word": " experiences",
+                    "start": 1.16,
+                    "end": 1.82,
+                    "probability": 0.5135413408279419
+                },
+                {
+                    "word": " of",
+                    "start": 1.82,
+                    "end": 2.52,
+                    "probability": 0.9353291392326355
+                },
+                {
+                    "word": " others",
+                    "start": 2.52,
+                    "end": 2.9,
+                    "probability": 0.9979099631309509
+                },
+                {
+                    "word": " and",
+                    "start": 2.9,
+                    "end": 3.68,
+                    "probability": 0.8473266959190369
+                },
+                {
+                    "word": " wanted",
+                    "start": 3.68,
+                    "end": 4.18,
+                    "probability": 0.9924535155296326
+                },
+                {
+                    "word": " to",
+                    "start": 4.18,
+                    "end": 4.62,
+                    "probability": 0.9991305470466614
+                },
+                {
+                    "word": " try",
+                    "start": 4.62,
+                    "end": 5.24,
+                    "probability": 0.9832320213317871
+                },
+                {
+                    "word": " and",
+                    "start": 5.24,
+                    "end": 5.36,
+                    "probability": 0.9397468566894531
+                },
+                {
+                    "word": " understand",
+                    "start": 5.36,
+                    "end": 5.78,
+                    "probability": 0.998141884803772
+                },
+                {
+                    "word": " them.",
+                    "start": 5.78,
+                    "end": 6.02,
+                    "probability": 0.9948594570159912
+                },
+                {
+                    "word": " Also",
+                    "start": 6.14,
+                    "end": 6.5,
+                    "probability": 0.9663186073303223
+                },
+                {
+                    "word": " partially,",
+                    "start": 6.5,
+                    "end": 7.34,
+                    "probability": 0.9292554259300232
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.66,
+            "end": 13.6,
+            "text": " Michael, it was a survival instinct because I was a little brown boy in a predominantly white",
+            "tokens": [
+                50740,
+                5116,
+                11,
+                309,
+                390,
+                257,
+                12559,
+                16556,
+                570,
+                286,
+                390,
+                257,
+                707,
+                6292,
+                3237,
+                294,
+                257,
+                29893,
+                2418,
+                51048
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1542435276265047,
+            "compression_ratio": 1.42,
+            "no_speech_prob": 0.005904123652726412,
+            "words": [
+                {
+                    "word": " Michael,",
+                    "start": 7.66,
+                    "end": 7.96,
+                    "probability": 0.9215627908706665
+                },
+                {
+                    "word": " it",
+                    "start": 8.16,
+                    "end": 8.24,
+                    "probability": 0.9892061948776245
+                },
+                {
+                    "word": " was",
+                    "start": 8.24,
+                    "end": 8.38,
+                    "probability": 0.9989627599716187
+                },
+                {
+                    "word": " a",
+                    "start": 8.38,
+                    "end": 8.48,
+                    "probability": 0.9967288970947266
+                },
+                {
+                    "word": " survival",
+                    "start": 8.48,
+                    "end": 9.0,
+                    "probability": 0.9910820722579956
+                },
+                {
+                    "word": " instinct",
+                    "start": 9.0,
+                    "end": 9.6,
+                    "probability": 0.9975536465644836
+                },
+                {
+                    "word": " because",
+                    "start": 9.6,
+                    "end": 10.1,
+                    "probability": 0.808955729007721
+                },
+                {
+                    "word": " I",
+                    "start": 10.1,
+                    "end": 10.46,
+                    "probability": 0.987015962600708
+                },
+                {
+                    "word": " was",
+                    "start": 10.46,
+                    "end": 10.66,
+                    "probability": 0.9995885491371155
+                },
+                {
+                    "word": " a",
+                    "start": 10.66,
+                    "end": 11.02,
+                    "probability": 0.9964010715484619
+                },
+                {
+                    "word": " little",
+                    "start": 11.02,
+                    "end": 11.32,
+                    "probability": 0.9843209981918335
+                },
+                {
+                    "word": " brown",
+                    "start": 11.32,
+                    "end": 11.66,
+                    "probability": 0.9670840501785278
+                },
+                {
+                    "word": " boy",
+                    "start": 11.66,
+                    "end": 12.14,
+                    "probability": 0.9884433150291443
+                },
+                {
+                    "word": " in",
+                    "start": 12.14,
+                    "end": 12.48,
+                    "probability": 0.9654364585876465
+                },
+                {
+                    "word": " a",
+                    "start": 12.48,
+                    "end": 12.56,
+                    "probability": 0.9983938336372375
+                },
+                {
+                    "word": " predominantly",
+                    "start": 12.56,
+                    "end": 13.08,
+                    "probability": 0.9580860733985901
+                },
+                {
+                    "word": " white",
+                    "start": 13.08,
+                    "end": 13.6,
+                    "probability": 0.9846580028533936
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.6,
+            "end": 14.98,
+            "text": " school, a state school.",
+            "tokens": [
+                51048,
+                1395,
+                11,
+                257,
+                1785,
+                1395,
+                13,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1542435276265047,
+            "compression_ratio": 1.42,
+            "no_speech_prob": 0.005904123652726412,
+            "words": [
+                {
+                    "word": " school,",
+                    "start": 13.6,
+                    "end": 14.0,
+                    "probability": 0.9835804104804993
+                },
+                {
+                    "word": " a",
+                    "start": 14.28,
+                    "end": 14.34,
+                    "probability": 0.9822970032691956
+                },
+                {
+                    "word": " state",
+                    "start": 14.34,
+                    "end": 14.64,
+                    "probability": 0.9665352702140808
+                },
+                {
+                    "word": " school.",
+                    "start": 14.64,
+                    "end": 14.98,
+                    "probability": 0.9887104630470276
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

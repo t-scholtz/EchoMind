@@ -1,0 +1,354 @@
+{
+    "text": " Here's how I sell a client bottle. Somebody goes to my website, buys a bottle. Comes down into my office. I print out a receipt at a packing slip. Okay, let's send it out. This has nothing to do with mathematics.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.26,
+            "text": " Here's how I sell a client bottle. Somebody goes to my website, buys a bottle.",
+            "tokens": [
+                50364,
+                1692,
+                311,
+                577,
+                286,
+                3607,
+                257,
+                6423,
+                7817,
+                13,
+                13463,
+                1709,
+                281,
+                452,
+                3144,
+                11,
+                28153,
+                257,
+                7817,
+                13,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16198334200628872,
+            "compression_ratio": 1.358974358974359,
+            "no_speech_prob": 0.01636854000389576,
+            "words": [
+                {
+                    "word": " Here's",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.783462256193161
+                },
+                {
+                    "word": " how",
+                    "start": 0.44,
+                    "end": 0.54,
+                    "probability": 0.9844599962234497
+                },
+                {
+                    "word": " I",
+                    "start": 0.54,
+                    "end": 0.66,
+                    "probability": 0.938127875328064
+                },
+                {
+                    "word": " sell",
+                    "start": 0.66,
+                    "end": 0.86,
+                    "probability": 0.986393392086029
+                },
+                {
+                    "word": " a",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.8678241968154907
+                },
+                {
+                    "word": " client",
+                    "start": 1.02,
+                    "end": 1.28,
+                    "probability": 0.8202634453773499
+                },
+                {
+                    "word": " bottle.",
+                    "start": 1.28,
+                    "end": 1.56,
+                    "probability": 0.45679399371147156
+                },
+                {
+                    "word": " Somebody",
+                    "start": 2.1,
+                    "end": 2.3,
+                    "probability": 0.9589114189147949
+                },
+                {
+                    "word": " goes",
+                    "start": 2.3,
+                    "end": 2.5,
+                    "probability": 0.9908838868141174
+                },
+                {
+                    "word": " to",
+                    "start": 2.5,
+                    "end": 2.66,
+                    "probability": 0.9964094758033752
+                },
+                {
+                    "word": " my",
+                    "start": 2.66,
+                    "end": 2.8,
+                    "probability": 0.9980021119117737
+                },
+                {
+                    "word": " website,",
+                    "start": 2.8,
+                    "end": 3.2,
+                    "probability": 0.9919285774230957
+                },
+                {
+                    "word": " buys",
+                    "start": 3.6,
+                    "end": 3.8,
+                    "probability": 0.9376174211502075
+                },
+                {
+                    "word": " a",
+                    "start": 3.8,
+                    "end": 4.0,
+                    "probability": 0.9893608689308167
+                },
+                {
+                    "word": " bottle.",
+                    "start": 4.0,
+                    "end": 4.26,
+                    "probability": 0.9994532465934753
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.8,
+            "end": 11.22,
+            "text": " Comes down into my office. I print out a receipt at a packing slip. Okay, let's send it out.",
+            "tokens": [
+                50608,
+                47290,
+                760,
+                666,
+                452,
+                3398,
+                13,
+                286,
+                4482,
+                484,
+                257,
+                33882,
+                412,
+                257,
+                20815,
+                11140,
+                13,
+                1033,
+                11,
+                718,
+                311,
+                2845,
+                309,
+                484,
+                13,
+                50924
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16198334200628872,
+            "compression_ratio": 1.358974358974359,
+            "no_speech_prob": 0.01636854000389576,
+            "words": [
+                {
+                    "word": " Comes",
+                    "start": 4.8,
+                    "end": 5.18,
+                    "probability": 0.9489985108375549
+                },
+                {
+                    "word": " down",
+                    "start": 5.18,
+                    "end": 5.44,
+                    "probability": 0.9948838353157043
+                },
+                {
+                    "word": " into",
+                    "start": 5.44,
+                    "end": 5.72,
+                    "probability": 0.9789460301399231
+                },
+                {
+                    "word": " my",
+                    "start": 5.72,
+                    "end": 5.92,
+                    "probability": 0.9983043670654297
+                },
+                {
+                    "word": " office.",
+                    "start": 5.92,
+                    "end": 6.26,
+                    "probability": 0.9994899034500122
+                },
+                {
+                    "word": " I",
+                    "start": 6.72,
+                    "end": 6.8,
+                    "probability": 0.9688699841499329
+                },
+                {
+                    "word": " print",
+                    "start": 6.8,
+                    "end": 7.16,
+                    "probability": 0.7818863987922668
+                },
+                {
+                    "word": " out",
+                    "start": 7.16,
+                    "end": 7.38,
+                    "probability": 0.991885781288147
+                },
+                {
+                    "word": " a",
+                    "start": 7.38,
+                    "end": 7.86,
+                    "probability": 0.9874847531318665
+                },
+                {
+                    "word": " receipt",
+                    "start": 7.86,
+                    "end": 8.28,
+                    "probability": 0.9987747073173523
+                },
+                {
+                    "word": " at",
+                    "start": 8.28,
+                    "end": 8.88,
+                    "probability": 0.8374254703521729
+                },
+                {
+                    "word": " a",
+                    "start": 8.88,
+                    "end": 8.98,
+                    "probability": 0.941647469997406
+                },
+                {
+                    "word": " packing",
+                    "start": 8.98,
+                    "end": 9.32,
+                    "probability": 0.9899987578392029
+                },
+                {
+                    "word": " slip.",
+                    "start": 9.32,
+                    "end": 9.66,
+                    "probability": 0.977302074432373
+                },
+                {
+                    "word": " Okay,",
+                    "start": 10.06,
+                    "end": 10.28,
+                    "probability": 0.6336601376533508
+                },
+                {
+                    "word": " let's",
+                    "start": 10.5,
+                    "end": 10.8,
+                    "probability": 0.9903147518634796
+                },
+                {
+                    "word": " send",
+                    "start": 10.8,
+                    "end": 10.92,
+                    "probability": 0.9651048183441162
+                },
+                {
+                    "word": " it",
+                    "start": 10.92,
+                    "end": 11.06,
+                    "probability": 0.9982452392578125
+                },
+                {
+                    "word": " out.",
+                    "start": 11.06,
+                    "end": 11.22,
+                    "probability": 0.9933352470397949
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.1,
+            "end": 14.34,
+            "text": " This has nothing to do with mathematics.",
+            "tokens": [
+                50968,
+                639,
+                575,
+                1825,
+                281,
+                360,
+                365,
+                18666,
+                13,
+                51088
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16198334200628872,
+            "compression_ratio": 1.358974358974359,
+            "no_speech_prob": 0.01636854000389576,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 12.1,
+                    "end": 12.36,
+                    "probability": 0.9906120896339417
+                },
+                {
+                    "word": " has",
+                    "start": 12.36,
+                    "end": 12.68,
+                    "probability": 0.9987868666648865
+                },
+                {
+                    "word": " nothing",
+                    "start": 12.68,
+                    "end": 13.18,
+                    "probability": 0.9955528378486633
+                },
+                {
+                    "word": " to",
+                    "start": 13.18,
+                    "end": 13.46,
+                    "probability": 0.9996410608291626
+                },
+                {
+                    "word": " do",
+                    "start": 13.46,
+                    "end": 13.6,
+                    "probability": 0.9981846213340759
+                },
+                {
+                    "word": " with",
+                    "start": 13.6,
+                    "end": 13.8,
+                    "probability": 0.9994103908538818
+                },
+                {
+                    "word": " mathematics.",
+                    "start": 13.8,
+                    "end": 14.34,
+                    "probability": 0.9731623530387878
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

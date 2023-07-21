@@ -1,0 +1,438 @@
+{
+    "text": " with an ownership asterisk we must attend to. But first, Antarctica doesn't have an official flag because she's not an official country. Yes, humans have settled, depending on how much you want to stretch that word, on the ice sheet with scientific outposts, but each is operated by parent countries.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.72,
+            "text": " with an ownership asterisk we must attend to. But first, Antarctica doesn't have an official",
+            "tokens": [
+                50364,
+                365,
+                364,
+                15279,
+                257,
+                3120,
+                7797,
+                321,
+                1633,
+                6888,
+                281,
+                13,
+                583,
+                700,
+                11,
+                39866,
+                1177,
+                380,
+                362,
+                364,
+                4783,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16391738473552547,
+            "compression_ratio": 1.5228426395939085,
+            "no_speech_prob": 0.0022786196786910295,
+            "words": [
+                {
+                    "word": " with",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.33346763253211975
+                },
+                {
+                    "word": " an",
+                    "start": 0.16,
+                    "end": 0.2,
+                    "probability": 0.8711550235748291
+                },
+                {
+                    "word": " ownership",
+                    "start": 0.2,
+                    "end": 0.6,
+                    "probability": 0.9843697547912598
+                },
+                {
+                    "word": " asterisk",
+                    "start": 0.6,
+                    "end": 1.28,
+                    "probability": 0.9536503752072653
+                },
+                {
+                    "word": " we",
+                    "start": 1.28,
+                    "end": 1.48,
+                    "probability": 0.9203819632530212
+                },
+                {
+                    "word": " must",
+                    "start": 1.48,
+                    "end": 1.76,
+                    "probability": 0.9599076509475708
+                },
+                {
+                    "word": " attend",
+                    "start": 1.76,
+                    "end": 2.06,
+                    "probability": 0.9654134511947632
+                },
+                {
+                    "word": " to.",
+                    "start": 2.06,
+                    "end": 2.42,
+                    "probability": 0.9680092930793762
+                },
+                {
+                    "word": " But",
+                    "start": 2.6,
+                    "end": 2.7,
+                    "probability": 0.9682513475418091
+                },
+                {
+                    "word": " first,",
+                    "start": 2.7,
+                    "end": 3.14,
+                    "probability": 0.9467146992683411
+                },
+                {
+                    "word": " Antarctica",
+                    "start": 3.3,
+                    "end": 3.58,
+                    "probability": 0.9752010107040405
+                },
+                {
+                    "word": " doesn't",
+                    "start": 3.58,
+                    "end": 4.08,
+                    "probability": 0.9861940145492554
+                },
+                {
+                    "word": " have",
+                    "start": 4.08,
+                    "end": 4.26,
+                    "probability": 0.9947793483734131
+                },
+                {
+                    "word": " an",
+                    "start": 4.26,
+                    "end": 4.4,
+                    "probability": 0.9745786786079407
+                },
+                {
+                    "word": " official",
+                    "start": 4.4,
+                    "end": 4.72,
+                    "probability": 0.9852145314216614
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.72,
+            "end": 9.36,
+            "text": " flag because she's not an official country. Yes, humans have settled, depending on how",
+            "tokens": [
+                50604,
+                7166,
+                570,
+                750,
+                311,
+                406,
+                364,
+                4783,
+                1941,
+                13,
+                1079,
+                11,
+                6255,
+                362,
+                14819,
+                11,
+                5413,
+                322,
+                577,
+                50832
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16391738473552547,
+            "compression_ratio": 1.5228426395939085,
+            "no_speech_prob": 0.0022786196786910295,
+            "words": [
+                {
+                    "word": " flag",
+                    "start": 4.72,
+                    "end": 5.02,
+                    "probability": 0.9967584013938904
+                },
+                {
+                    "word": " because",
+                    "start": 5.02,
+                    "end": 5.4,
+                    "probability": 0.916899561882019
+                },
+                {
+                    "word": " she's",
+                    "start": 5.4,
+                    "end": 5.92,
+                    "probability": 0.9298704564571381
+                },
+                {
+                    "word": " not",
+                    "start": 5.92,
+                    "end": 6.1,
+                    "probability": 0.9912227392196655
+                },
+                {
+                    "word": " an",
+                    "start": 6.1,
+                    "end": 6.28,
+                    "probability": 0.9905076026916504
+                },
+                {
+                    "word": " official",
+                    "start": 6.28,
+                    "end": 6.58,
+                    "probability": 0.9959683418273926
+                },
+                {
+                    "word": " country.",
+                    "start": 6.58,
+                    "end": 7.02,
+                    "probability": 0.9957427382469177
+                },
+                {
+                    "word": " Yes,",
+                    "start": 7.22,
+                    "end": 7.36,
+                    "probability": 0.9680052995681763
+                },
+                {
+                    "word": " humans",
+                    "start": 7.56,
+                    "end": 7.76,
+                    "probability": 0.9641340970993042
+                },
+                {
+                    "word": " have",
+                    "start": 7.76,
+                    "end": 8.04,
+                    "probability": 0.9946901798248291
+                },
+                {
+                    "word": " settled,",
+                    "start": 8.04,
+                    "end": 8.62,
+                    "probability": 0.7744130492210388
+                },
+                {
+                    "word": " depending",
+                    "start": 8.88,
+                    "end": 9.08,
+                    "probability": 0.9959224462509155
+                },
+                {
+                    "word": " on",
+                    "start": 9.08,
+                    "end": 9.28,
+                    "probability": 0.9904752373695374
+                },
+                {
+                    "word": " how",
+                    "start": 9.28,
+                    "end": 9.36,
+                    "probability": 0.9963399171829224
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.36,
+            "end": 13.08,
+            "text": " much you want to stretch that word, on the ice sheet with scientific outposts, but each",
+            "tokens": [
+                50832,
+                709,
+                291,
+                528,
+                281,
+                5985,
+                300,
+                1349,
+                11,
+                322,
+                264,
+                4435,
+                8193,
+                365,
+                8134,
+                484,
+                23744,
+                82,
+                11,
+                457,
+                1184,
+                51020
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16391738473552547,
+            "compression_ratio": 1.5228426395939085,
+            "no_speech_prob": 0.0022786196786910295,
+            "words": [
+                {
+                    "word": " much",
+                    "start": 9.36,
+                    "end": 9.48,
+                    "probability": 0.9978565573692322
+                },
+                {
+                    "word": " you",
+                    "start": 9.48,
+                    "end": 9.56,
+                    "probability": 0.9831047654151917
+                },
+                {
+                    "word": " want",
+                    "start": 9.56,
+                    "end": 9.62,
+                    "probability": 0.8456771373748779
+                },
+                {
+                    "word": " to",
+                    "start": 9.62,
+                    "end": 9.7,
+                    "probability": 0.9988462924957275
+                },
+                {
+                    "word": " stretch",
+                    "start": 9.7,
+                    "end": 9.9,
+                    "probability": 0.9977046847343445
+                },
+                {
+                    "word": " that",
+                    "start": 9.9,
+                    "end": 10.06,
+                    "probability": 0.9885462522506714
+                },
+                {
+                    "word": " word,",
+                    "start": 10.06,
+                    "end": 10.28,
+                    "probability": 0.997350811958313
+                },
+                {
+                    "word": " on",
+                    "start": 10.48,
+                    "end": 10.62,
+                    "probability": 0.9899617433547974
+                },
+                {
+                    "word": " the",
+                    "start": 10.62,
+                    "end": 10.76,
+                    "probability": 0.9881929755210876
+                },
+                {
+                    "word": " ice",
+                    "start": 10.76,
+                    "end": 10.96,
+                    "probability": 0.9709147214889526
+                },
+                {
+                    "word": " sheet",
+                    "start": 10.96,
+                    "end": 11.2,
+                    "probability": 0.9742660522460938
+                },
+                {
+                    "word": " with",
+                    "start": 11.2,
+                    "end": 11.4,
+                    "probability": 0.964699923992157
+                },
+                {
+                    "word": " scientific",
+                    "start": 11.4,
+                    "end": 11.88,
+                    "probability": 0.9804187417030334
+                },
+                {
+                    "word": " outposts,",
+                    "start": 11.88,
+                    "end": 12.64,
+                    "probability": 0.9940128127733866
+                },
+                {
+                    "word": " but",
+                    "start": 12.66,
+                    "end": 12.72,
+                    "probability": 0.9947394728660583
+                },
+                {
+                    "word": " each",
+                    "start": 12.72,
+                    "end": 13.08,
+                    "probability": 0.980181872844696
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.08,
+            "end": 14.92,
+            "text": " is operated by parent countries.",
+            "tokens": [
+                51020,
+                307,
+                20826,
+                538,
+                2596,
+                3517,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16391738473552547,
+            "compression_ratio": 1.5228426395939085,
+            "no_speech_prob": 0.0022786196786910295,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 13.08,
+                    "end": 13.3,
+                    "probability": 0.9866074323654175
+                },
+                {
+                    "word": " operated",
+                    "start": 13.3,
+                    "end": 13.76,
+                    "probability": 0.9945389628410339
+                },
+                {
+                    "word": " by",
+                    "start": 13.76,
+                    "end": 14.04,
+                    "probability": 0.9976716637611389
+                },
+                {
+                    "word": " parent",
+                    "start": 14.04,
+                    "end": 14.48,
+                    "probability": 0.5043306350708008
+                },
+                {
+                    "word": " countries.",
+                    "start": 14.48,
+                    "end": 14.92,
+                    "probability": 0.8310397267341614
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

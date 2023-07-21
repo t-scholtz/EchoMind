@@ -1,0 +1,385 @@
+{
+    "text": " everywhere, including some who would grow up to end up on Antarctica. Hey, and it's a great flag, I'm not here to fud it. BUT, its origin does raise some questions of copyright. Unlike the original white sheet, uncopyrightable as it's nothing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.9,
+            "text": " everywhere, including some who would grow up to end up on Antarctica.",
+            "tokens": [
+                50364,
+                5315,
+                11,
+                3009,
+                512,
+                567,
+                576,
+                1852,
+                493,
+                281,
+                917,
+                493,
+                322,
+                39866,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36322677836698647,
+            "compression_ratio": 1.4210526315789473,
+            "no_speech_prob": 0.024510163813829422,
+            "words": [
+                {
+                    "word": " everywhere,",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.46598395705223083
+                },
+                {
+                    "word": " including",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.9811253547668457
+                },
+                {
+                    "word": " some",
+                    "start": 0.78,
+                    "end": 1.06,
+                    "probability": 0.9363961219787598
+                },
+                {
+                    "word": " who",
+                    "start": 1.06,
+                    "end": 1.22,
+                    "probability": 0.9617611765861511
+                },
+                {
+                    "word": " would",
+                    "start": 1.22,
+                    "end": 1.38,
+                    "probability": 0.9684791564941406
+                },
+                {
+                    "word": " grow",
+                    "start": 1.38,
+                    "end": 1.56,
+                    "probability": 0.9473520517349243
+                },
+                {
+                    "word": " up",
+                    "start": 1.56,
+                    "end": 1.8,
+                    "probability": 0.9910187721252441
+                },
+                {
+                    "word": " to",
+                    "start": 1.8,
+                    "end": 1.94,
+                    "probability": 0.9692800641059875
+                },
+                {
+                    "word": " end",
+                    "start": 1.94,
+                    "end": 2.2,
+                    "probability": 0.9853148460388184
+                },
+                {
+                    "word": " up",
+                    "start": 2.2,
+                    "end": 2.34,
+                    "probability": 0.9931243062019348
+                },
+                {
+                    "word": " on",
+                    "start": 2.34,
+                    "end": 2.44,
+                    "probability": 0.9142486453056335
+                },
+                {
+                    "word": " Antarctica.",
+                    "start": 2.44,
+                    "end": 2.9,
+                    "probability": 0.9729115962982178
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.24,
+            "end": 5.96,
+            "text": " Hey, and it's a great flag, I'm not here to fud it.",
+            "tokens": [
+                50516,
+                1911,
+                11,
+                293,
+                309,
+                311,
+                257,
+                869,
+                7166,
+                11,
+                286,
+                478,
+                406,
+                510,
+                281,
+                283,
+                532,
+                309,
+                13,
+                50676
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36322677836698647,
+            "compression_ratio": 1.4210526315789473,
+            "no_speech_prob": 0.024510163813829422,
+            "words": [
+                {
+                    "word": " Hey,",
+                    "start": 3.24,
+                    "end": 3.4,
+                    "probability": 0.2743231952190399
+                },
+                {
+                    "word": " and",
+                    "start": 3.72,
+                    "end": 3.92,
+                    "probability": 0.8857519030570984
+                },
+                {
+                    "word": " it's",
+                    "start": 3.92,
+                    "end": 4.14,
+                    "probability": 0.9759070575237274
+                },
+                {
+                    "word": " a",
+                    "start": 4.14,
+                    "end": 4.2,
+                    "probability": 0.9908983111381531
+                },
+                {
+                    "word": " great",
+                    "start": 4.2,
+                    "end": 4.44,
+                    "probability": 0.9672185182571411
+                },
+                {
+                    "word": " flag,",
+                    "start": 4.44,
+                    "end": 4.78,
+                    "probability": 0.9928580522537231
+                },
+                {
+                    "word": " I'm",
+                    "start": 5.08,
+                    "end": 5.18,
+                    "probability": 0.8997418582439423
+                },
+                {
+                    "word": " not",
+                    "start": 5.18,
+                    "end": 5.28,
+                    "probability": 0.9930516481399536
+                },
+                {
+                    "word": " here",
+                    "start": 5.28,
+                    "end": 5.46,
+                    "probability": 0.9934932589530945
+                },
+                {
+                    "word": " to",
+                    "start": 5.46,
+                    "end": 5.64,
+                    "probability": 0.9980442523956299
+                },
+                {
+                    "word": " fud",
+                    "start": 5.64,
+                    "end": 5.82,
+                    "probability": 0.5823886394500732
+                },
+                {
+                    "word": " it.",
+                    "start": 5.82,
+                    "end": 5.96,
+                    "probability": 0.9516057372093201
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.24,
+            "end": 11.18,
+            "text": " BUT, its origin does raise some questions of copyright.",
+            "tokens": [
+                50676,
+                23073,
+                11,
+                1080,
+                4957,
+                775,
+                5300,
+                512,
+                1651,
+                295,
+                17996,
+                13,
+                50944
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36322677836698647,
+            "compression_ratio": 1.4210526315789473,
+            "no_speech_prob": 0.024510163813829422,
+            "words": [
+                {
+                    "word": " BUT,",
+                    "start": 6.24,
+                    "end": 6.88,
+                    "probability": 0.27194979786872864
+                },
+                {
+                    "word": " its",
+                    "start": 7.62,
+                    "end": 7.76,
+                    "probability": 0.6374316215515137
+                },
+                {
+                    "word": " origin",
+                    "start": 7.76,
+                    "end": 8.3,
+                    "probability": 0.9876466989517212
+                },
+                {
+                    "word": " does",
+                    "start": 8.3,
+                    "end": 8.8,
+                    "probability": 0.8689475059509277
+                },
+                {
+                    "word": " raise",
+                    "start": 8.8,
+                    "end": 9.38,
+                    "probability": 0.9843100309371948
+                },
+                {
+                    "word": " some",
+                    "start": 9.38,
+                    "end": 9.82,
+                    "probability": 0.9773494601249695
+                },
+                {
+                    "word": " questions",
+                    "start": 9.82,
+                    "end": 10.34,
+                    "probability": 0.9630281329154968
+                },
+                {
+                    "word": " of",
+                    "start": 10.34,
+                    "end": 10.64,
+                    "probability": 0.9923237562179565
+                },
+                {
+                    "word": " copyright.",
+                    "start": 10.64,
+                    "end": 11.18,
+                    "probability": 0.9913499355316162
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.56,
+            "end": 14.88,
+            "text": " Unlike the original white sheet, uncopyrightable as it's nothing.",
+            "tokens": [
+                50944,
+                17657,
+                264,
+                3380,
+                2418,
+                8193,
+                11,
+                517,
+                13084,
+                88,
+                1938,
+                712,
+                382,
+                309,
+                311,
+                1825,
+                13,
+                51116
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36322677836698647,
+            "compression_ratio": 1.4210526315789473,
+            "no_speech_prob": 0.024510163813829422,
+            "words": [
+                {
+                    "word": " Unlike",
+                    "start": 11.56,
+                    "end": 11.76,
+                    "probability": 0.9891648888587952
+                },
+                {
+                    "word": " the",
+                    "start": 11.76,
+                    "end": 11.96,
+                    "probability": 0.9946690201759338
+                },
+                {
+                    "word": " original",
+                    "start": 11.96,
+                    "end": 12.28,
+                    "probability": 0.991332471370697
+                },
+                {
+                    "word": " white",
+                    "start": 12.28,
+                    "end": 12.56,
+                    "probability": 0.9134914875030518
+                },
+                {
+                    "word": " sheet,",
+                    "start": 12.56,
+                    "end": 12.86,
+                    "probability": 0.984831690788269
+                },
+                {
+                    "word": " uncopyrightable",
+                    "start": 13.04,
+                    "end": 13.92,
+                    "probability": 0.6332546591758728
+                },
+                {
+                    "word": " as",
+                    "start": 13.92,
+                    "end": 14.34,
+                    "probability": 0.7094182372093201
+                },
+                {
+                    "word": " it's",
+                    "start": 14.34,
+                    "end": 14.72,
+                    "probability": 0.7257793992757797
+                },
+                {
+                    "word": " nothing.",
+                    "start": 14.72,
+                    "end": 14.88,
+                    "probability": 0.9360335469245911
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

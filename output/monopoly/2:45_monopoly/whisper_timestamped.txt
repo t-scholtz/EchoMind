@@ -1,0 +1,110 @@
+{
+    "text": " infringement, they further proved the critique on capitalism of their own game.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 3.86,
+            "text": " infringement, they further proved the critique on capitalism of their own game.",
+            "tokens": [
+                50364,
+                45205,
+                1712,
+                11,
+                436,
+                3052,
+                14617,
+                264,
+                25673,
+                322,
+                19704,
+                295,
+                641,
+                1065,
+                1216,
+                13,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22491380903455946,
+            "compression_ratio": 1.0533333333333332,
+            "no_speech_prob": 0.07262736558914185,
+            "words": [
+                {
+                    "word": " infringement,",
+                    "start": 0.08,
+                    "end": 0.62,
+                    "probability": 0.9532191455364227
+                },
+                {
+                    "word": " they",
+                    "start": 0.84,
+                    "end": 0.94,
+                    "probability": 0.9941235184669495
+                },
+                {
+                    "word": " further",
+                    "start": 0.94,
+                    "end": 1.24,
+                    "probability": 0.9976703524589539
+                },
+                {
+                    "word": " proved",
+                    "start": 1.24,
+                    "end": 1.56,
+                    "probability": 0.6291462779045105
+                },
+                {
+                    "word": " the",
+                    "start": 1.56,
+                    "end": 1.72,
+                    "probability": 0.953278124332428
+                },
+                {
+                    "word": " critique",
+                    "start": 1.72,
+                    "end": 1.98,
+                    "probability": 0.9924156665802002
+                },
+                {
+                    "word": " on",
+                    "start": 1.98,
+                    "end": 2.22,
+                    "probability": 0.9918962121009827
+                },
+                {
+                    "word": " capitalism",
+                    "start": 2.22,
+                    "end": 2.78,
+                    "probability": 0.9628983736038208
+                },
+                {
+                    "word": " of",
+                    "start": 2.78,
+                    "end": 3.06,
+                    "probability": 0.9893462061882019
+                },
+                {
+                    "word": " their",
+                    "start": 3.06,
+                    "end": 3.24,
+                    "probability": 0.9980058073997498
+                },
+                {
+                    "word": " own",
+                    "start": 3.24,
+                    "end": 3.5,
+                    "probability": 0.9882948398590088
+                },
+                {
+                    "word": " game.",
+                    "start": 3.5,
+                    "end": 3.86,
+                    "probability": 0.9935099482536316
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

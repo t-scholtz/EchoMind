@@ -1,0 +1,332 @@
+{
+    "text": " How to have better conversations. Here, Nehal tells another radio presenter, Michael Rosen of BBC Radio 4's Word of Mouth, about the influence of his mother, who also love talking to people in her job as a nurse.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 2.12,
+            "text": " How to have better conversations.",
+            "tokens": [
+                50364,
+                1012,
+                281,
+                362,
+                1101,
+                7315,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3501130916454174,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.03437531739473343,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.1,
+                    "end": 0.76,
+                    "probability": 0.2512960433959961
+                },
+                {
+                    "word": " to",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.966913640499115
+                },
+                {
+                    "word": " have",
+                    "start": 0.96,
+                    "end": 1.1,
+                    "probability": 0.7779342532157898
+                },
+                {
+                    "word": " better",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.9837501645088196
+                },
+                {
+                    "word": " conversations.",
+                    "start": 1.36,
+                    "end": 2.12,
+                    "probability": 0.9955043196678162
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.68,
+            "end": 8.28,
+            "text": " Here, Nehal tells another radio presenter, Michael Rosen of BBC Radio 4's Word of",
+            "tokens": [
+                50476,
+                1692,
+                11,
+                1734,
+                4947,
+                5112,
+                1071,
+                6477,
+                35594,
+                11,
+                5116,
+                33630,
+                295,
+                22669,
+                17296,
+                1017,
+                311,
+                8725,
+                295,
+                50775
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3501130916454174,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.03437531739473343,
+            "words": [
+                {
+                    "word": " Here,",
+                    "start": 2.68,
+                    "end": 3.02,
+                    "probability": 0.94830721616745
+                },
+                {
+                    "word": " Nehal",
+                    "start": 3.22,
+                    "end": 3.5,
+                    "probability": 0.4048633873462677
+                },
+                {
+                    "word": " tells",
+                    "start": 3.5,
+                    "end": 3.74,
+                    "probability": 0.9688106775283813
+                },
+                {
+                    "word": " another",
+                    "start": 3.74,
+                    "end": 4.14,
+                    "probability": 0.9937167763710022
+                },
+                {
+                    "word": " radio",
+                    "start": 4.14,
+                    "end": 4.56,
+                    "probability": 0.9013053178787231
+                },
+                {
+                    "word": " presenter,",
+                    "start": 4.56,
+                    "end": 5.1,
+                    "probability": 0.9957740902900696
+                },
+                {
+                    "word": " Michael",
+                    "start": 5.4,
+                    "end": 5.74,
+                    "probability": 0.9850600361824036
+                },
+                {
+                    "word": " Rosen",
+                    "start": 5.74,
+                    "end": 6.14,
+                    "probability": 0.8702132701873779
+                },
+                {
+                    "word": " of",
+                    "start": 6.14,
+                    "end": 6.5,
+                    "probability": 0.6835996508598328
+                },
+                {
+                    "word": " BBC",
+                    "start": 6.5,
+                    "end": 6.72,
+                    "probability": 0.9856175780296326
+                },
+                {
+                    "word": " Radio",
+                    "start": 6.72,
+                    "end": 7.24,
+                    "probability": 0.965849757194519
+                },
+                {
+                    "word": " 4's",
+                    "start": 7.24,
+                    "end": 7.76,
+                    "probability": 0.8410327434539795
+                },
+                {
+                    "word": " Word",
+                    "start": 7.76,
+                    "end": 8.1,
+                    "probability": 0.8382813930511475
+                },
+                {
+                    "word": " of",
+                    "start": 8.1,
+                    "end": 8.28,
+                    "probability": 0.9848204255104065
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.28,
+            "end": 14.4,
+            "text": " Mouth, about the influence of his mother, who also love talking to people in her job as a nurse.",
+            "tokens": [
+                50775,
+                376,
+                2178,
+                11,
+                466,
+                264,
+                6503,
+                295,
+                702,
+                2895,
+                11,
+                567,
+                611,
+                959,
+                1417,
+                281,
+                561,
+                294,
+                720,
+                1691,
+                382,
+                257,
+                14012,
+                13,
+                51092
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3501130916454174,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.03437531739473343,
+            "words": [
+                {
+                    "word": " Mouth,",
+                    "start": 8.28,
+                    "end": 8.64,
+                    "probability": 0.6962195038795471
+                },
+                {
+                    "word": " about",
+                    "start": 9.04,
+                    "end": 9.32,
+                    "probability": 0.9980877041816711
+                },
+                {
+                    "word": " the",
+                    "start": 9.32,
+                    "end": 9.5,
+                    "probability": 0.9973899722099304
+                },
+                {
+                    "word": " influence",
+                    "start": 9.5,
+                    "end": 10.0,
+                    "probability": 0.9916813969612122
+                },
+                {
+                    "word": " of",
+                    "start": 10.0,
+                    "end": 10.26,
+                    "probability": 0.9987474679946899
+                },
+                {
+                    "word": " his",
+                    "start": 10.26,
+                    "end": 10.42,
+                    "probability": 0.9947681427001953
+                },
+                {
+                    "word": " mother,",
+                    "start": 10.42,
+                    "end": 10.76,
+                    "probability": 0.9961644411087036
+                },
+                {
+                    "word": " who",
+                    "start": 11.04,
+                    "end": 11.28,
+                    "probability": 0.9973106384277344
+                },
+                {
+                    "word": " also",
+                    "start": 11.28,
+                    "end": 11.68,
+                    "probability": 0.9970963001251221
+                },
+                {
+                    "word": " love",
+                    "start": 11.68,
+                    "end": 11.96,
+                    "probability": 0.5866330862045288
+                },
+                {
+                    "word": " talking",
+                    "start": 11.96,
+                    "end": 12.3,
+                    "probability": 0.9964706897735596
+                },
+                {
+                    "word": " to",
+                    "start": 12.3,
+                    "end": 12.5,
+                    "probability": 0.9987404942512512
+                },
+                {
+                    "word": " people",
+                    "start": 12.5,
+                    "end": 12.84,
+                    "probability": 0.9984762072563171
+                },
+                {
+                    "word": " in",
+                    "start": 12.84,
+                    "end": 13.28,
+                    "probability": 0.9016802310943604
+                },
+                {
+                    "word": " her",
+                    "start": 13.28,
+                    "end": 13.42,
+                    "probability": 0.9973809123039246
+                },
+                {
+                    "word": " job",
+                    "start": 13.42,
+                    "end": 13.74,
+                    "probability": 0.998487114906311
+                },
+                {
+                    "word": " as",
+                    "start": 13.74,
+                    "end": 13.96,
+                    "probability": 0.9955527186393738
+                },
+                {
+                    "word": " a",
+                    "start": 13.96,
+                    "end": 14.1,
+                    "probability": 0.9963579773902893
+                },
+                {
+                    "word": " nurse.",
+                    "start": 14.1,
+                    "end": 14.4,
+                    "probability": 0.9934033751487732
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

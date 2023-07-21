@@ -1,0 +1,461 @@
+{
+    "text": " experience its message firsthand, which is pretty neat, but it should be advertised as such, not as a family game like Uno. A university professor actually tried to correct for some of these flaws with what he called anti-monopoly, his own take on the game. And when Parker Brothers sued him for copyright.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.6,
+            "text": " experience its message firsthand, which is pretty neat, but it should be advertised as such,",
+            "tokens": [
+                50364,
+                1752,
+                1080,
+                3636,
+                38599,
+                11,
+                597,
+                307,
+                1238,
+                10654,
+                11,
+                457,
+                309,
+                820,
+                312,
+                42310,
+                382,
+                1270,
+                11,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15678368977137974,
+            "compression_ratio": 1.4805825242718447,
+            "no_speech_prob": 0.0034297537058591843,
+            "words": [
+                {
+                    "word": " experience",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.7032991647720337
+                },
+                {
+                    "word": " its",
+                    "start": 0.44,
+                    "end": 0.64,
+                    "probability": 0.6771150231361389
+                },
+                {
+                    "word": " message",
+                    "start": 0.64,
+                    "end": 0.94,
+                    "probability": 0.9031820893287659
+                },
+                {
+                    "word": " firsthand,",
+                    "start": 0.94,
+                    "end": 1.58,
+                    "probability": 0.6279827952384949
+                },
+                {
+                    "word": " which",
+                    "start": 1.88,
+                    "end": 2.0,
+                    "probability": 0.9702110886573792
+                },
+                {
+                    "word": " is",
+                    "start": 2.0,
+                    "end": 2.18,
+                    "probability": 0.9683626294136047
+                },
+                {
+                    "word": " pretty",
+                    "start": 2.18,
+                    "end": 2.5,
+                    "probability": 0.8365588188171387
+                },
+                {
+                    "word": " neat,",
+                    "start": 2.5,
+                    "end": 2.82,
+                    "probability": 0.9994614720344543
+                },
+                {
+                    "word": " but",
+                    "start": 3.06,
+                    "end": 3.12,
+                    "probability": 0.9817937612533569
+                },
+                {
+                    "word": " it",
+                    "start": 3.12,
+                    "end": 3.22,
+                    "probability": 0.9606974124908447
+                },
+                {
+                    "word": " should",
+                    "start": 3.22,
+                    "end": 3.36,
+                    "probability": 0.9924935102462769
+                },
+                {
+                    "word": " be",
+                    "start": 3.36,
+                    "end": 3.52,
+                    "probability": 0.9742466807365417
+                },
+                {
+                    "word": " advertised",
+                    "start": 3.52,
+                    "end": 3.92,
+                    "probability": 0.9850103259086609
+                },
+                {
+                    "word": " as",
+                    "start": 3.92,
+                    "end": 4.24,
+                    "probability": 0.9877471923828125
+                },
+                {
+                    "word": " such,",
+                    "start": 4.24,
+                    "end": 4.6,
+                    "probability": 0.9943124055862427
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.72,
+            "end": 9.48,
+            "text": " not as a family game like Uno. A university professor actually tried to correct for some of these",
+            "tokens": [
+                50596,
+                406,
+                382,
+                257,
+                1605,
+                1216,
+                411,
+                37468,
+                13,
+                316,
+                5454,
+                8304,
+                767,
+                3031,
+                281,
+                3006,
+                337,
+                512,
+                295,
+                613,
+                50836
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15678368977137974,
+            "compression_ratio": 1.4805825242718447,
+            "no_speech_prob": 0.0034297537058591843,
+            "words": [
+                {
+                    "word": " not",
+                    "start": 4.72,
+                    "end": 4.84,
+                    "probability": 0.9909811615943909
+                },
+                {
+                    "word": " as",
+                    "start": 4.84,
+                    "end": 5.04,
+                    "probability": 0.9757049679756165
+                },
+                {
+                    "word": " a",
+                    "start": 5.04,
+                    "end": 5.14,
+                    "probability": 0.9855146408081055
+                },
+                {
+                    "word": " family",
+                    "start": 5.14,
+                    "end": 5.42,
+                    "probability": 0.950437068939209
+                },
+                {
+                    "word": " game",
+                    "start": 5.42,
+                    "end": 5.72,
+                    "probability": 0.9856262803077698
+                },
+                {
+                    "word": " like",
+                    "start": 5.72,
+                    "end": 5.96,
+                    "probability": 0.904526948928833
+                },
+                {
+                    "word": " Uno.",
+                    "start": 5.96,
+                    "end": 6.26,
+                    "probability": 0.7510295510292053
+                },
+                {
+                    "word": " A",
+                    "start": 6.68,
+                    "end": 6.78,
+                    "probability": 0.9585581421852112
+                },
+                {
+                    "word": " university",
+                    "start": 6.78,
+                    "end": 7.24,
+                    "probability": 0.9052681922912598
+                },
+                {
+                    "word": " professor",
+                    "start": 7.24,
+                    "end": 7.76,
+                    "probability": 0.9925833940505981
+                },
+                {
+                    "word": " actually",
+                    "start": 7.76,
+                    "end": 8.16,
+                    "probability": 0.9835367798805237
+                },
+                {
+                    "word": " tried",
+                    "start": 8.16,
+                    "end": 8.44,
+                    "probability": 0.9019746780395508
+                },
+                {
+                    "word": " to",
+                    "start": 8.44,
+                    "end": 8.58,
+                    "probability": 0.9967130422592163
+                },
+                {
+                    "word": " correct",
+                    "start": 8.58,
+                    "end": 8.82,
+                    "probability": 0.9915939569473267
+                },
+                {
+                    "word": " for",
+                    "start": 8.82,
+                    "end": 9.02,
+                    "probability": 0.9484700560569763
+                },
+                {
+                    "word": " some",
+                    "start": 9.02,
+                    "end": 9.16,
+                    "probability": 0.9927796721458435
+                },
+                {
+                    "word": " of",
+                    "start": 9.16,
+                    "end": 9.28,
+                    "probability": 0.9904776811599731
+                },
+                {
+                    "word": " these",
+                    "start": 9.28,
+                    "end": 9.48,
+                    "probability": 0.9787920713424683
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.48,
+            "end": 14.22,
+            "text": " flaws with what he called anti-monopoly, his own take on the game. And when Parker Brothers sued",
+            "tokens": [
+                50836,
+                27108,
+                365,
+                437,
+                415,
+                1219,
+                6061,
+                12,
+                3317,
+                27891,
+                11,
+                702,
+                1065,
+                747,
+                322,
+                264,
+                1216,
+                13,
+                400,
+                562,
+                20155,
+                19886,
+                33864,
+                51072
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15678368977137974,
+            "compression_ratio": 1.4805825242718447,
+            "no_speech_prob": 0.0034297537058591843,
+            "words": [
+                {
+                    "word": " flaws",
+                    "start": 9.48,
+                    "end": 9.76,
+                    "probability": 0.9910667538642883
+                },
+                {
+                    "word": " with",
+                    "start": 9.76,
+                    "end": 10.1,
+                    "probability": 0.8466789722442627
+                },
+                {
+                    "word": " what",
+                    "start": 10.1,
+                    "end": 10.26,
+                    "probability": 0.9954173564910889
+                },
+                {
+                    "word": " he",
+                    "start": 10.26,
+                    "end": 10.36,
+                    "probability": 0.9917866587638855
+                },
+                {
+                    "word": " called",
+                    "start": 10.36,
+                    "end": 10.6,
+                    "probability": 0.9879276156425476
+                },
+                {
+                    "word": " anti",
+                    "start": 10.6,
+                    "end": 11.04,
+                    "probability": 0.6013554930686951
+                },
+                {
+                    "word": "-monopoly,",
+                    "start": 11.04,
+                    "end": 11.52,
+                    "probability": 0.919867475827535
+                },
+                {
+                    "word": " his",
+                    "start": 11.78,
+                    "end": 11.9,
+                    "probability": 0.9844675064086914
+                },
+                {
+                    "word": " own",
+                    "start": 11.9,
+                    "end": 12.08,
+                    "probability": 0.9727007150650024
+                },
+                {
+                    "word": " take",
+                    "start": 12.08,
+                    "end": 12.3,
+                    "probability": 0.9818407893180847
+                },
+                {
+                    "word": " on",
+                    "start": 12.3,
+                    "end": 12.46,
+                    "probability": 0.978598952293396
+                },
+                {
+                    "word": " the",
+                    "start": 12.46,
+                    "end": 12.58,
+                    "probability": 0.9913632869720459
+                },
+                {
+                    "word": " game.",
+                    "start": 12.58,
+                    "end": 12.82,
+                    "probability": 0.9971139430999756
+                },
+                {
+                    "word": " And",
+                    "start": 13.1,
+                    "end": 13.18,
+                    "probability": 0.9661828279495239
+                },
+                {
+                    "word": " when",
+                    "start": 13.18,
+                    "end": 13.3,
+                    "probability": 0.984240710735321
+                },
+                {
+                    "word": " Parker",
+                    "start": 13.3,
+                    "end": 13.56,
+                    "probability": 0.9719622731208801
+                },
+                {
+                    "word": " Brothers",
+                    "start": 13.56,
+                    "end": 13.88,
+                    "probability": 0.4726697504520416
+                },
+                {
+                    "word": " sued",
+                    "start": 13.88,
+                    "end": 14.22,
+                    "probability": 0.9796196818351746
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 1422,
+            "start": 14.22,
+            "end": 14.84,
+            "text": " him for copyright.",
+            "tokens": [
+                50364,
+                796,
+                337,
+                17996,
+                13,
+                50404
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5397283690316337,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.8962362408638,
+            "words": [
+                {
+                    "word": " him",
+                    "start": 14.22,
+                    "end": 14.38,
+                    "probability": 0.703730046749115
+                },
+                {
+                    "word": " for",
+                    "start": 14.38,
+                    "end": 14.56,
+                    "probability": 0.9959249496459961
+                },
+                {
+                    "word": " copyright.",
+                    "start": 14.56,
+                    "end": 14.84,
+                    "probability": 0.9220682382583618
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

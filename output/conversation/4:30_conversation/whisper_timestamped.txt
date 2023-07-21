@@ -1,0 +1,438 @@
+{
+    "text": " Did you do any of these things when you met up with your old school friend? I think so. We both listened to each other. There was no tittle tattled, but a little bit of gossip. Before we knew it, a couple of hours had passed, but not as much time as those",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.46,
+            "text": " Did you do any of these things when you met up with your old school friend?",
+            "tokens": [
+                50364,
+                2589,
+                291,
+                360,
+                604,
+                295,
+                613,
+                721,
+                562,
+                291,
+                1131,
+                493,
+                365,
+                428,
+                1331,
+                1395,
+                1277,
+                30,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1865023626408107,
+            "compression_ratio": 1.4655172413793103,
+            "no_speech_prob": 0.007006346248090267,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.4751412272453308
+                },
+                {
+                    "word": " you",
+                    "start": 0.2,
+                    "end": 0.4,
+                    "probability": 0.9962001442909241
+                },
+                {
+                    "word": " do",
+                    "start": 0.4,
+                    "end": 0.56,
+                    "probability": 0.9962182641029358
+                },
+                {
+                    "word": " any",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.987880289554596
+                },
+                {
+                    "word": " of",
+                    "start": 0.84,
+                    "end": 0.96,
+                    "probability": 0.9943389296531677
+                },
+                {
+                    "word": " these",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.9915681481361389
+                },
+                {
+                    "word": " things",
+                    "start": 1.18,
+                    "end": 1.48,
+                    "probability": 0.9934350252151489
+                },
+                {
+                    "word": " when",
+                    "start": 1.48,
+                    "end": 1.74,
+                    "probability": 0.9799187183380127
+                },
+                {
+                    "word": " you",
+                    "start": 1.74,
+                    "end": 1.92,
+                    "probability": 0.9989603757858276
+                },
+                {
+                    "word": " met",
+                    "start": 1.92,
+                    "end": 2.12,
+                    "probability": 0.9891501069068909
+                },
+                {
+                    "word": " up",
+                    "start": 2.12,
+                    "end": 2.3,
+                    "probability": 0.9958190321922302
+                },
+                {
+                    "word": " with",
+                    "start": 2.3,
+                    "end": 2.48,
+                    "probability": 0.9963110089302063
+                },
+                {
+                    "word": " your",
+                    "start": 2.48,
+                    "end": 2.64,
+                    "probability": 0.9983412027359009
+                },
+                {
+                    "word": " old",
+                    "start": 2.64,
+                    "end": 2.9,
+                    "probability": 0.9960830211639404
+                },
+                {
+                    "word": " school",
+                    "start": 2.9,
+                    "end": 3.2,
+                    "probability": 0.9393237233161926
+                },
+                {
+                    "word": " friend?",
+                    "start": 3.2,
+                    "end": 3.46,
+                    "probability": 0.9448456764221191
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.78,
+            "end": 9.58,
+            "text": " I think so. We both listened to each other. There was no tittle tattled, but a little bit of gossip.",
+            "tokens": [
+                50548,
+                286,
+                519,
+                370,
+                13,
+                492,
+                1293,
+                13207,
+                281,
+                1184,
+                661,
+                13,
+                821,
+                390,
+                572,
+                256,
+                703,
+                256,
+                1591,
+                1493,
+                11,
+                457,
+                257,
+                707,
+                857,
+                295,
+                31788,
+                13,
+                50860
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1865023626408107,
+            "compression_ratio": 1.4655172413793103,
+            "no_speech_prob": 0.007006346248090267,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 3.78,
+                    "end": 3.86,
+                    "probability": 0.9388509392738342
+                },
+                {
+                    "word": " think",
+                    "start": 3.86,
+                    "end": 4.06,
+                    "probability": 0.9965974688529968
+                },
+                {
+                    "word": " so.",
+                    "start": 4.06,
+                    "end": 4.42,
+                    "probability": 0.9926639795303345
+                },
+                {
+                    "word": " We",
+                    "start": 4.86,
+                    "end": 4.94,
+                    "probability": 0.992877185344696
+                },
+                {
+                    "word": " both",
+                    "start": 4.94,
+                    "end": 5.16,
+                    "probability": 0.996476948261261
+                },
+                {
+                    "word": " listened",
+                    "start": 5.16,
+                    "end": 5.52,
+                    "probability": 0.9618350863456726
+                },
+                {
+                    "word": " to",
+                    "start": 5.52,
+                    "end": 5.8,
+                    "probability": 0.9989820122718811
+                },
+                {
+                    "word": " each",
+                    "start": 5.8,
+                    "end": 6.02,
+                    "probability": 0.9974339604377747
+                },
+                {
+                    "word": " other.",
+                    "start": 6.02,
+                    "end": 6.24,
+                    "probability": 0.991733193397522
+                },
+                {
+                    "word": " There",
+                    "start": 6.6,
+                    "end": 6.68,
+                    "probability": 0.99483323097229
+                },
+                {
+                    "word": " was",
+                    "start": 6.68,
+                    "end": 6.8,
+                    "probability": 0.9939739108085632
+                },
+                {
+                    "word": " no",
+                    "start": 6.8,
+                    "end": 7.0,
+                    "probability": 0.9982494711875916
+                },
+                {
+                    "word": " tittle",
+                    "start": 7.0,
+                    "end": 7.5,
+                    "probability": 0.6192582249641418
+                },
+                {
+                    "word": " tattled,",
+                    "start": 7.5,
+                    "end": 8.04,
+                    "probability": 0.5778629084428152
+                },
+                {
+                    "word": " but",
+                    "start": 8.18,
+                    "end": 8.28,
+                    "probability": 0.9972898960113525
+                },
+                {
+                    "word": " a",
+                    "start": 8.28,
+                    "end": 8.6,
+                    "probability": 0.9797800183296204
+                },
+                {
+                    "word": " little",
+                    "start": 8.6,
+                    "end": 8.94,
+                    "probability": 0.9970870614051819
+                },
+                {
+                    "word": " bit",
+                    "start": 8.94,
+                    "end": 9.12,
+                    "probability": 0.9985839128494263
+                },
+                {
+                    "word": " of",
+                    "start": 9.12,
+                    "end": 9.26,
+                    "probability": 0.974614679813385
+                },
+                {
+                    "word": " gossip.",
+                    "start": 9.26,
+                    "end": 9.58,
+                    "probability": 0.9769229888916016
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.0,
+            "end": 14.78,
+            "text": " Before we knew it, a couple of hours had passed, but not as much time as those",
+            "tokens": [
+                50860,
+                4546,
+                321,
+                2586,
+                309,
+                11,
+                257,
+                1916,
+                295,
+                2496,
+                632,
+                4678,
+                11,
+                457,
+                406,
+                382,
+                709,
+                565,
+                382,
+                729,
+                51100
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1865023626408107,
+            "compression_ratio": 1.4655172413793103,
+            "no_speech_prob": 0.007006346248090267,
+            "words": [
+                {
+                    "word": " Before",
+                    "start": 10.0,
+                    "end": 10.26,
+                    "probability": 0.995029866695404
+                },
+                {
+                    "word": " we",
+                    "start": 10.26,
+                    "end": 10.44,
+                    "probability": 0.9785158634185791
+                },
+                {
+                    "word": " knew",
+                    "start": 10.44,
+                    "end": 10.62,
+                    "probability": 0.9996415376663208
+                },
+                {
+                    "word": " it,",
+                    "start": 10.62,
+                    "end": 10.82,
+                    "probability": 0.9976204037666321
+                },
+                {
+                    "word": " a",
+                    "start": 10.84,
+                    "end": 10.92,
+                    "probability": 0.9965165853500366
+                },
+                {
+                    "word": " couple",
+                    "start": 10.92,
+                    "end": 11.18,
+                    "probability": 0.9996217489242554
+                },
+                {
+                    "word": " of",
+                    "start": 11.18,
+                    "end": 11.36,
+                    "probability": 0.970455527305603
+                },
+                {
+                    "word": " hours",
+                    "start": 11.36,
+                    "end": 11.66,
+                    "probability": 0.9862257242202759
+                },
+                {
+                    "word": " had",
+                    "start": 11.66,
+                    "end": 11.94,
+                    "probability": 0.9936517477035522
+                },
+                {
+                    "word": " passed,",
+                    "start": 11.94,
+                    "end": 12.52,
+                    "probability": 0.9929171800613403
+                },
+                {
+                    "word": " but",
+                    "start": 12.78,
+                    "end": 13.08,
+                    "probability": 0.9969562292098999
+                },
+                {
+                    "word": " not",
+                    "start": 13.08,
+                    "end": 13.5,
+                    "probability": 0.9071098566055298
+                },
+                {
+                    "word": " as",
+                    "start": 13.5,
+                    "end": 13.72,
+                    "probability": 0.9919107556343079
+                },
+                {
+                    "word": " much",
+                    "start": 13.72,
+                    "end": 13.96,
+                    "probability": 0.9995781779289246
+                },
+                {
+                    "word": " time",
+                    "start": 13.96,
+                    "end": 14.32,
+                    "probability": 0.999016523361206
+                },
+                {
+                    "word": " as",
+                    "start": 14.32,
+                    "end": 14.52,
+                    "probability": 0.9942854046821594
+                },
+                {
+                    "word": " those",
+                    "start": 14.52,
+                    "end": 14.78,
+                    "probability": 0.9753550291061401
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

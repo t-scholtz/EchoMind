@@ -1,0 +1,20 @@
+ silence{'conf': 1.0, 'end': 8.1, 'start': 7.95, 'word': "it's"}
+{'conf': 1.0, 'end': 8.16, 'start': 8.1, 'word': 'a'}
+{'conf': 1.0, 'end': 8.552424, 'start': 8.16, 'word': 'bottle'}
+{'conf': 0.368436, 'end': 8.61, 'start': 8.552424, 'word': 'of'}
+{'conf': 1.0, 'end': 9.27, 'start': 8.94, 'word': 'glass'}
+{'conf': 0.488115, 'end': 9.69, 'start': 9.27, 'word': 'bottles'}
+{'conf': 0.803907, 'end': 9.99, 'start': 9.842728, 'word': 'to'}
+{'conf': 1.0, 'end': 10.14, 'start': 9.992191, 'word': 'i'}
+{'conf': 1.0, 'end': 10.41, 'start': 10.14, 'word': 'hope'}
+{'conf': 1.0, 'end': 10.86, 'start': 10.47, 'word': 'means'}
+{'conf': 1.0, 'end': 11.55, 'start': 10.86, 'word': 'fragile'}
+{'conf': 0.520867, 'end': 12.63, 'start': 12.21, 'word': 'mr'}
+{'conf': 1.0, 'end': 13.11, 'start': 12.63, 'word': 'fragile'}
+{'conf': 1.0, 'end': 13.2, 'start': 13.11, 'word': 'or'}
+{'conf': 1.0, 'end': 13.5, 'start': 13.2, 'word': 'maybe'}
+{'conf': 1.0, 'end': 13.8, 'start': 13.5, 'word': 'miss'}
+{'conf': 1.0, 'end': 14.31, 'start': 13.8, 'word': 'fragile'}
+{'conf': 0.413936, 'end': 14.4, 'start': 14.31, 'word': 'are'}
+{'conf': 0.598042, 'end': 14.79, 'start': 14.4, 'word': 'mrs'}
+{'conf': 0.858043, 'end': 14.94, 'start': 14.79, 'word': 'for'}

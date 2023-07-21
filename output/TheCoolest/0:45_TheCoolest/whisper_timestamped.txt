@@ -1,0 +1,430 @@
+{
+    "text": " 1. The continent has cried out for one right from the first in 1929 when an early research vessel flew a white sheet as a flag of courtesy for passing through Antarctica's waters, even though there were not but penguins to appreciate the gesture. It was done just for the",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.66,
+            "text": " 1. The continent has cried out for one right from the first in 1929 when an early research",
+            "tokens": [
+                50364,
+                502,
+                13,
+                440,
+                18932,
+                575,
+                16266,
+                484,
+                337,
+                472,
+                558,
+                490,
+                264,
+                700,
+                294,
+                1294,
+                11871,
+                562,
+                364,
+                2440,
+                2132,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22566033876859226,
+            "compression_ratio": 1.433862433862434,
+            "no_speech_prob": 0.002304480178281665,
+            "words": [
+                {
+                    "word": " 1.",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.09967469424009323
+                },
+                {
+                    "word": " The",
+                    "start": 0.4,
+                    "end": 0.54,
+                    "probability": 0.8965274095535278
+                },
+                {
+                    "word": " continent",
+                    "start": 0.54,
+                    "end": 0.88,
+                    "probability": 0.7127944827079773
+                },
+                {
+                    "word": " has",
+                    "start": 0.88,
+                    "end": 1.26,
+                    "probability": 0.976918637752533
+                },
+                {
+                    "word": " cried",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.9042533040046692
+                },
+                {
+                    "word": " out",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.9875451922416687
+                },
+                {
+                    "word": " for",
+                    "start": 1.7,
+                    "end": 1.88,
+                    "probability": 0.9876872897148132
+                },
+                {
+                    "word": " one",
+                    "start": 1.88,
+                    "end": 2.08,
+                    "probability": 0.8729453682899475
+                },
+                {
+                    "word": " right",
+                    "start": 2.08,
+                    "end": 2.42,
+                    "probability": 0.9389745593070984
+                },
+                {
+                    "word": " from",
+                    "start": 2.42,
+                    "end": 2.7,
+                    "probability": 0.9876030087471008
+                },
+                {
+                    "word": " the",
+                    "start": 2.7,
+                    "end": 2.82,
+                    "probability": 0.871656060218811
+                },
+                {
+                    "word": " first",
+                    "start": 2.82,
+                    "end": 3.1,
+                    "probability": 0.9031715989112854
+                },
+                {
+                    "word": " in",
+                    "start": 3.1,
+                    "end": 3.36,
+                    "probability": 0.836969256401062
+                },
+                {
+                    "word": " 1929",
+                    "start": 3.36,
+                    "end": 4.42,
+                    "probability": 0.9889463782310486
+                },
+                {
+                    "word": " when",
+                    "start": 4.42,
+                    "end": 4.76,
+                    "probability": 0.6363779306411743
+                },
+                {
+                    "word": " an",
+                    "start": 4.76,
+                    "end": 5.0,
+                    "probability": 0.9649587273597717
+                },
+                {
+                    "word": " early",
+                    "start": 5.0,
+                    "end": 5.3,
+                    "probability": 0.996103048324585
+                },
+                {
+                    "word": " research",
+                    "start": 5.3,
+                    "end": 5.66,
+                    "probability": 0.9513183236122131
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.66,
+            "end": 10.58,
+            "text": " vessel flew a white sheet as a flag of courtesy for passing through Antarctica's waters, even",
+            "tokens": [
+                50648,
+                18098,
+                15728,
+                257,
+                2418,
+                8193,
+                382,
+                257,
+                7166,
+                295,
+                41704,
+                337,
+                8437,
+                807,
+                39866,
+                311,
+                12975,
+                11,
+                754,
+                50894
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22566033876859226,
+            "compression_ratio": 1.433862433862434,
+            "no_speech_prob": 0.002304480178281665,
+            "words": [
+                {
+                    "word": " vessel",
+                    "start": 5.66,
+                    "end": 6.0,
+                    "probability": 0.9744617342948914
+                },
+                {
+                    "word": " flew",
+                    "start": 6.0,
+                    "end": 6.24,
+                    "probability": 0.9951106905937195
+                },
+                {
+                    "word": " a",
+                    "start": 6.24,
+                    "end": 6.44,
+                    "probability": 0.9854372143745422
+                },
+                {
+                    "word": " white",
+                    "start": 6.44,
+                    "end": 6.68,
+                    "probability": 0.9708263874053955
+                },
+                {
+                    "word": " sheet",
+                    "start": 6.68,
+                    "end": 6.96,
+                    "probability": 0.9670453667640686
+                },
+                {
+                    "word": " as",
+                    "start": 6.96,
+                    "end": 7.18,
+                    "probability": 0.975378692150116
+                },
+                {
+                    "word": " a",
+                    "start": 7.18,
+                    "end": 7.32,
+                    "probability": 0.9958177208900452
+                },
+                {
+                    "word": " flag",
+                    "start": 7.32,
+                    "end": 7.58,
+                    "probability": 0.9858875870704651
+                },
+                {
+                    "word": " of",
+                    "start": 7.58,
+                    "end": 7.76,
+                    "probability": 0.9963951706886292
+                },
+                {
+                    "word": " courtesy",
+                    "start": 7.76,
+                    "end": 8.14,
+                    "probability": 0.9905886650085449
+                },
+                {
+                    "word": " for",
+                    "start": 8.14,
+                    "end": 8.38,
+                    "probability": 0.9830642342567444
+                },
+                {
+                    "word": " passing",
+                    "start": 8.38,
+                    "end": 8.76,
+                    "probability": 0.9973459243774414
+                },
+                {
+                    "word": " through",
+                    "start": 8.76,
+                    "end": 9.04,
+                    "probability": 0.9966649413108826
+                },
+                {
+                    "word": " Antarctica's",
+                    "start": 9.04,
+                    "end": 9.78,
+                    "probability": 0.9844704866409302
+                },
+                {
+                    "word": " waters,",
+                    "start": 9.78,
+                    "end": 10.06,
+                    "probability": 0.9967441558837891
+                },
+                {
+                    "word": " even",
+                    "start": 10.36,
+                    "end": 10.58,
+                    "probability": 0.9682923555374146
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.58,
+            "end": 13.76,
+            "text": " though there were not but penguins to appreciate the gesture.",
+            "tokens": [
+                50894,
+                1673,
+                456,
+                645,
+                406,
+                457,
+                17289,
+                44790,
+                281,
+                4449,
+                264,
+                22252,
+                13,
+                51056
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22566033876859226,
+            "compression_ratio": 1.433862433862434,
+            "no_speech_prob": 0.002304480178281665,
+            "words": [
+                {
+                    "word": " though",
+                    "start": 10.58,
+                    "end": 10.78,
+                    "probability": 0.9938788414001465
+                },
+                {
+                    "word": " there",
+                    "start": 10.78,
+                    "end": 10.96,
+                    "probability": 0.9654891490936279
+                },
+                {
+                    "word": " were",
+                    "start": 10.96,
+                    "end": 11.14,
+                    "probability": 0.98973149061203
+                },
+                {
+                    "word": " not",
+                    "start": 11.14,
+                    "end": 11.64,
+                    "probability": 0.48432233929634094
+                },
+                {
+                    "word": " but",
+                    "start": 11.64,
+                    "end": 11.92,
+                    "probability": 0.3948463499546051
+                },
+                {
+                    "word": " penguins",
+                    "start": 11.92,
+                    "end": 12.44,
+                    "probability": 0.95315021276474
+                },
+                {
+                    "word": " to",
+                    "start": 12.44,
+                    "end": 12.6,
+                    "probability": 0.9973620772361755
+                },
+                {
+                    "word": " appreciate",
+                    "start": 12.6,
+                    "end": 13.16,
+                    "probability": 0.995403528213501
+                },
+                {
+                    "word": " the",
+                    "start": 13.16,
+                    "end": 13.36,
+                    "probability": 0.985739529132843
+                },
+                {
+                    "word": " gesture.",
+                    "start": 13.36,
+                    "end": 13.76,
+                    "probability": 0.9899657964706421
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.94,
+            "end": 14.98,
+            "text": " It was done just for the",
+            "tokens": [
+                51056,
+                467,
+                390,
+                1096,
+                445,
+                337,
+                264,
+                51116
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22566033876859226,
+            "compression_ratio": 1.433862433862434,
+            "no_speech_prob": 0.002304480178281665,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 13.94,
+                    "end": 13.98,
+                    "probability": 0.5087567567825317
+                },
+                {
+                    "word": " was",
+                    "start": 13.98,
+                    "end": 14.1,
+                    "probability": 0.9953262805938721
+                },
+                {
+                    "word": " done",
+                    "start": 14.1,
+                    "end": 14.3,
+                    "probability": 0.8926125168800354
+                },
+                {
+                    "word": " just",
+                    "start": 14.3,
+                    "end": 14.66,
+                    "probability": 0.979019045829773
+                },
+                {
+                    "word": " for",
+                    "start": 14.66,
+                    "end": 14.9,
+                    "probability": 0.9944090247154236
+                },
+                {
+                    "word": " the",
+                    "start": 14.9,
+                    "end": 14.98,
+                    "probability": 0.959719181060791
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,402 @@
+{
+    "text": " very satisfying, and unique among flags it creates a 3D effect that gives just a touch of techno cool, appropriate with how much tech was needed to conquer this coolest continent. And it's totally not, but I'm just going to call it that this 3D effect is also",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.56,
+            "end": 5.66,
+            "text": " very satisfying, and unique among flags it creates a 3D effect that gives just a touch of",
+            "tokens": [
+                50364,
+                588,
+                18348,
+                11,
+                293,
+                3845,
+                3654,
+                23265,
+                309,
+                7829,
+                257,
+                805,
+                35,
+                1802,
+                300,
+                2709,
+                445,
+                257,
+                2557,
+                295,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23493455350399017,
+            "compression_ratio": 1.4550561797752808,
+            "no_speech_prob": 0.09188780933618546,
+            "words": [
+                {
+                    "word": " very",
+                    "start": 0.56,
+                    "end": 1.08,
+                    "probability": 0.16081742942333221
+                },
+                {
+                    "word": " satisfying,",
+                    "start": 1.08,
+                    "end": 1.2,
+                    "probability": 0.9906851649284363
+                },
+                {
+                    "word": " and",
+                    "start": 1.6,
+                    "end": 1.8,
+                    "probability": 0.9817740321159363
+                },
+                {
+                    "word": " unique",
+                    "start": 1.8,
+                    "end": 2.04,
+                    "probability": 0.9056516289710999
+                },
+                {
+                    "word": " among",
+                    "start": 2.04,
+                    "end": 2.32,
+                    "probability": 0.9688772559165955
+                },
+                {
+                    "word": " flags",
+                    "start": 2.32,
+                    "end": 2.72,
+                    "probability": 0.956043004989624
+                },
+                {
+                    "word": " it",
+                    "start": 2.72,
+                    "end": 2.86,
+                    "probability": 0.6960552334785461
+                },
+                {
+                    "word": " creates",
+                    "start": 2.86,
+                    "end": 3.14,
+                    "probability": 0.997129499912262
+                },
+                {
+                    "word": " a",
+                    "start": 3.14,
+                    "end": 3.38,
+                    "probability": 0.9888516068458557
+                },
+                {
+                    "word": " 3D",
+                    "start": 3.38,
+                    "end": 3.78,
+                    "probability": 0.9111698567867279
+                },
+                {
+                    "word": " effect",
+                    "start": 3.78,
+                    "end": 4.1,
+                    "probability": 0.9842813611030579
+                },
+                {
+                    "word": " that",
+                    "start": 4.1,
+                    "end": 4.32,
+                    "probability": 0.9727504849433899
+                },
+                {
+                    "word": " gives",
+                    "start": 4.32,
+                    "end": 4.54,
+                    "probability": 0.9878766536712646
+                },
+                {
+                    "word": " just",
+                    "start": 4.54,
+                    "end": 5.06,
+                    "probability": 0.9200470447540283
+                },
+                {
+                    "word": " a",
+                    "start": 5.06,
+                    "end": 5.24,
+                    "probability": 0.9966763257980347
+                },
+                {
+                    "word": " touch",
+                    "start": 5.24,
+                    "end": 5.44,
+                    "probability": 0.9974759221076965
+                },
+                {
+                    "word": " of",
+                    "start": 5.44,
+                    "end": 5.66,
+                    "probability": 0.9968060255050659
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.66,
+            "end": 10.82,
+            "text": " techno cool, appropriate with how much tech was needed to conquer this coolest continent.",
+            "tokens": [
+                50644,
+                36728,
+                1627,
+                11,
+                6854,
+                365,
+                577,
+                709,
+                7553,
+                390,
+                2978,
+                281,
+                24136,
+                341,
+                1627,
+                377,
+                18932,
+                13,
+                50918
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23493455350399017,
+            "compression_ratio": 1.4550561797752808,
+            "no_speech_prob": 0.09188780933618546,
+            "words": [
+                {
+                    "word": " techno",
+                    "start": 5.66,
+                    "end": 6.06,
+                    "probability": 0.8584526777267456
+                },
+                {
+                    "word": " cool,",
+                    "start": 6.06,
+                    "end": 6.44,
+                    "probability": 0.760597825050354
+                },
+                {
+                    "word": " appropriate",
+                    "start": 6.68,
+                    "end": 7.1,
+                    "probability": 0.977527916431427
+                },
+                {
+                    "word": " with",
+                    "start": 7.1,
+                    "end": 7.48,
+                    "probability": 0.9689639806747437
+                },
+                {
+                    "word": " how",
+                    "start": 7.48,
+                    "end": 7.66,
+                    "probability": 0.9885699152946472
+                },
+                {
+                    "word": " much",
+                    "start": 7.66,
+                    "end": 7.86,
+                    "probability": 0.9972136616706848
+                },
+                {
+                    "word": " tech",
+                    "start": 7.86,
+                    "end": 8.08,
+                    "probability": 0.9689682126045227
+                },
+                {
+                    "word": " was",
+                    "start": 8.08,
+                    "end": 8.28,
+                    "probability": 0.9738886952400208
+                },
+                {
+                    "word": " needed",
+                    "start": 8.28,
+                    "end": 8.54,
+                    "probability": 0.9974735379219055
+                },
+                {
+                    "word": " to",
+                    "start": 8.54,
+                    "end": 8.86,
+                    "probability": 0.9977915287017822
+                },
+                {
+                    "word": " conquer",
+                    "start": 8.86,
+                    "end": 9.44,
+                    "probability": 0.9452370405197144
+                },
+                {
+                    "word": " this",
+                    "start": 9.44,
+                    "end": 9.8,
+                    "probability": 0.9556437134742737
+                },
+                {
+                    "word": " coolest",
+                    "start": 9.8,
+                    "end": 10.4,
+                    "probability": 0.7634437382221222
+                },
+                {
+                    "word": " continent.",
+                    "start": 10.4,
+                    "end": 10.82,
+                    "probability": 0.9844376444816589
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.18,
+            "end": 14.92,
+            "text": " And it's totally not, but I'm just going to call it that this 3D effect is also",
+            "tokens": [
+                50918,
+                400,
+                309,
+                311,
+                3879,
+                406,
+                11,
+                457,
+                286,
+                478,
+                445,
+                516,
+                281,
+                818,
+                309,
+                300,
+                341,
+                805,
+                35,
+                1802,
+                307,
+                611,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23493455350399017,
+            "compression_ratio": 1.4550561797752808,
+            "no_speech_prob": 0.09188780933618546,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 11.18,
+                    "end": 11.34,
+                    "probability": 0.9268086552619934
+                },
+                {
+                    "word": " it's",
+                    "start": 11.34,
+                    "end": 11.6,
+                    "probability": 0.9291361570358276
+                },
+                {
+                    "word": " totally",
+                    "start": 11.6,
+                    "end": 11.9,
+                    "probability": 0.9754809141159058
+                },
+                {
+                    "word": " not,",
+                    "start": 11.9,
+                    "end": 12.2,
+                    "probability": 0.9932559728622437
+                },
+                {
+                    "word": " but",
+                    "start": 12.32,
+                    "end": 12.38,
+                    "probability": 0.9903671741485596
+                },
+                {
+                    "word": " I'm",
+                    "start": 12.38,
+                    "end": 12.56,
+                    "probability": 0.9698209762573242
+                },
+                {
+                    "word": " just",
+                    "start": 12.56,
+                    "end": 12.74,
+                    "probability": 0.9482736587524414
+                },
+                {
+                    "word": " going",
+                    "start": 12.74,
+                    "end": 12.9,
+                    "probability": 0.6004270911216736
+                },
+                {
+                    "word": " to",
+                    "start": 12.9,
+                    "end": 12.98,
+                    "probability": 0.9968999624252319
+                },
+                {
+                    "word": " call",
+                    "start": 12.98,
+                    "end": 13.22,
+                    "probability": 0.9919344186782837
+                },
+                {
+                    "word": " it",
+                    "start": 13.22,
+                    "end": 13.4,
+                    "probability": 0.9728260636329651
+                },
+                {
+                    "word": " that",
+                    "start": 13.4,
+                    "end": 13.54,
+                    "probability": 0.8933904767036438
+                },
+                {
+                    "word": " this",
+                    "start": 13.54,
+                    "end": 13.72,
+                    "probability": 0.9858288764953613
+                },
+                {
+                    "word": " 3D",
+                    "start": 13.72,
+                    "end": 14.1,
+                    "probability": 0.9757030308246613
+                },
+                {
+                    "word": " effect",
+                    "start": 14.1,
+                    "end": 14.4,
+                    "probability": 0.9892529845237732
+                },
+                {
+                    "word": " is",
+                    "start": 14.4,
+                    "end": 14.66,
+                    "probability": 0.9898688793182373
+                },
+                {
+                    "word": " also",
+                    "start": 14.66,
+                    "end": 14.92,
+                    "probability": 0.9017460346221924
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

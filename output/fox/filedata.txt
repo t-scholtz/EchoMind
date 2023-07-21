@@ -1,0 +1,8 @@
+The file came from: /fox.mp3
+_______________
+Number of channels  - 1
+Sample Width - 2
+Frame rate  - 16000
+Number of Frames  - 88422
+lenght of Audio sample - 5.526
+Compression type  - not compressed --- Orignal file type: .mp3

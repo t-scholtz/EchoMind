@@ -1,0 +1,323 @@
+{
+    "text": " Without always listening in return, something the arse of conversation is being lost. But luckily there are still millions of us who love to talk. Chat, chinwag and chaser away. In fact, in 2012,",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.86,
+            "text": " Without always listening in return, something the arse of conversation is being lost.",
+            "tokens": [
+                50364,
+                9129,
+                1009,
+                4764,
+                294,
+                2736,
+                11,
+                746,
+                264,
+                594,
+                405,
+                295,
+                3761,
+                307,
+                885,
+                2731,
+                13,
+                50696
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38472246240686486,
+            "compression_ratio": 1.3175675675675675,
+            "no_speech_prob": 0.0023049158044159412,
+            "words": [
+                {
+                    "word": " Without",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.5320246815681458
+                },
+                {
+                    "word": " always",
+                    "start": 0.32,
+                    "end": 0.74,
+                    "probability": 0.8814966082572937
+                },
+                {
+                    "word": " listening",
+                    "start": 0.74,
+                    "end": 1.22,
+                    "probability": 0.9932763576507568
+                },
+                {
+                    "word": " in",
+                    "start": 1.22,
+                    "end": 1.44,
+                    "probability": 0.9460899829864502
+                },
+                {
+                    "word": " return,",
+                    "start": 1.44,
+                    "end": 1.92,
+                    "probability": 0.9967064261436462
+                },
+                {
+                    "word": " something",
+                    "start": 2.5,
+                    "end": 2.98,
+                    "probability": 0.4147256910800934
+                },
+                {
+                    "word": " the",
+                    "start": 2.98,
+                    "end": 3.38,
+                    "probability": 0.9238397479057312
+                },
+                {
+                    "word": " arse",
+                    "start": 3.38,
+                    "end": 3.78,
+                    "probability": 0.5318744480609894
+                },
+                {
+                    "word": " of",
+                    "start": 3.78,
+                    "end": 3.84,
+                    "probability": 0.99254310131073
+                },
+                {
+                    "word": " conversation",
+                    "start": 3.84,
+                    "end": 4.5,
+                    "probability": 0.9816845059394836
+                },
+                {
+                    "word": " is",
+                    "start": 4.5,
+                    "end": 5.02,
+                    "probability": 0.9723829627037048
+                },
+                {
+                    "word": " being",
+                    "start": 5.02,
+                    "end": 5.28,
+                    "probability": 0.9688730835914612
+                },
+                {
+                    "word": " lost.",
+                    "start": 5.28,
+                    "end": 5.86,
+                    "probability": 0.9953702092170715
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.54,
+            "end": 9.78,
+            "text": " But luckily there are still millions of us who love to talk.",
+            "tokens": [
+                50696,
+                583,
+                22880,
+                456,
+                366,
+                920,
+                6803,
+                295,
+                505,
+                567,
+                959,
+                281,
+                751,
+                13,
+                50870
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38472246240686486,
+            "compression_ratio": 1.3175675675675675,
+            "no_speech_prob": 0.0023049158044159412,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 6.54,
+                    "end": 6.68,
+                    "probability": 0.8826782703399658
+                },
+                {
+                    "word": " luckily",
+                    "start": 6.68,
+                    "end": 7.06,
+                    "probability": 0.9861257672309875
+                },
+                {
+                    "word": " there",
+                    "start": 7.06,
+                    "end": 7.36,
+                    "probability": 0.712540864944458
+                },
+                {
+                    "word": " are",
+                    "start": 7.36,
+                    "end": 7.48,
+                    "probability": 0.9888656735420227
+                },
+                {
+                    "word": " still",
+                    "start": 7.48,
+                    "end": 7.78,
+                    "probability": 0.9983568787574768
+                },
+                {
+                    "word": " millions",
+                    "start": 7.78,
+                    "end": 8.36,
+                    "probability": 0.950815737247467
+                },
+                {
+                    "word": " of",
+                    "start": 8.36,
+                    "end": 8.66,
+                    "probability": 0.9948011636734009
+                },
+                {
+                    "word": " us",
+                    "start": 8.66,
+                    "end": 8.92,
+                    "probability": 0.9975289702415466
+                },
+                {
+                    "word": " who",
+                    "start": 8.92,
+                    "end": 9.1,
+                    "probability": 0.9844693541526794
+                },
+                {
+                    "word": " love",
+                    "start": 9.1,
+                    "end": 9.26,
+                    "probability": 0.9911690950393677
+                },
+                {
+                    "word": " to",
+                    "start": 9.26,
+                    "end": 9.48,
+                    "probability": 0.9940611720085144
+                },
+                {
+                    "word": " talk.",
+                    "start": 9.48,
+                    "end": 9.78,
+                    "probability": 0.9989247918128967
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.16,
+            "end": 12.48,
+            "text": " Chat, chinwag and chaser away.",
+            "tokens": [
+                50870,
+                27503,
+                11,
+                14210,
+                86,
+                559,
+                293,
+                417,
+                17756,
+                1314,
+                13,
+                51008
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38472246240686486,
+            "compression_ratio": 1.3175675675675675,
+            "no_speech_prob": 0.0023049158044159412,
+            "words": [
+                {
+                    "word": " Chat,",
+                    "start": 10.16,
+                    "end": 10.38,
+                    "probability": 0.7296818494796753
+                },
+                {
+                    "word": " chinwag",
+                    "start": 10.78,
+                    "end": 11.22,
+                    "probability": 0.8163030644257864
+                },
+                {
+                    "word": " and",
+                    "start": 11.22,
+                    "end": 11.62,
+                    "probability": 0.6804798245429993
+                },
+                {
+                    "word": " chaser",
+                    "start": 11.62,
+                    "end": 12.08,
+                    "probability": 0.5115937814116478
+                },
+                {
+                    "word": " away.",
+                    "start": 12.08,
+                    "end": 12.48,
+                    "probability": 0.927510678768158
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.84,
+            "end": 14.34,
+            "text": " In fact, in 2012,",
+            "tokens": [
+                51008,
+                682,
+                1186,
+                11,
+                294,
+                9125,
+                11,
+                51106
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38472246240686486,
+            "compression_ratio": 1.3175675675675675,
+            "no_speech_prob": 0.0023049158044159412,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 12.84,
+                    "end": 12.92,
+                    "probability": 0.9876810312271118
+                },
+                {
+                    "word": " fact,",
+                    "start": 12.92,
+                    "end": 13.24,
+                    "probability": 0.9976689219474792
+                },
+                {
+                    "word": " in",
+                    "start": 13.26,
+                    "end": 13.66,
+                    "probability": 0.9946130514144897
+                },
+                {
+                    "word": " 2012,",
+                    "start": 13.66,
+                    "end": 14.34,
+                    "probability": 0.9980037808418274
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

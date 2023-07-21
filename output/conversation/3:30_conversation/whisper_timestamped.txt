@@ -1,0 +1,329 @@
+{
+    "text": " relationships between people who are very different or do not like each other. Here's Nohal again in conversation with BBC Radio Falls, Word of mouth. So, conversation can build bridges and it is proven through history that comes",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.38,
+            "text": " relationships between people who are very different or do not like each other.",
+            "tokens": [
+                50364,
+                6159,
+                1296,
+                561,
+                567,
+                366,
+                588,
+                819,
+                420,
+                360,
+                406,
+                411,
+                1184,
+                661,
+                13,
+                50587
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3677228665819355,
+            "compression_ratio": 1.387878787878788,
+            "no_speech_prob": 0.07785642892122269,
+            "words": [
+                {
+                    "word": " relationships",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.41559380292892456
+                },
+                {
+                    "word": " between",
+                    "start": 0.5,
+                    "end": 0.92,
+                    "probability": 0.9843266606330872
+                },
+                {
+                    "word": " people",
+                    "start": 0.92,
+                    "end": 1.44,
+                    "probability": 0.9954692125320435
+                },
+                {
+                    "word": " who",
+                    "start": 1.44,
+                    "end": 1.74,
+                    "probability": 0.9435631036758423
+                },
+                {
+                    "word": " are",
+                    "start": 1.74,
+                    "end": 1.84,
+                    "probability": 0.9983475208282471
+                },
+                {
+                    "word": " very",
+                    "start": 1.84,
+                    "end": 2.08,
+                    "probability": 0.9710075259208679
+                },
+                {
+                    "word": " different",
+                    "start": 2.08,
+                    "end": 2.48,
+                    "probability": 0.9969916343688965
+                },
+                {
+                    "word": " or",
+                    "start": 2.48,
+                    "end": 2.88,
+                    "probability": 0.8706502318382263
+                },
+                {
+                    "word": " do",
+                    "start": 2.88,
+                    "end": 3.44,
+                    "probability": 0.9727646708488464
+                },
+                {
+                    "word": " not",
+                    "start": 3.44,
+                    "end": 3.58,
+                    "probability": 0.995930016040802
+                },
+                {
+                    "word": " like",
+                    "start": 3.58,
+                    "end": 3.82,
+                    "probability": 0.9980098605155945
+                },
+                {
+                    "word": " each",
+                    "start": 3.82,
+                    "end": 4.12,
+                    "probability": 0.9975874423980713
+                },
+                {
+                    "word": " other.",
+                    "start": 4.12,
+                    "end": 4.38,
+                    "probability": 0.995941698551178
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.54,
+            "end": 8.96,
+            "text": " Here's Nohal again in conversation with BBC Radio Falls, Word of mouth.",
+            "tokens": [
+                50587,
+                1692,
+                311,
+                883,
+                4947,
+                797,
+                294,
+                3761,
+                365,
+                22669,
+                17296,
+                23245,
+                11,
+                8725,
+                295,
+                4525,
+                13,
+                50837
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3677228665819355,
+            "compression_ratio": 1.387878787878788,
+            "no_speech_prob": 0.07785642892122269,
+            "words": [
+                {
+                    "word": " Here's",
+                    "start": 4.54,
+                    "end": 4.8,
+                    "probability": 0.5551435723900795
+                },
+                {
+                    "word": " Nohal",
+                    "start": 4.8,
+                    "end": 5.08,
+                    "probability": 0.28278619050979614
+                },
+                {
+                    "word": " again",
+                    "start": 5.08,
+                    "end": 5.42,
+                    "probability": 0.9717903733253479
+                },
+                {
+                    "word": " in",
+                    "start": 5.42,
+                    "end": 5.92,
+                    "probability": 0.6577202677726746
+                },
+                {
+                    "word": " conversation",
+                    "start": 5.92,
+                    "end": 6.38,
+                    "probability": 0.9630897641181946
+                },
+                {
+                    "word": " with",
+                    "start": 6.38,
+                    "end": 6.88,
+                    "probability": 0.9965890645980835
+                },
+                {
+                    "word": " BBC",
+                    "start": 6.88,
+                    "end": 7.14,
+                    "probability": 0.9618090391159058
+                },
+                {
+                    "word": " Radio",
+                    "start": 7.14,
+                    "end": 7.6,
+                    "probability": 0.9156067967414856
+                },
+                {
+                    "word": " Falls,",
+                    "start": 7.6,
+                    "end": 8.02,
+                    "probability": 0.7192683815956116
+                },
+                {
+                    "word": " Word",
+                    "start": 8.36,
+                    "end": 8.54,
+                    "probability": 0.6073170304298401
+                },
+                {
+                    "word": " of",
+                    "start": 8.54,
+                    "end": 8.7,
+                    "probability": 0.9830338358879089
+                },
+                {
+                    "word": " mouth.",
+                    "start": 8.7,
+                    "end": 8.96,
+                    "probability": 0.5443342328071594
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.52,
+            "end": 14.98,
+            "text": " So, conversation can build bridges and it is proven through history that comes",
+            "tokens": [
+                50837,
+                407,
+                11,
+                3761,
+                393,
+                1322,
+                21114,
+                293,
+                309,
+                307,
+                12785,
+                807,
+                2503,
+                300,
+                1487,
+                51116
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3677228665819355,
+            "compression_ratio": 1.387878787878788,
+            "no_speech_prob": 0.07785642892122269,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 9.52,
+                    "end": 9.78,
+                    "probability": 0.9686068296432495
+                },
+                {
+                    "word": " conversation",
+                    "start": 10.0,
+                    "end": 10.54,
+                    "probability": 0.8133131861686707
+                },
+                {
+                    "word": " can",
+                    "start": 10.54,
+                    "end": 11.06,
+                    "probability": 0.9981325268745422
+                },
+                {
+                    "word": " build",
+                    "start": 11.06,
+                    "end": 11.76,
+                    "probability": 0.9926995635032654
+                },
+                {
+                    "word": " bridges",
+                    "start": 11.76,
+                    "end": 12.22,
+                    "probability": 0.9983569979667664
+                },
+                {
+                    "word": " and",
+                    "start": 12.22,
+                    "end": 12.62,
+                    "probability": 0.686291515827179
+                },
+                {
+                    "word": " it",
+                    "start": 12.62,
+                    "end": 12.72,
+                    "probability": 0.9881365299224854
+                },
+                {
+                    "word": " is",
+                    "start": 12.72,
+                    "end": 12.86,
+                    "probability": 0.9915766716003418
+                },
+                {
+                    "word": " proven",
+                    "start": 12.86,
+                    "end": 13.4,
+                    "probability": 0.9990962743759155
+                },
+                {
+                    "word": " through",
+                    "start": 13.4,
+                    "end": 13.8,
+                    "probability": 0.9946057200431824
+                },
+                {
+                    "word": " history",
+                    "start": 13.8,
+                    "end": 14.34,
+                    "probability": 0.998198926448822
+                },
+                {
+                    "word": " that",
+                    "start": 14.34,
+                    "end": 14.84,
+                    "probability": 0.9190608859062195
+                },
+                {
+                    "word": " comes",
+                    "start": 14.84,
+                    "end": 14.98,
+                    "probability": 0.20152300596237183
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

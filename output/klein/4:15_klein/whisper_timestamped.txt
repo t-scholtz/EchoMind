@@ -1,0 +1,306 @@
+{
+    "text": " along the way. How often do they break? How often do my client balance break? In the post. In the post. In the post. About one in two hundred one in three hundred is broken on delivery.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.54,
+            "text": " along the way. How often do they break? How often do my client balance break? In the post.",
+            "tokens": [
+                50364,
+                2051,
+                264,
+                636,
+                13,
+                1012,
+                2049,
+                360,
+                436,
+                1821,
+                30,
+                1012,
+                2049,
+                360,
+                452,
+                6423,
+                4772,
+                1821,
+                30,
+                682,
+                264,
+                2183,
+                13,
+                50652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37024135978854433,
+            "compression_ratio": 1.5948275862068966,
+            "no_speech_prob": 0.09904542565345764,
+            "words": [
+                {
+                    "word": " along",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.6067916750907898
+                },
+                {
+                    "word": " the",
+                    "start": 0.32,
+                    "end": 0.52,
+                    "probability": 0.9779560565948486
+                },
+                {
+                    "word": " way.",
+                    "start": 0.52,
+                    "end": 0.74,
+                    "probability": 0.9955060482025146
+                },
+                {
+                    "word": " How",
+                    "start": 1.18,
+                    "end": 1.28,
+                    "probability": 0.8829320669174194
+                },
+                {
+                    "word": " often",
+                    "start": 1.28,
+                    "end": 1.48,
+                    "probability": 0.9834182858467102
+                },
+                {
+                    "word": " do",
+                    "start": 1.48,
+                    "end": 1.58,
+                    "probability": 0.9292587041854858
+                },
+                {
+                    "word": " they",
+                    "start": 1.58,
+                    "end": 1.66,
+                    "probability": 0.8276724815368652
+                },
+                {
+                    "word": " break?",
+                    "start": 1.66,
+                    "end": 1.92,
+                    "probability": 0.9875680208206177
+                },
+                {
+                    "word": " How",
+                    "start": 3.34,
+                    "end": 3.6,
+                    "probability": 0.8013833165168762
+                },
+                {
+                    "word": " often",
+                    "start": 3.6,
+                    "end": 3.82,
+                    "probability": 0.9964661598205566
+                },
+                {
+                    "word": " do",
+                    "start": 3.82,
+                    "end": 3.92,
+                    "probability": 0.37038934230804443
+                },
+                {
+                    "word": " my",
+                    "start": 3.92,
+                    "end": 4.38,
+                    "probability": 0.7600411772727966
+                },
+                {
+                    "word": " client",
+                    "start": 4.38,
+                    "end": 4.62,
+                    "probability": 0.30054208636283875
+                },
+                {
+                    "word": " balance",
+                    "start": 4.62,
+                    "end": 4.86,
+                    "probability": 0.35526129603385925
+                },
+                {
+                    "word": " break?",
+                    "start": 4.86,
+                    "end": 5.08,
+                    "probability": 0.9556322693824768
+                },
+                {
+                    "word": " In",
+                    "start": 5.14,
+                    "end": 5.2,
+                    "probability": 0.8446460366249084
+                },
+                {
+                    "word": " the",
+                    "start": 5.2,
+                    "end": 5.28,
+                    "probability": 0.9886221289634705
+                },
+                {
+                    "word": " post.",
+                    "start": 5.28,
+                    "end": 5.54,
+                    "probability": 0.9274436235427856
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.88,
+            "end": 14.84,
+            "text": " In the post. In the post. About one in two hundred one in three hundred is broken on delivery.",
+            "tokens": [
+                50652,
+                682,
+                264,
+                2183,
+                13,
+                682,
+                264,
+                2183,
+                13,
+                7769,
+                472,
+                294,
+                732,
+                3262,
+                472,
+                294,
+                1045,
+                3262,
+                307,
+                5463,
+                322,
+                8982,
+                13,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37024135978854433,
+            "compression_ratio": 1.5948275862068966,
+            "no_speech_prob": 0.09904542565345764,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 5.88,
+                    "end": 5.96,
+                    "probability": 0.7525313496589661
+                },
+                {
+                    "word": " the",
+                    "start": 5.96,
+                    "end": 6.06,
+                    "probability": 0.9893096685409546
+                },
+                {
+                    "word": " post.",
+                    "start": 6.06,
+                    "end": 6.26,
+                    "probability": 0.22163935005664825
+                },
+                {
+                    "word": " In",
+                    "start": 6.46,
+                    "end": 6.46,
+                    "probability": 0.37176713347435
+                },
+                {
+                    "word": " the",
+                    "start": 6.46,
+                    "end": 6.54,
+                    "probability": 0.9873900413513184
+                },
+                {
+                    "word": " post.",
+                    "start": 6.54,
+                    "end": 6.74,
+                    "probability": 0.6054477691650391
+                },
+                {
+                    "word": " About",
+                    "start": 7.52,
+                    "end": 10.0,
+                    "probability": 0.6673972010612488
+                },
+                {
+                    "word": " one",
+                    "start": 10.0,
+                    "end": 11.4,
+                    "probability": 0.6838722825050354
+                },
+                {
+                    "word": " in",
+                    "start": 11.4,
+                    "end": 11.8,
+                    "probability": 0.9869675040245056
+                },
+                {
+                    "word": " two",
+                    "start": 11.8,
+                    "end": 12.2,
+                    "probability": 0.41778305172920227
+                },
+                {
+                    "word": " hundred",
+                    "start": 12.2,
+                    "end": 12.52,
+                    "probability": 0.9500012397766113
+                },
+                {
+                    "word": " one",
+                    "start": 12.52,
+                    "end": 12.86,
+                    "probability": 0.4167192280292511
+                },
+                {
+                    "word": " in",
+                    "start": 12.86,
+                    "end": 13.0,
+                    "probability": 0.9004131555557251
+                },
+                {
+                    "word": " three",
+                    "start": 13.0,
+                    "end": 13.24,
+                    "probability": 0.9755361676216125
+                },
+                {
+                    "word": " hundred",
+                    "start": 13.24,
+                    "end": 13.56,
+                    "probability": 0.9867469072341919
+                },
+                {
+                    "word": " is",
+                    "start": 13.56,
+                    "end": 14.06,
+                    "probability": 0.9612988233566284
+                },
+                {
+                    "word": " broken",
+                    "start": 14.06,
+                    "end": 14.4,
+                    "probability": 0.9977689981460571
+                },
+                {
+                    "word": " on",
+                    "start": 14.4,
+                    "end": 14.56,
+                    "probability": 0.38802143931388855
+                },
+                {
+                    "word": " delivery.",
+                    "start": 14.56,
+                    "end": 14.84,
+                    "probability": 0.9835867285728455
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

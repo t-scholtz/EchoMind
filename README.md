@@ -21,6 +21,7 @@ You will require the following projects/software to run the script
 - Whisper
 - Whisper-timestamped
 - PocketSphinx
+- Espnet
 - Talk bank data
 
 ## Terminal software
@@ -72,6 +73,9 @@ sudo apt-get install python3-moviepy
 sudo apt install python3-numpy
 sudo apt-get install libsndfile1
 pip3 install soundfile
+pip3 install espnet
+pip3 install espnet-model-zoo
+pip3 install espnet-tts-frontend
 ```
 
 **Windows**
@@ -83,6 +87,9 @@ pip install pydub
 pip install moviepy
 pip install numpy 
 pip install soundfile
+pip install espnet
+pip install espnet-model-zoo
+pip install espnet-tts-frontend
 ```
 
 

@@ -1,0 +1,365 @@
+{
+    "text": " protecting their somewhat precarious claims, so not really looking for a new banner to band everyone behind. Thus there are no Antarctic citizens to officiate anything. But who cares? People everywhere want to fly flags and come up",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.66,
+            "text": " protecting their somewhat precarious claims, so not really looking for a new banner to",
+            "tokens": [
+                50364,
+                12316,
+                641,
+                8344,
+                4346,
+                289,
+                851,
+                9441,
+                11,
+                370,
+                406,
+                534,
+                1237,
+                337,
+                257,
+                777,
+                24348,
+                281,
+                50645
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2647678475630911,
+            "compression_ratio": 1.375,
+            "no_speech_prob": 0.0026341325137764215,
+            "words": [
+                {
+                    "word": " protecting",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.914208710193634
+                },
+                {
+                    "word": " their",
+                    "start": 0.4,
+                    "end": 0.64,
+                    "probability": 0.9151877164840698
+                },
+                {
+                    "word": " somewhat",
+                    "start": 0.64,
+                    "end": 1.1,
+                    "probability": 0.9948520064353943
+                },
+                {
+                    "word": " precarious",
+                    "start": 1.1,
+                    "end": 1.78,
+                    "probability": 0.9713398416837057
+                },
+                {
+                    "word": " claims,",
+                    "start": 1.78,
+                    "end": 2.2,
+                    "probability": 0.9908139109611511
+                },
+                {
+                    "word": " so",
+                    "start": 2.44,
+                    "end": 2.64,
+                    "probability": 0.977156937122345
+                },
+                {
+                    "word": " not",
+                    "start": 2.64,
+                    "end": 3.34,
+                    "probability": 0.8410528302192688
+                },
+                {
+                    "word": " really",
+                    "start": 3.34,
+                    "end": 3.82,
+                    "probability": 0.8835833072662354
+                },
+                {
+                    "word": " looking",
+                    "start": 3.82,
+                    "end": 4.34,
+                    "probability": 0.9932136535644531
+                },
+                {
+                    "word": " for",
+                    "start": 4.34,
+                    "end": 4.58,
+                    "probability": 0.9951594471931458
+                },
+                {
+                    "word": " a",
+                    "start": 4.58,
+                    "end": 4.74,
+                    "probability": 0.9856351613998413
+                },
+                {
+                    "word": " new",
+                    "start": 4.74,
+                    "end": 5.02,
+                    "probability": 0.9379690289497375
+                },
+                {
+                    "word": " banner",
+                    "start": 5.02,
+                    "end": 5.44,
+                    "probability": 0.8677346110343933
+                },
+                {
+                    "word": " to",
+                    "start": 5.44,
+                    "end": 5.66,
+                    "probability": 0.9928327798843384
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.66,
+            "end": 7.0,
+            "text": " band everyone behind.",
+            "tokens": [
+                50645,
+                4116,
+                1518,
+                2261,
+                13,
+                50741
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2647678475630911,
+            "compression_ratio": 1.375,
+            "no_speech_prob": 0.0026341325137764215,
+            "words": [
+                {
+                    "word": " band",
+                    "start": 5.66,
+                    "end": 6.0,
+                    "probability": 0.7293932437896729
+                },
+                {
+                    "word": " everyone",
+                    "start": 6.0,
+                    "end": 6.46,
+                    "probability": 0.9879690408706665
+                },
+                {
+                    "word": " behind.",
+                    "start": 6.46,
+                    "end": 7.0,
+                    "probability": 0.9733105301856995
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.32,
+            "end": 10.52,
+            "text": " Thus there are no Antarctic citizens to officiate anything.",
+            "tokens": [
+                50741,
+                13827,
+                456,
+                366,
+                572,
+                30536,
+                15518,
+                7180,
+                281,
+                2832,
+                13024,
+                1340,
+                13,
+                50908
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2647678475630911,
+            "compression_ratio": 1.375,
+            "no_speech_prob": 0.0026341325137764215,
+            "words": [
+                {
+                    "word": " Thus",
+                    "start": 7.32,
+                    "end": 7.5,
+                    "probability": 0.9679027795791626
+                },
+                {
+                    "word": " there",
+                    "start": 7.5,
+                    "end": 7.78,
+                    "probability": 0.3720872402191162
+                },
+                {
+                    "word": " are",
+                    "start": 7.78,
+                    "end": 7.94,
+                    "probability": 0.9906435608863831
+                },
+                {
+                    "word": " no",
+                    "start": 7.94,
+                    "end": 8.16,
+                    "probability": 0.9979912042617798
+                },
+                {
+                    "word": " Antarctic",
+                    "start": 8.16,
+                    "end": 8.68,
+                    "probability": 0.9385990500450134
+                },
+                {
+                    "word": " citizens",
+                    "start": 8.68,
+                    "end": 9.02,
+                    "probability": 0.99433434009552
+                },
+                {
+                    "word": " to",
+                    "start": 9.02,
+                    "end": 9.36,
+                    "probability": 0.9934982061386108
+                },
+                {
+                    "word": " officiate",
+                    "start": 9.36,
+                    "end": 10.1,
+                    "probability": 0.8715464174747467
+                },
+                {
+                    "word": " anything.",
+                    "start": 10.1,
+                    "end": 10.52,
+                    "probability": 0.9900397658348083
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.78,
+            "end": 11.66,
+            "text": " But who cares?",
+            "tokens": [
+                50908,
+                583,
+                567,
+                12310,
+                30,
+                50975
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2647678475630911,
+            "compression_ratio": 1.375,
+            "no_speech_prob": 0.0026341325137764215,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 10.78,
+                    "end": 10.92,
+                    "probability": 0.9778534770011902
+                },
+                {
+                    "word": " who",
+                    "start": 10.92,
+                    "end": 11.24,
+                    "probability": 0.9093555808067322
+                },
+                {
+                    "word": " cares?",
+                    "start": 11.24,
+                    "end": 11.66,
+                    "probability": 0.9917975664138794
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 11.96,
+            "end": 14.98,
+            "text": " People everywhere want to fly flags and come up",
+            "tokens": [
+                50975,
+                3432,
+                5315,
+                528,
+                281,
+                3603,
+                23265,
+                293,
+                808,
+                493,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2647678475630911,
+            "compression_ratio": 1.375,
+            "no_speech_prob": 0.0026341325137764215,
+            "words": [
+                {
+                    "word": " People",
+                    "start": 11.96,
+                    "end": 12.2,
+                    "probability": 0.9571722745895386
+                },
+                {
+                    "word": " everywhere",
+                    "start": 12.2,
+                    "end": 12.8,
+                    "probability": 0.9734293222427368
+                },
+                {
+                    "word": " want",
+                    "start": 12.8,
+                    "end": 13.2,
+                    "probability": 0.6551144123077393
+                },
+                {
+                    "word": " to",
+                    "start": 13.2,
+                    "end": 13.44,
+                    "probability": 0.9966316819190979
+                },
+                {
+                    "word": " fly",
+                    "start": 13.44,
+                    "end": 13.72,
+                    "probability": 0.9972904920578003
+                },
+                {
+                    "word": " flags",
+                    "start": 13.72,
+                    "end": 14.16,
+                    "probability": 0.9823479652404785
+                },
+                {
+                    "word": " and",
+                    "start": 14.16,
+                    "end": 14.54,
+                    "probability": 0.5986407995223999
+                },
+                {
+                    "word": " come",
+                    "start": 14.54,
+                    "end": 14.88,
+                    "probability": 0.9288515448570251
+                },
+                {
+                    "word": " up",
+                    "start": 14.88,
+                    "end": 14.98,
+                    "probability": 0.16869306564331055
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

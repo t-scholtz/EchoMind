@@ -1,0 +1,30 @@
+{
+    "text": " you",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.36,
+            "text": " you",
+            "tokens": [
+                50364,
+                291,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8820405006408691,
+            "compression_ratio": 0.2727272727272727,
+            "no_speech_prob": 0.960773229598999,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.3232775628566742
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

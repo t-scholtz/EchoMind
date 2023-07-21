@@ -1,0 +1,329 @@
+{
+    "text": " and listening to understand. When we listen to reply, we're thinking about the next thing we want to say, more than trying to understand the other person's point of view. Listening to understand, on the other hand, helps build bridges.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 9.6,
+            "text": " and listening to understand. When we listen to reply, we're thinking about the next thing we want to say, more than trying to understand the other person's point of view.",
+            "tokens": [
+                50364,
+                293,
+                4764,
+                281,
+                1223,
+                13,
+                1133,
+                321,
+                2140,
+                281,
+                16972,
+                11,
+                321,
+                434,
+                1953,
+                466,
+                264,
+                958,
+                551,
+                321,
+                528,
+                281,
+                584,
+                11,
+                544,
+                813,
+                1382,
+                281,
+                1223,
+                264,
+                661,
+                954,
+                311,
+                935,
+                295,
+                1910,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17811321329187463,
+            "compression_ratio": 1.6433566433566433,
+            "no_speech_prob": 0.07811569422483444,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.19843119382858276
+                },
+                {
+                    "word": " listening",
+                    "start": 0.48,
+                    "end": 0.82,
+                    "probability": 0.9158473610877991
+                },
+                {
+                    "word": " to",
+                    "start": 0.82,
+                    "end": 1.08,
+                    "probability": 0.9897701740264893
+                },
+                {
+                    "word": " understand.",
+                    "start": 1.08,
+                    "end": 1.68,
+                    "probability": 0.877329409122467
+                },
+                {
+                    "word": " When",
+                    "start": 2.0,
+                    "end": 2.16,
+                    "probability": 0.9571554660797119
+                },
+                {
+                    "word": " we",
+                    "start": 2.16,
+                    "end": 2.34,
+                    "probability": 0.9952168464660645
+                },
+                {
+                    "word": " listen",
+                    "start": 2.34,
+                    "end": 2.78,
+                    "probability": 0.965269923210144
+                },
+                {
+                    "word": " to",
+                    "start": 2.78,
+                    "end": 3.02,
+                    "probability": 0.996310293674469
+                },
+                {
+                    "word": " reply,",
+                    "start": 3.02,
+                    "end": 3.5,
+                    "probability": 0.9734460711479187
+                },
+                {
+                    "word": " we're",
+                    "start": 3.96,
+                    "end": 4.14,
+                    "probability": 0.9501448571681976
+                },
+                {
+                    "word": " thinking",
+                    "start": 4.14,
+                    "end": 4.4,
+                    "probability": 0.9949263334274292
+                },
+                {
+                    "word": " about",
+                    "start": 4.4,
+                    "end": 4.72,
+                    "probability": 0.9966455101966858
+                },
+                {
+                    "word": " the",
+                    "start": 4.72,
+                    "end": 4.94,
+                    "probability": 0.9924317598342896
+                },
+                {
+                    "word": " next",
+                    "start": 4.94,
+                    "end": 5.34,
+                    "probability": 0.9952229857444763
+                },
+                {
+                    "word": " thing",
+                    "start": 5.34,
+                    "end": 5.6,
+                    "probability": 0.995614767074585
+                },
+                {
+                    "word": " we",
+                    "start": 5.6,
+                    "end": 5.76,
+                    "probability": 0.983119785785675
+                },
+                {
+                    "word": " want",
+                    "start": 5.76,
+                    "end": 5.96,
+                    "probability": 0.9972437620162964
+                },
+                {
+                    "word": " to",
+                    "start": 5.96,
+                    "end": 6.1,
+                    "probability": 0.9970890879631042
+                },
+                {
+                    "word": " say,",
+                    "start": 6.1,
+                    "end": 6.38,
+                    "probability": 0.9915931224822998
+                },
+                {
+                    "word": " more",
+                    "start": 6.56,
+                    "end": 6.68,
+                    "probability": 0.9898383617401123
+                },
+                {
+                    "word": " than",
+                    "start": 6.68,
+                    "end": 6.84,
+                    "probability": 0.9956121444702148
+                },
+                {
+                    "word": " trying",
+                    "start": 6.84,
+                    "end": 7.14,
+                    "probability": 0.9948957562446594
+                },
+                {
+                    "word": " to",
+                    "start": 7.14,
+                    "end": 7.32,
+                    "probability": 0.9983166456222534
+                },
+                {
+                    "word": " understand",
+                    "start": 7.32,
+                    "end": 7.86,
+                    "probability": 0.9973616003990173
+                },
+                {
+                    "word": " the",
+                    "start": 7.86,
+                    "end": 8.16,
+                    "probability": 0.9760642051696777
+                },
+                {
+                    "word": " other",
+                    "start": 8.16,
+                    "end": 8.38,
+                    "probability": 0.9929211735725403
+                },
+                {
+                    "word": " person's",
+                    "start": 8.38,
+                    "end": 8.92,
+                    "probability": 0.9904116094112396
+                },
+                {
+                    "word": " point",
+                    "start": 8.92,
+                    "end": 9.16,
+                    "probability": 0.9937126040458679
+                },
+                {
+                    "word": " of",
+                    "start": 9.16,
+                    "end": 9.32,
+                    "probability": 0.9784281849861145
+                },
+                {
+                    "word": " view.",
+                    "start": 9.32,
+                    "end": 9.6,
+                    "probability": 0.999365508556366
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.86,
+            "end": 13.76,
+            "text": " Listening to understand, on the other hand, helps build bridges.",
+            "tokens": [
+                50864,
+                49321,
+                281,
+                1223,
+                11,
+                322,
+                264,
+                661,
+                1011,
+                11,
+                3665,
+                1322,
+                21114,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17811321329187463,
+            "compression_ratio": 1.6433566433566433,
+            "no_speech_prob": 0.07811569422483444,
+            "words": [
+                {
+                    "word": " Listening",
+                    "start": 9.86,
+                    "end": 10.14,
+                    "probability": 0.9709041714668274
+                },
+                {
+                    "word": " to",
+                    "start": 10.14,
+                    "end": 10.4,
+                    "probability": 0.9987949132919312
+                },
+                {
+                    "word": " understand,",
+                    "start": 10.4,
+                    "end": 11.1,
+                    "probability": 0.9584344029426575
+                },
+                {
+                    "word": " on",
+                    "start": 11.28,
+                    "end": 11.4,
+                    "probability": 0.9967150688171387
+                },
+                {
+                    "word": " the",
+                    "start": 11.4,
+                    "end": 11.54,
+                    "probability": 0.9993652701377869
+                },
+                {
+                    "word": " other",
+                    "start": 11.54,
+                    "end": 11.7,
+                    "probability": 0.999152660369873
+                },
+                {
+                    "word": " hand,",
+                    "start": 11.7,
+                    "end": 12.04,
+                    "probability": 0.9982560276985168
+                },
+                {
+                    "word": " helps",
+                    "start": 12.44,
+                    "end": 12.66,
+                    "probability": 0.9902215003967285
+                },
+                {
+                    "word": " build",
+                    "start": 12.66,
+                    "end": 13.18,
+                    "probability": 0.9979318380355835
+                },
+                {
+                    "word": " bridges.",
+                    "start": 13.18,
+                    "end": 13.76,
+                    "probability": 0.9975422620773315
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

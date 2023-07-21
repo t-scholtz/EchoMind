@@ -1,0 +1,416 @@
+{
+    "text": " the goal is simple, get rid of your cards. As you get closer to winning, you have fewer cards in your hand making matches less likely. This naturally balances the game even with luck involved. If this is monopoly, stale and boring, this is Uno up and down always uncertain.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 4.4,
+            "text": " the goal is simple, get rid of your cards. As you get closer to winning, you have fewer",
+            "tokens": [
+                50364,
+                264,
+                3387,
+                307,
+                2199,
+                11,
+                483,
+                3973,
+                295,
+                428,
+                5632,
+                13,
+                1018,
+                291,
+                483,
+                4966,
+                281,
+                8224,
+                11,
+                291,
+                362,
+                13366,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20063488411180902,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.01079866848886013,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.06,
+                    "end": 0.58,
+                    "probability": 0.1869678795337677
+                },
+                {
+                    "word": " goal",
+                    "start": 0.58,
+                    "end": 0.74,
+                    "probability": 0.45171573758125305
+                },
+                {
+                    "word": " is",
+                    "start": 0.74,
+                    "end": 0.9,
+                    "probability": 0.9563312530517578
+                },
+                {
+                    "word": " simple,",
+                    "start": 0.9,
+                    "end": 1.22,
+                    "probability": 0.9555800557136536
+                },
+                {
+                    "word": " get",
+                    "start": 1.4,
+                    "end": 1.46,
+                    "probability": 0.789168655872345
+                },
+                {
+                    "word": " rid",
+                    "start": 1.46,
+                    "end": 1.6,
+                    "probability": 0.999702513217926
+                },
+                {
+                    "word": " of",
+                    "start": 1.6,
+                    "end": 1.74,
+                    "probability": 0.991441011428833
+                },
+                {
+                    "word": " your",
+                    "start": 1.74,
+                    "end": 1.82,
+                    "probability": 0.9876760244369507
+                },
+                {
+                    "word": " cards.",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.9903646111488342
+                },
+                {
+                    "word": " As",
+                    "start": 2.56,
+                    "end": 2.66,
+                    "probability": 0.9354963302612305
+                },
+                {
+                    "word": " you",
+                    "start": 2.66,
+                    "end": 2.82,
+                    "probability": 0.998227059841156
+                },
+                {
+                    "word": " get",
+                    "start": 2.82,
+                    "end": 2.94,
+                    "probability": 0.9975111484527588
+                },
+                {
+                    "word": " closer",
+                    "start": 2.94,
+                    "end": 3.3,
+                    "probability": 0.9959599375724792
+                },
+                {
+                    "word": " to",
+                    "start": 3.3,
+                    "end": 3.44,
+                    "probability": 0.9989396929740906
+                },
+                {
+                    "word": " winning,",
+                    "start": 3.44,
+                    "end": 3.66,
+                    "probability": 0.9938189387321472
+                },
+                {
+                    "word": " you",
+                    "start": 3.92,
+                    "end": 3.96,
+                    "probability": 0.9973105192184448
+                },
+                {
+                    "word": " have",
+                    "start": 3.96,
+                    "end": 4.14,
+                    "probability": 0.9819239974021912
+                },
+                {
+                    "word": " fewer",
+                    "start": 4.14,
+                    "end": 4.4,
+                    "probability": 0.9977722764015198
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.4,
+            "end": 9.4,
+            "text": " cards in your hand making matches less likely. This naturally balances the game even with luck",
+            "tokens": [
+                50584,
+                5632,
+                294,
+                428,
+                1011,
+                1455,
+                10676,
+                1570,
+                3700,
+                13,
+                639,
+                8195,
+                33993,
+                264,
+                1216,
+                754,
+                365,
+                3668,
+                50836
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20063488411180902,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.01079866848886013,
+            "words": [
+                {
+                    "word": " cards",
+                    "start": 4.4,
+                    "end": 4.74,
+                    "probability": 0.9954089522361755
+                },
+                {
+                    "word": " in",
+                    "start": 4.74,
+                    "end": 4.94,
+                    "probability": 0.9892387390136719
+                },
+                {
+                    "word": " your",
+                    "start": 4.94,
+                    "end": 5.08,
+                    "probability": 0.9957389831542969
+                },
+                {
+                    "word": " hand",
+                    "start": 5.08,
+                    "end": 5.36,
+                    "probability": 0.9960289001464844
+                },
+                {
+                    "word": " making",
+                    "start": 5.36,
+                    "end": 5.64,
+                    "probability": 0.5799034833908081
+                },
+                {
+                    "word": " matches",
+                    "start": 5.64,
+                    "end": 6.04,
+                    "probability": 0.9951099753379822
+                },
+                {
+                    "word": " less",
+                    "start": 6.04,
+                    "end": 6.32,
+                    "probability": 0.9969723224639893
+                },
+                {
+                    "word": " likely.",
+                    "start": 6.32,
+                    "end": 6.74,
+                    "probability": 0.996798574924469
+                },
+                {
+                    "word": " This",
+                    "start": 7.1,
+                    "end": 7.22,
+                    "probability": 0.9880010485649109
+                },
+                {
+                    "word": " naturally",
+                    "start": 7.22,
+                    "end": 7.68,
+                    "probability": 0.9929567575454712
+                },
+                {
+                    "word": " balances",
+                    "start": 7.68,
+                    "end": 8.12,
+                    "probability": 0.9843988418579102
+                },
+                {
+                    "word": " the",
+                    "start": 8.12,
+                    "end": 8.38,
+                    "probability": 0.9966956377029419
+                },
+                {
+                    "word": " game",
+                    "start": 8.38,
+                    "end": 8.64,
+                    "probability": 0.9982779026031494
+                },
+                {
+                    "word": " even",
+                    "start": 8.64,
+                    "end": 9.04,
+                    "probability": 0.4937989413738251
+                },
+                {
+                    "word": " with",
+                    "start": 9.04,
+                    "end": 9.24,
+                    "probability": 0.9096632599830627
+                },
+                {
+                    "word": " luck",
+                    "start": 9.24,
+                    "end": 9.4,
+                    "probability": 0.9386854767799377
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.4,
+            "end": 14.7,
+            "text": " involved. If this is monopoly, stale and boring, this is Uno up and down always uncertain.",
+            "tokens": [
+                50836,
+                3288,
+                13,
+                759,
+                341,
+                307,
+                37061,
+                11,
+                342,
+                1220,
+                293,
+                9989,
+                11,
+                341,
+                307,
+                37468,
+                493,
+                293,
+                760,
+                1009,
+                11308,
+                13,
+                51100
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20063488411180902,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.01079866848886013,
+            "words": [
+                {
+                    "word": " involved.",
+                    "start": 9.4,
+                    "end": 9.9,
+                    "probability": 0.9941348433494568
+                },
+                {
+                    "word": " If",
+                    "start": 10.3,
+                    "end": 10.4,
+                    "probability": 0.9851294755935669
+                },
+                {
+                    "word": " this",
+                    "start": 10.4,
+                    "end": 10.6,
+                    "probability": 0.9947035908699036
+                },
+                {
+                    "word": " is",
+                    "start": 10.6,
+                    "end": 10.72,
+                    "probability": 0.9910677075386047
+                },
+                {
+                    "word": " monopoly,",
+                    "start": 10.72,
+                    "end": 11.12,
+                    "probability": 0.7530962228775024
+                },
+                {
+                    "word": " stale",
+                    "start": 11.34,
+                    "end": 11.62,
+                    "probability": 0.8924503028392792
+                },
+                {
+                    "word": " and",
+                    "start": 11.62,
+                    "end": 11.8,
+                    "probability": 0.5981259942054749
+                },
+                {
+                    "word": " boring,",
+                    "start": 11.8,
+                    "end": 12.14,
+                    "probability": 0.982623279094696
+                },
+                {
+                    "word": " this",
+                    "start": 12.42,
+                    "end": 12.54,
+                    "probability": 0.9887680411338806
+                },
+                {
+                    "word": " is",
+                    "start": 12.54,
+                    "end": 12.72,
+                    "probability": 0.9881598949432373
+                },
+                {
+                    "word": " Uno",
+                    "start": 12.72,
+                    "end": 13.0,
+                    "probability": 0.5630413889884949
+                },
+                {
+                    "word": " up",
+                    "start": 13.0,
+                    "end": 13.36,
+                    "probability": 0.5847539901733398
+                },
+                {
+                    "word": " and",
+                    "start": 13.36,
+                    "end": 13.48,
+                    "probability": 0.969058096408844
+                },
+                {
+                    "word": " down",
+                    "start": 13.48,
+                    "end": 13.74,
+                    "probability": 0.9976354837417603
+                },
+                {
+                    "word": " always",
+                    "start": 13.74,
+                    "end": 14.18,
+                    "probability": 0.6797001957893372
+                },
+                {
+                    "word": " uncertain.",
+                    "start": 14.18,
+                    "end": 14.7,
+                    "probability": 0.9864285588264465
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

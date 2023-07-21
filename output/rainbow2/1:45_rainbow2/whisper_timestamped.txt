@@ -1,0 +1,321 @@
+{
+    "text": " bows. If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.38,
+            "end": 6.9,
+            "text": " bows. If the red of the second bow falls upon the green of the first, the result is to give",
+            "tokens": [
+                50364,
+                43158,
+                13,
+                759,
+                264,
+                2182,
+                295,
+                264,
+                1150,
+                4503,
+                8804,
+                3564,
+                264,
+                3092,
+                295,
+                264,
+                700,
+                11,
+                264,
+                1874,
+                307,
+                281,
+                976,
+                50710
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16075559538237902,
+            "compression_ratio": 1.472,
+            "no_speech_prob": 0.005890650674700737,
+            "words": [
+                {
+                    "word": " bows.",
+                    "start": 0.38,
+                    "end": 0.98,
+                    "probability": 0.4702652096748352
+                },
+                {
+                    "word": " If",
+                    "start": 1.28,
+                    "end": 1.58,
+                    "probability": 0.9902520179748535
+                },
+                {
+                    "word": " the",
+                    "start": 1.58,
+                    "end": 1.76,
+                    "probability": 0.9950049519538879
+                },
+                {
+                    "word": " red",
+                    "start": 1.76,
+                    "end": 1.98,
+                    "probability": 0.8965996503829956
+                },
+                {
+                    "word": " of",
+                    "start": 1.98,
+                    "end": 2.18,
+                    "probability": 0.9967964291572571
+                },
+                {
+                    "word": " the",
+                    "start": 2.18,
+                    "end": 2.34,
+                    "probability": 0.9945896863937378
+                },
+                {
+                    "word": " second",
+                    "start": 2.34,
+                    "end": 2.64,
+                    "probability": 0.9849495887756348
+                },
+                {
+                    "word": " bow",
+                    "start": 2.64,
+                    "end": 3.0,
+                    "probability": 0.9923701286315918
+                },
+                {
+                    "word": " falls",
+                    "start": 3.0,
+                    "end": 3.52,
+                    "probability": 0.9848737716674805
+                },
+                {
+                    "word": " upon",
+                    "start": 3.52,
+                    "end": 3.82,
+                    "probability": 0.9948670864105225
+                },
+                {
+                    "word": " the",
+                    "start": 3.82,
+                    "end": 3.94,
+                    "probability": 0.9960783123970032
+                },
+                {
+                    "word": " green",
+                    "start": 3.94,
+                    "end": 4.2,
+                    "probability": 0.966923177242279
+                },
+                {
+                    "word": " of",
+                    "start": 4.2,
+                    "end": 4.4,
+                    "probability": 0.9977328777313232
+                },
+                {
+                    "word": " the",
+                    "start": 4.4,
+                    "end": 4.54,
+                    "probability": 0.9954245686531067
+                },
+                {
+                    "word": " first,",
+                    "start": 4.54,
+                    "end": 5.0,
+                    "probability": 0.9766337275505066
+                },
+                {
+                    "word": " the",
+                    "start": 5.62,
+                    "end": 5.72,
+                    "probability": 0.995905876159668
+                },
+                {
+                    "word": " result",
+                    "start": 5.72,
+                    "end": 6.12,
+                    "probability": 0.997783362865448
+                },
+                {
+                    "word": " is",
+                    "start": 6.12,
+                    "end": 6.5,
+                    "probability": 0.9987366795539856
+                },
+                {
+                    "word": " to",
+                    "start": 6.5,
+                    "end": 6.72,
+                    "probability": 0.9987704157829285
+                },
+                {
+                    "word": " give",
+                    "start": 6.72,
+                    "end": 6.9,
+                    "probability": 0.9986351132392883
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.9,
+            "end": 13.16,
+            "text": " a bow with an abnormally wide yellow band, since red and green light when mixed form",
+            "tokens": [
+                50710,
+                257,
+                4503,
+                365,
+                364,
+                47104,
+                379,
+                4874,
+                5566,
+                4116,
+                11,
+                1670,
+                2182,
+                293,
+                3092,
+                1442,
+                562,
+                7467,
+                1254,
+                51026
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16075559538237902,
+            "compression_ratio": 1.472,
+            "no_speech_prob": 0.005890650674700737,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 6.9,
+                    "end": 7.08,
+                    "probability": 0.9957275390625
+                },
+                {
+                    "word": " bow",
+                    "start": 7.08,
+                    "end": 7.32,
+                    "probability": 0.9974270462989807
+                },
+                {
+                    "word": " with",
+                    "start": 7.32,
+                    "end": 7.64,
+                    "probability": 0.9912952184677124
+                },
+                {
+                    "word": " an",
+                    "start": 7.64,
+                    "end": 7.78,
+                    "probability": 0.9974633455276489
+                },
+                {
+                    "word": " abnormally",
+                    "start": 7.78,
+                    "end": 8.42,
+                    "probability": 0.9960073232650757
+                },
+                {
+                    "word": " wide",
+                    "start": 8.42,
+                    "end": 8.84,
+                    "probability": 0.9735038876533508
+                },
+                {
+                    "word": " yellow",
+                    "start": 8.84,
+                    "end": 9.2,
+                    "probability": 0.9838277101516724
+                },
+                {
+                    "word": " band,",
+                    "start": 9.2,
+                    "end": 9.84,
+                    "probability": 0.9850481748580933
+                },
+                {
+                    "word": " since",
+                    "start": 10.3,
+                    "end": 10.54,
+                    "probability": 0.9956138134002686
+                },
+                {
+                    "word": " red",
+                    "start": 10.54,
+                    "end": 10.9,
+                    "probability": 0.9964115023612976
+                },
+                {
+                    "word": " and",
+                    "start": 10.9,
+                    "end": 11.14,
+                    "probability": 0.9808551669120789
+                },
+                {
+                    "word": " green",
+                    "start": 11.14,
+                    "end": 11.4,
+                    "probability": 0.9965389966964722
+                },
+                {
+                    "word": " light",
+                    "start": 11.4,
+                    "end": 11.86,
+                    "probability": 0.9713972806930542
+                },
+                {
+                    "word": " when",
+                    "start": 11.86,
+                    "end": 12.18,
+                    "probability": 0.6537728905677795
+                },
+                {
+                    "word": " mixed",
+                    "start": 12.18,
+                    "end": 12.62,
+                    "probability": 0.9880229234695435
+                },
+                {
+                    "word": " form",
+                    "start": 12.62,
+                    "end": 13.16,
+                    "probability": 0.9776085615158081
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.16,
+            "end": 13.54,
+            "text": " yellow.",
+            "tokens": [
+                51026,
+                5566,
+                13,
+                51108
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16075559538237902,
+            "compression_ratio": 1.472,
+            "no_speech_prob": 0.005890650674700737,
+            "words": [
+                {
+                    "word": " yellow.",
+                    "start": 13.16,
+                    "end": 13.54,
+                    "probability": 0.9916706085205078
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

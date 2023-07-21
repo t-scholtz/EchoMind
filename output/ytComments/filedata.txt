@@ -1,0 +1,8 @@
+The file came from: /ytComments.mp3
+_______________
+Number of channels  - 1
+Sample Width - 2
+Frame rate  - 16000
+Number of Frames  - 1931807
+lenght of Audio sample - 120.738
+Compression type  - not compressed --- Orignal file type: .mp3

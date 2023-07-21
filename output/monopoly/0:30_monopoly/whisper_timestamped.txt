@@ -1,0 +1,508 @@
+{
+    "text": " Either way, a slow, painful death begins for all but one player. The rest of the game can take an hour or six, but it's just Monopoly Theater, continuing to play even though the winner is obvious. Now compare that with the simplest game there is. Uno, play a matching card and pick up more if you can.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.08,
+            "text": " Either way, a slow, painful death begins for all but one player.",
+            "tokens": [
+                50364,
+                13746,
+                636,
+                11,
+                257,
+                2964,
+                11,
+                11697,
+                2966,
+                7338,
+                337,
+                439,
+                457,
+                472,
+                4256,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1957759141921997,
+            "compression_ratio": 1.4754901960784315,
+            "no_speech_prob": 0.0006162417703308165,
+            "words": [
+                {
+                    "word": " Either",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.9059820175170898
+                },
+                {
+                    "word": " way,",
+                    "start": 0.22,
+                    "end": 0.46,
+                    "probability": 0.9989338517189026
+                },
+                {
+                    "word": " a",
+                    "start": 0.62,
+                    "end": 0.68,
+                    "probability": 0.9879662394523621
+                },
+                {
+                    "word": " slow,",
+                    "start": 0.68,
+                    "end": 0.9,
+                    "probability": 0.9900193214416504
+                },
+                {
+                    "word": " painful",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.9956383109092712
+                },
+                {
+                    "word": " death",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.9974251985549927
+                },
+                {
+                    "word": " begins",
+                    "start": 1.5,
+                    "end": 1.78,
+                    "probability": 0.9809685349464417
+                },
+                {
+                    "word": " for",
+                    "start": 1.78,
+                    "end": 2.06,
+                    "probability": 0.9930250644683838
+                },
+                {
+                    "word": " all",
+                    "start": 2.06,
+                    "end": 2.28,
+                    "probability": 0.9627814888954163
+                },
+                {
+                    "word": " but",
+                    "start": 2.28,
+                    "end": 2.46,
+                    "probability": 0.964672327041626
+                },
+                {
+                    "word": " one",
+                    "start": 2.46,
+                    "end": 2.68,
+                    "probability": 0.9830237030982971
+                },
+                {
+                    "word": " player.",
+                    "start": 2.68,
+                    "end": 3.08,
+                    "probability": 0.996758759021759
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.36,
+            "end": 7.68,
+            "text": " The rest of the game can take an hour or six, but it's just Monopoly Theater, continuing",
+            "tokens": [
+                50534,
+                440,
+                1472,
+                295,
+                264,
+                1216,
+                393,
+                747,
+                364,
+                1773,
+                420,
+                2309,
+                11,
+                457,
+                309,
+                311,
+                445,
+                4713,
+                27891,
+                26548,
+                11,
+                9289,
+                50752
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1957759141921997,
+            "compression_ratio": 1.4754901960784315,
+            "no_speech_prob": 0.0006162417703308165,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 3.36,
+                    "end": 3.42,
+                    "probability": 0.9790231585502625
+                },
+                {
+                    "word": " rest",
+                    "start": 3.42,
+                    "end": 3.58,
+                    "probability": 0.9993417859077454
+                },
+                {
+                    "word": " of",
+                    "start": 3.58,
+                    "end": 3.72,
+                    "probability": 0.9947940707206726
+                },
+                {
+                    "word": " the",
+                    "start": 3.72,
+                    "end": 3.84,
+                    "probability": 0.9929389953613281
+                },
+                {
+                    "word": " game",
+                    "start": 3.84,
+                    "end": 4.0,
+                    "probability": 0.9972957968711853
+                },
+                {
+                    "word": " can",
+                    "start": 4.0,
+                    "end": 4.18,
+                    "probability": 0.9843347668647766
+                },
+                {
+                    "word": " take",
+                    "start": 4.18,
+                    "end": 4.34,
+                    "probability": 0.9909119606018066
+                },
+                {
+                    "word": " an",
+                    "start": 4.34,
+                    "end": 4.52,
+                    "probability": 0.9721382260322571
+                },
+                {
+                    "word": " hour",
+                    "start": 4.52,
+                    "end": 4.84,
+                    "probability": 0.9989272952079773
+                },
+                {
+                    "word": " or",
+                    "start": 4.84,
+                    "end": 5.06,
+                    "probability": 0.9349076747894287
+                },
+                {
+                    "word": " six,",
+                    "start": 5.06,
+                    "end": 5.48,
+                    "probability": 0.7577553391456604
+                },
+                {
+                    "word": " but",
+                    "start": 5.74,
+                    "end": 5.82,
+                    "probability": 0.9957020878791809
+                },
+                {
+                    "word": " it's",
+                    "start": 5.82,
+                    "end": 6.12,
+                    "probability": 0.968437910079956
+                },
+                {
+                    "word": " just",
+                    "start": 6.12,
+                    "end": 6.24,
+                    "probability": 0.9764657020568848
+                },
+                {
+                    "word": " Monopoly",
+                    "start": 6.24,
+                    "end": 6.76,
+                    "probability": 0.7495084702968597
+                },
+                {
+                    "word": " Theater,",
+                    "start": 6.76,
+                    "end": 7.12,
+                    "probability": 0.3439527750015259
+                },
+                {
+                    "word": " continuing",
+                    "start": 7.34,
+                    "end": 7.68,
+                    "probability": 0.9917609691619873
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.68,
+            "end": 9.48,
+            "text": " to play even though the winner is obvious.",
+            "tokens": [
+                50752,
+                281,
+                862,
+                754,
+                1673,
+                264,
+                8507,
+                307,
+                6322,
+                13,
+                50868
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1957759141921997,
+            "compression_ratio": 1.4754901960784315,
+            "no_speech_prob": 0.0006162417703308165,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 7.68,
+                    "end": 7.88,
+                    "probability": 0.9972311854362488
+                },
+                {
+                    "word": " play",
+                    "start": 7.88,
+                    "end": 8.1,
+                    "probability": 0.9977484345436096
+                },
+                {
+                    "word": " even",
+                    "start": 8.1,
+                    "end": 8.36,
+                    "probability": 0.9202380776405334
+                },
+                {
+                    "word": " though",
+                    "start": 8.36,
+                    "end": 8.54,
+                    "probability": 0.9928022027015686
+                },
+                {
+                    "word": " the",
+                    "start": 8.54,
+                    "end": 8.64,
+                    "probability": 0.9876543879508972
+                },
+                {
+                    "word": " winner",
+                    "start": 8.64,
+                    "end": 8.86,
+                    "probability": 0.921857476234436
+                },
+                {
+                    "word": " is",
+                    "start": 8.86,
+                    "end": 9.08,
+                    "probability": 0.9919055700302124
+                },
+                {
+                    "word": " obvious.",
+                    "start": 9.08,
+                    "end": 9.48,
+                    "probability": 0.9861348271369934
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.04,
+            "end": 12.18,
+            "text": " Now compare that with the simplest game there is.",
+            "tokens": [
+                50868,
+                823,
+                6794,
+                300,
+                365,
+                264,
+                22811,
+                1216,
+                456,
+                307,
+                13,
+                50982
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1957759141921997,
+            "compression_ratio": 1.4754901960784315,
+            "no_speech_prob": 0.0006162417703308165,
+            "words": [
+                {
+                    "word": " Now",
+                    "start": 10.04,
+                    "end": 10.16,
+                    "probability": 0.9500589370727539
+                },
+                {
+                    "word": " compare",
+                    "start": 10.16,
+                    "end": 10.52,
+                    "probability": 0.2877581715583801
+                },
+                {
+                    "word": " that",
+                    "start": 10.52,
+                    "end": 10.7,
+                    "probability": 0.9867312908172607
+                },
+                {
+                    "word": " with",
+                    "start": 10.7,
+                    "end": 10.84,
+                    "probability": 0.9850109219551086
+                },
+                {
+                    "word": " the",
+                    "start": 10.84,
+                    "end": 10.94,
+                    "probability": 0.8340427279472351
+                },
+                {
+                    "word": " simplest",
+                    "start": 10.94,
+                    "end": 11.26,
+                    "probability": 0.9896301627159119
+                },
+                {
+                    "word": " game",
+                    "start": 11.26,
+                    "end": 11.52,
+                    "probability": 0.9910861849784851
+                },
+                {
+                    "word": " there",
+                    "start": 11.52,
+                    "end": 11.8,
+                    "probability": 0.7367794513702393
+                },
+                {
+                    "word": " is.",
+                    "start": 11.8,
+                    "end": 12.18,
+                    "probability": 0.9313318133354187
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.6,
+            "end": 14.98,
+            "text": " Uno, play a matching card and pick up more if you can.",
+            "tokens": [
+                50982,
+                37468,
+                11,
+                862,
+                257,
+                14324,
+                2920,
+                293,
+                1888,
+                493,
+                544,
+                498,
+                291,
+                393,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1957759141921997,
+            "compression_ratio": 1.4754901960784315,
+            "no_speech_prob": 0.0006162417703308165,
+            "words": [
+                {
+                    "word": " Uno,",
+                    "start": 12.6,
+                    "end": 12.76,
+                    "probability": 0.8070473670959473
+                },
+                {
+                    "word": " play",
+                    "start": 13.08,
+                    "end": 13.24,
+                    "probability": 0.9852943420410156
+                },
+                {
+                    "word": " a",
+                    "start": 13.24,
+                    "end": 13.32,
+                    "probability": 0.9434022307395935
+                },
+                {
+                    "word": " matching",
+                    "start": 13.32,
+                    "end": 13.6,
+                    "probability": 0.9734718203544617
+                },
+                {
+                    "word": " card",
+                    "start": 13.6,
+                    "end": 13.9,
+                    "probability": 0.9984409213066101
+                },
+                {
+                    "word": " and",
+                    "start": 13.9,
+                    "end": 14.12,
+                    "probability": 0.7542284727096558
+                },
+                {
+                    "word": " pick",
+                    "start": 14.12,
+                    "end": 14.3,
+                    "probability": 0.9881282448768616
+                },
+                {
+                    "word": " up",
+                    "start": 14.3,
+                    "end": 14.4,
+                    "probability": 0.9831264615058899
+                },
+                {
+                    "word": " more",
+                    "start": 14.4,
+                    "end": 14.62,
+                    "probability": 0.9949837923049927
+                },
+                {
+                    "word": " if",
+                    "start": 14.62,
+                    "end": 14.82,
+                    "probability": 0.98895663022995
+                },
+                {
+                    "word": " you",
+                    "start": 14.82,
+                    "end": 14.92,
+                    "probability": 0.997894823551178
+                },
+                {
+                    "word": " can.",
+                    "start": 14.92,
+                    "end": 14.98,
+                    "probability": 0.6976005434989929
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

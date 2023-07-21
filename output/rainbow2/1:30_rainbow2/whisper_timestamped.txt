@@ -1,0 +1,347 @@
+{
+    "text": " the bow depends considerably upon the size of the drops and the width of the colored band increases as the size of the drops increases. The actual primary rainbow observed is said to be the effect of superimposition of a number",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.94,
+            "text": " the bow depends considerably upon the size of the drops and the width of the colored band",
+            "tokens": [
+                50364,
+                264,
+                4503,
+                5946,
+                31308,
+                3564,
+                264,
+                2744,
+                295,
+                264,
+                11438,
+                293,
+                264,
+                11402,
+                295,
+                264,
+                14332,
+                4116,
+                50620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2630539470248752,
+            "compression_ratio": 1.6137931034482758,
+            "no_speech_prob": 0.019808301702141762,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.12899067997932434
+                },
+                {
+                    "word": " bow",
+                    "start": 0.14,
+                    "end": 0.14,
+                    "probability": 0.018556280061602592
+                },
+                {
+                    "word": " depends",
+                    "start": 0.14,
+                    "end": 0.44,
+                    "probability": 0.9329362511634827
+                },
+                {
+                    "word": " considerably",
+                    "start": 0.44,
+                    "end": 1.28,
+                    "probability": 0.990206778049469
+                },
+                {
+                    "word": " upon",
+                    "start": 1.28,
+                    "end": 1.92,
+                    "probability": 0.9828847646713257
+                },
+                {
+                    "word": " the",
+                    "start": 1.92,
+                    "end": 2.1,
+                    "probability": 0.9886050224304199
+                },
+                {
+                    "word": " size",
+                    "start": 2.1,
+                    "end": 2.36,
+                    "probability": 0.9955256581306458
+                },
+                {
+                    "word": " of",
+                    "start": 2.36,
+                    "end": 2.6,
+                    "probability": 0.9959101676940918
+                },
+                {
+                    "word": " the",
+                    "start": 2.6,
+                    "end": 2.74,
+                    "probability": 0.9936887621879578
+                },
+                {
+                    "word": " drops",
+                    "start": 2.74,
+                    "end": 3.0,
+                    "probability": 0.9664437174797058
+                },
+                {
+                    "word": " and",
+                    "start": 3.0,
+                    "end": 3.72,
+                    "probability": 0.7395410537719727
+                },
+                {
+                    "word": " the",
+                    "start": 3.72,
+                    "end": 3.86,
+                    "probability": 0.9308434724807739
+                },
+                {
+                    "word": " width",
+                    "start": 3.86,
+                    "end": 4.02,
+                    "probability": 0.9974774718284607
+                },
+                {
+                    "word": " of",
+                    "start": 4.02,
+                    "end": 4.24,
+                    "probability": 0.9927738904953003
+                },
+                {
+                    "word": " the",
+                    "start": 4.24,
+                    "end": 4.34,
+                    "probability": 0.9912713766098022
+                },
+                {
+                    "word": " colored",
+                    "start": 4.34,
+                    "end": 4.6,
+                    "probability": 0.5205860733985901
+                },
+                {
+                    "word": " band",
+                    "start": 4.6,
+                    "end": 4.94,
+                    "probability": 0.9867690801620483
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.94,
+            "end": 7.5,
+            "text": " increases as the size of the drops increases.",
+            "tokens": [
+                50620,
+                8637,
+                382,
+                264,
+                2744,
+                295,
+                264,
+                11438,
+                8637,
+                13,
+                50810
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2630539470248752,
+            "compression_ratio": 1.6137931034482758,
+            "no_speech_prob": 0.019808301702141762,
+            "words": [
+                {
+                    "word": " increases",
+                    "start": 4.94,
+                    "end": 5.58,
+                    "probability": 0.995695948600769
+                },
+                {
+                    "word": " as",
+                    "start": 5.58,
+                    "end": 5.94,
+                    "probability": 0.9528907537460327
+                },
+                {
+                    "word": " the",
+                    "start": 5.94,
+                    "end": 6.12,
+                    "probability": 0.9930156469345093
+                },
+                {
+                    "word": " size",
+                    "start": 6.12,
+                    "end": 6.42,
+                    "probability": 0.9942459464073181
+                },
+                {
+                    "word": " of",
+                    "start": 6.42,
+                    "end": 6.66,
+                    "probability": 0.9939479827880859
+                },
+                {
+                    "word": " the",
+                    "start": 6.66,
+                    "end": 6.78,
+                    "probability": 0.9739407300949097
+                },
+                {
+                    "word": " drops",
+                    "start": 6.78,
+                    "end": 7.04,
+                    "probability": 0.9566051363945007
+                },
+                {
+                    "word": " increases.",
+                    "start": 7.04,
+                    "end": 7.5,
+                    "probability": 0.9894785284996033
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.72,
+            "end": 14.78,
+            "text": " The actual primary rainbow observed is said to be the effect of superimposition of a number",
+            "tokens": [
+                50810,
+                440,
+                3539,
+                6194,
+                18526,
+                13095,
+                307,
+                848,
+                281,
+                312,
+                264,
+                1802,
+                295,
+                1687,
+                8814,
+                5830,
+                295,
+                257,
+                1230,
+                51104
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2630539470248752,
+            "compression_ratio": 1.6137931034482758,
+            "no_speech_prob": 0.019808301702141762,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 8.72,
+                    "end": 8.96,
+                    "probability": 0.9846600890159607
+                },
+                {
+                    "word": " actual",
+                    "start": 8.96,
+                    "end": 9.52,
+                    "probability": 0.9854888319969177
+                },
+                {
+                    "word": " primary",
+                    "start": 9.52,
+                    "end": 10.12,
+                    "probability": 0.9847228527069092
+                },
+                {
+                    "word": " rainbow",
+                    "start": 10.12,
+                    "end": 10.62,
+                    "probability": 0.9055500030517578
+                },
+                {
+                    "word": " observed",
+                    "start": 10.62,
+                    "end": 11.3,
+                    "probability": 0.9852955341339111
+                },
+                {
+                    "word": " is",
+                    "start": 11.3,
+                    "end": 11.74,
+                    "probability": 0.9885275363922119
+                },
+                {
+                    "word": " said",
+                    "start": 11.74,
+                    "end": 12.02,
+                    "probability": 0.9822220206260681
+                },
+                {
+                    "word": " to",
+                    "start": 12.02,
+                    "end": 12.2,
+                    "probability": 0.99754399061203
+                },
+                {
+                    "word": " be",
+                    "start": 12.2,
+                    "end": 12.3,
+                    "probability": 0.99473637342453
+                },
+                {
+                    "word": " the",
+                    "start": 12.3,
+                    "end": 12.42,
+                    "probability": 0.9891809821128845
+                },
+                {
+                    "word": " effect",
+                    "start": 12.42,
+                    "end": 12.86,
+                    "probability": 0.9793635010719299
+                },
+                {
+                    "word": " of",
+                    "start": 12.86,
+                    "end": 13.22,
+                    "probability": 0.9947011470794678
+                },
+                {
+                    "word": " superimposition",
+                    "start": 13.22,
+                    "end": 14.22,
+                    "probability": 0.8618877132733663
+                },
+                {
+                    "word": " of",
+                    "start": 14.22,
+                    "end": 14.4,
+                    "probability": 0.9907021522521973
+                },
+                {
+                    "word": " a",
+                    "start": 14.4,
+                    "end": 14.46,
+                    "probability": 0.9700477123260498
+                },
+                {
+                    "word": " number",
+                    "start": 14.46,
+                    "end": 14.78,
+                    "probability": 0.9956604838371277
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,25 @@
+ {'conf': 1.0, 'end': 0.51, 'start': 0.03, 'word': 'remember'}
+{'conf': 1.0, 'end': 0.66, 'start': 0.51, 'word': 'to'}
+{'conf': 0.819439, 'end': 0.958477, 'start': 0.66, 'word': 'join'}
+{'conf': 0.834743, 'end': 1.02, 'start': 0.96, 'word': 'a'}
+{'conf': 0.56101, 'end': 1.56, 'start': 1.02, 'word': 'scene'}
+{'conf': 0.527123, 'end': 1.77, 'start': 1.59, 'word': 'for'}
+{'conf': 0.934232, 'end': 2.099291, 'start': 1.796146, 'word': 'more'}
+{'conf': 1.0, 'end': 2.64, 'start': 2.099291, 'word': 'trending'}
+{'conf': 1.0, 'end': 3.12, 'start': 2.64, 'word': 'topics'}
+{'conf': 1.0, 'end': 3.33, 'start': 3.12, 'word': 'and'}
+{'conf': 1.0, 'end': 3.69, 'start': 3.33, 'word': 'useful'}
+{'conf': 1.0, 'end': 3.81, 'start': 3.69, 'word': 'the'}
+{'conf': 0.633045, 'end': 4.41, 'start': 3.81, 'word': 'capillary'}
+{'conf': 0.514577, 'end': 4.56, 'start': 4.41, 'word': 'bye'}
+{'conf': 0.851928, 'end': 4.71, 'start': 4.56, 'word': 'for'}
+{'conf': 0.851928, 'end': 5.01, 'start': 4.71, 'word': 'now'}
+{'conf': 1.0, 'end': 5.55, 'start': 5.1, 'word': 'boy'}
+{'conf': 1.0, 'end': 7.02, 'start': 6.54, 'word': 'six'}
+{'conf': 1.0, 'end': 8.58, 'start': 8.31, 'word': 'from'}
+{'conf': 1.0, 'end': 9.27, 'start': 8.58, 'word': 'bbc'}
+{'conf': 1.0, 'end': 9.72, 'start': 9.27, 'word': 'learning'}
+{'conf': 1.0, 'end': 10.29, 'start': 9.72, 'word': 'english'}
+{'conf': 1.0, 'end': 10.59, 'start': 10.32, 'word': 'dot'}
+{'conf': 1.0, 'end': 11.1, 'start': 10.59, 'word': 'com'}
+silence

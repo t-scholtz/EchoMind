@@ -1,0 +1,1 @@
+ {'conf': 0.886622, 'end': 0.3, 'start': 0.0, 'word': 'though'}

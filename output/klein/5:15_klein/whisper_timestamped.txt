@@ -1,0 +1,267 @@
+{
+    "text": " Well, I'm here. This is a cushiony floor, but I did it over concrete. Needless to say, I also guarantee these fine bottles, you know, if it arrives broken, I'll replace it immediately.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 14.08,
+            "text": " Well, I'm here. This is a cushiony floor, but I did it over concrete. Needless to say, I also guarantee these fine bottles, you know, if it arrives broken, I'll replace it immediately.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                286,
+                478,
+                510,
+                13,
+                639,
+                307,
+                257,
+                21908,
+                88,
+                4123,
+                11,
+                457,
+                286,
+                630,
+                309,
+                670,
+                9859,
+                13,
+                16984,
+                1832,
+                281,
+                584,
+                11,
+                286,
+                611,
+                10815,
+                613,
+                2489,
+                15923,
+                11,
+                291,
+                458,
+                11,
+                498,
+                309,
+                20116,
+                5463,
+                11,
+                286,
+                603,
+                7406,
+                309,
+                4258,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23172178073805205,
+            "compression_ratio": 1.295774647887324,
+            "no_speech_prob": 0.017981447279453278,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.197580024600029
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.8707955479621887
+                },
+                {
+                    "word": " here.",
+                    "start": 0.58,
+                    "end": 0.8,
+                    "probability": 0.9764767289161682
+                },
+                {
+                    "word": " This",
+                    "start": 0.98,
+                    "end": 1.08,
+                    "probability": 0.9912761449813843
+                },
+                {
+                    "word": " is",
+                    "start": 1.08,
+                    "end": 1.24,
+                    "probability": 0.994252622127533
+                },
+                {
+                    "word": " a",
+                    "start": 1.24,
+                    "end": 1.4,
+                    "probability": 0.9809726476669312
+                },
+                {
+                    "word": " cushiony",
+                    "start": 1.4,
+                    "end": 1.98,
+                    "probability": 0.6853226870298386
+                },
+                {
+                    "word": " floor,",
+                    "start": 1.98,
+                    "end": 2.72,
+                    "probability": 0.9943192601203918
+                },
+                {
+                    "word": " but",
+                    "start": 3.04,
+                    "end": 3.42,
+                    "probability": 0.9970669150352478
+                },
+                {
+                    "word": " I",
+                    "start": 3.42,
+                    "end": 3.52,
+                    "probability": 0.9982783794403076
+                },
+                {
+                    "word": " did",
+                    "start": 3.52,
+                    "end": 3.64,
+                    "probability": 0.9968392848968506
+                },
+                {
+                    "word": " it",
+                    "start": 3.64,
+                    "end": 3.76,
+                    "probability": 0.9271401166915894
+                },
+                {
+                    "word": " over",
+                    "start": 3.76,
+                    "end": 3.9,
+                    "probability": 0.9907199144363403
+                },
+                {
+                    "word": " concrete.",
+                    "start": 3.9,
+                    "end": 4.44,
+                    "probability": 0.9870185852050781
+                },
+                {
+                    "word": " Needless",
+                    "start": 4.7,
+                    "end": 4.98,
+                    "probability": 0.991138219833374
+                },
+                {
+                    "word": " to",
+                    "start": 4.98,
+                    "end": 5.14,
+                    "probability": 0.9994031190872192
+                },
+                {
+                    "word": " say,",
+                    "start": 5.14,
+                    "end": 5.34,
+                    "probability": 0.9990494847297668
+                },
+                {
+                    "word": " I",
+                    "start": 5.66,
+                    "end": 5.66,
+                    "probability": 0.9983494281768799
+                },
+                {
+                    "word": " also",
+                    "start": 5.66,
+                    "end": 5.98,
+                    "probability": 0.9985451698303223
+                },
+                {
+                    "word": " guarantee",
+                    "start": 5.98,
+                    "end": 6.56,
+                    "probability": 0.9568338394165039
+                },
+                {
+                    "word": " these",
+                    "start": 6.56,
+                    "end": 6.98,
+                    "probability": 0.9927451014518738
+                },
+                {
+                    "word": " fine",
+                    "start": 6.98,
+                    "end": 7.26,
+                    "probability": 0.3111168444156647
+                },
+                {
+                    "word": " bottles,",
+                    "start": 7.26,
+                    "end": 7.62,
+                    "probability": 0.9181591868400574
+                },
+                {
+                    "word": " you",
+                    "start": 7.9,
+                    "end": 7.96,
+                    "probability": 0.596951961517334
+                },
+                {
+                    "word": " know,",
+                    "start": 7.96,
+                    "end": 8.08,
+                    "probability": 0.9970159530639648
+                },
+                {
+                    "word": " if",
+                    "start": 8.2,
+                    "end": 8.2,
+                    "probability": 0.8961557149887085
+                },
+                {
+                    "word": " it",
+                    "start": 8.2,
+                    "end": 8.28,
+                    "probability": 0.9953305721282959
+                },
+                {
+                    "word": " arrives",
+                    "start": 8.28,
+                    "end": 8.74,
+                    "probability": 0.8205928206443787
+                },
+                {
+                    "word": " broken,",
+                    "start": 8.74,
+                    "end": 9.64,
+                    "probability": 0.871300458908081
+                },
+                {
+                    "word": " I'll",
+                    "start": 12.62,
+                    "end": 13.08,
+                    "probability": 0.5781731307506561
+                },
+                {
+                    "word": " replace",
+                    "start": 13.08,
+                    "end": 13.44,
+                    "probability": 0.9970631003379822
+                },
+                {
+                    "word": " it",
+                    "start": 13.44,
+                    "end": 13.64,
+                    "probability": 0.9949512481689453
+                },
+                {
+                    "word": " immediately.",
+                    "start": 13.64,
+                    "end": 14.08,
+                    "probability": 0.9968112111091614
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

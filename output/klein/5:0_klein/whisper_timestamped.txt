@@ -1,0 +1,325 @@
+{
+    "text": " off a concrete on top of concrete, dropping them from a ladder. First on that end, then throwing it up like this, and letting it drop a lot of times. So over and over again.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.12,
+            "end": 3.92,
+            "text": " off a concrete on top of concrete, dropping them from a ladder.",
+            "tokens": [
+                50364,
+                766,
+                257,
+                9859,
+                322,
+                1192,
+                295,
+                9859,
+                11,
+                13601,
+                552,
+                490,
+                257,
+                18325,
+                13,
+                50581
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4455283737182617,
+            "compression_ratio": 1.4297520661157024,
+            "no_speech_prob": 0.010348215699195862,
+            "words": [
+                {
+                    "word": " off",
+                    "start": 0.12,
+                    "end": 0.56,
+                    "probability": 0.3129117786884308
+                },
+                {
+                    "word": " a",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.8952622413635254
+                },
+                {
+                    "word": " concrete",
+                    "start": 0.74,
+                    "end": 1.14,
+                    "probability": 0.9512470364570618
+                },
+                {
+                    "word": " on",
+                    "start": 1.14,
+                    "end": 2.1,
+                    "probability": 0.5184747576713562
+                },
+                {
+                    "word": " top",
+                    "start": 2.1,
+                    "end": 2.3,
+                    "probability": 0.996905505657196
+                },
+                {
+                    "word": " of",
+                    "start": 2.3,
+                    "end": 2.44,
+                    "probability": 0.9967151880264282
+                },
+                {
+                    "word": " concrete,",
+                    "start": 2.44,
+                    "end": 2.82,
+                    "probability": 0.9988862872123718
+                },
+                {
+                    "word": " dropping",
+                    "start": 3.0,
+                    "end": 3.22,
+                    "probability": 0.9679638743400574
+                },
+                {
+                    "word": " them",
+                    "start": 3.22,
+                    "end": 3.44,
+                    "probability": 0.8043774366378784
+                },
+                {
+                    "word": " from",
+                    "start": 3.44,
+                    "end": 3.56,
+                    "probability": 0.9921070337295532
+                },
+                {
+                    "word": " a",
+                    "start": 3.56,
+                    "end": 3.7,
+                    "probability": 0.7813450694084167
+                },
+                {
+                    "word": " ladder.",
+                    "start": 3.7,
+                    "end": 3.92,
+                    "probability": 0.9900654554367065
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.54,
+            "end": 7.66,
+            "text": " First on that end, then throwing it up like this,",
+            "tokens": [
+                50581,
+                2386,
+                322,
+                300,
+                917,
+                11,
+                550,
+                10238,
+                309,
+                493,
+                411,
+                341,
+                11,
+                50761
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4455283737182617,
+            "compression_ratio": 1.4297520661157024,
+            "no_speech_prob": 0.010348215699195862,
+            "words": [
+                {
+                    "word": " First",
+                    "start": 4.54,
+                    "end": 4.74,
+                    "probability": 0.9704132080078125
+                },
+                {
+                    "word": " on",
+                    "start": 4.74,
+                    "end": 5.0,
+                    "probability": 0.8473767042160034
+                },
+                {
+                    "word": " that",
+                    "start": 5.0,
+                    "end": 5.24,
+                    "probability": 0.9978287816047668
+                },
+                {
+                    "word": " end,",
+                    "start": 5.24,
+                    "end": 5.66,
+                    "probability": 0.9967922568321228
+                },
+                {
+                    "word": " then",
+                    "start": 5.86,
+                    "end": 6.62,
+                    "probability": 0.9685198664665222
+                },
+                {
+                    "word": " throwing",
+                    "start": 6.62,
+                    "end": 6.96,
+                    "probability": 0.9945182204246521
+                },
+                {
+                    "word": " it",
+                    "start": 6.96,
+                    "end": 7.1,
+                    "probability": 0.9913835525512695
+                },
+                {
+                    "word": " up",
+                    "start": 7.1,
+                    "end": 7.2,
+                    "probability": 0.9835349321365356
+                },
+                {
+                    "word": " like",
+                    "start": 7.2,
+                    "end": 7.38,
+                    "probability": 0.9947704672813416
+                },
+                {
+                    "word": " this,",
+                    "start": 7.38,
+                    "end": 7.66,
+                    "probability": 0.999134361743927
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.14,
+            "end": 10.28,
+            "text": " and letting it drop a lot of times.",
+            "tokens": [
+                50761,
+                293,
+                8295,
+                309,
+                3270,
+                257,
+                688,
+                295,
+                1413,
+                13,
+                50911
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4455283737182617,
+            "compression_ratio": 1.4297520661157024,
+            "no_speech_prob": 0.010348215699195862,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 8.14,
+                    "end": 8.22,
+                    "probability": 0.7734248638153076
+                },
+                {
+                    "word": " letting",
+                    "start": 8.22,
+                    "end": 8.42,
+                    "probability": 0.9971868395805359
+                },
+                {
+                    "word": " it",
+                    "start": 8.42,
+                    "end": 8.64,
+                    "probability": 0.996385931968689
+                },
+                {
+                    "word": " drop",
+                    "start": 8.64,
+                    "end": 8.98,
+                    "probability": 0.9979329109191895
+                },
+                {
+                    "word": " a",
+                    "start": 8.98,
+                    "end": 9.46,
+                    "probability": 0.8337917923927307
+                },
+                {
+                    "word": " lot",
+                    "start": 9.46,
+                    "end": 9.72,
+                    "probability": 0.9957332015037537
+                },
+                {
+                    "word": " of",
+                    "start": 9.72,
+                    "end": 9.86,
+                    "probability": 0.9956711530685425
+                },
+                {
+                    "word": " times.",
+                    "start": 9.86,
+                    "end": 10.28,
+                    "probability": 0.9965856075286865
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.0,
+            "end": 14.98,
+            "text": " So over and over again.",
+            "tokens": [
+                50911,
+                407,
+                670,
+                293,
+                670,
+                797,
+                13,
+                51111
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4455283737182617,
+            "compression_ratio": 1.4297520661157024,
+            "no_speech_prob": 0.010348215699195862,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 12.0,
+                    "end": 12.1,
+                    "probability": 0.24027183651924133
+                },
+                {
+                    "word": " over",
+                    "start": 12.1,
+                    "end": 14.6,
+                    "probability": 0.592871367931366
+                },
+                {
+                    "word": " and",
+                    "start": 14.6,
+                    "end": 14.72,
+                    "probability": 0.9921526312828064
+                },
+                {
+                    "word": " over",
+                    "start": 14.72,
+                    "end": 14.9,
+                    "probability": 0.9956432580947876
+                },
+                {
+                    "word": " again.",
+                    "start": 14.9,
+                    "end": 14.98,
+                    "probability": 0.7011902928352356
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,159 @@
+{
+    "text": " a very common type of bow, one showing mainly red and yellow, with little or no green or blue.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.9,
+            "text": " a very common type of bow, one showing mainly red and yellow, with little or no green or blue.",
+            "tokens": [
+                50364,
+                257,
+                588,
+                2689,
+                2010,
+                295,
+                4503,
+                11,
+                472,
+                4099,
+                8704,
+                2182,
+                293,
+                5566,
+                11,
+                365,
+                707,
+                420,
+                572,
+                3092,
+                420,
+                3344,
+                13,
+                50708
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2485133171081543,
+            "compression_ratio": 1.1325301204819278,
+            "no_speech_prob": 0.0016199963865801692,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 0.0,
+                    "end": 0.14,
+                    "probability": 0.19541865587234497
+                },
+                {
+                    "word": " very",
+                    "start": 0.14,
+                    "end": 0.46,
+                    "probability": 0.9927982091903687
+                },
+                {
+                    "word": " common",
+                    "start": 0.46,
+                    "end": 0.82,
+                    "probability": 0.9980090260505676
+                },
+                {
+                    "word": " type",
+                    "start": 0.82,
+                    "end": 1.2,
+                    "probability": 0.9940550327301025
+                },
+                {
+                    "word": " of",
+                    "start": 1.2,
+                    "end": 1.48,
+                    "probability": 0.9972215890884399
+                },
+                {
+                    "word": " bow,",
+                    "start": 1.48,
+                    "end": 1.78,
+                    "probability": 0.9502379894256592
+                },
+                {
+                    "word": " one",
+                    "start": 2.2,
+                    "end": 2.5,
+                    "probability": 0.9907049536705017
+                },
+                {
+                    "word": " showing",
+                    "start": 2.5,
+                    "end": 2.9,
+                    "probability": 0.993876039981842
+                },
+                {
+                    "word": " mainly",
+                    "start": 2.9,
+                    "end": 3.3,
+                    "probability": 0.9703547358512878
+                },
+                {
+                    "word": " red",
+                    "start": 3.3,
+                    "end": 3.64,
+                    "probability": 0.9764885902404785
+                },
+                {
+                    "word": " and",
+                    "start": 3.64,
+                    "end": 4.0,
+                    "probability": 0.9882671236991882
+                },
+                {
+                    "word": " yellow,",
+                    "start": 4.0,
+                    "end": 4.38,
+                    "probability": 0.9987094402313232
+                },
+                {
+                    "word": " with",
+                    "start": 4.74,
+                    "end": 4.98,
+                    "probability": 0.9964224696159363
+                },
+                {
+                    "word": " little",
+                    "start": 4.98,
+                    "end": 5.3,
+                    "probability": 0.9962186217308044
+                },
+                {
+                    "word": " or",
+                    "start": 5.3,
+                    "end": 5.7,
+                    "probability": 0.5801359415054321
+                },
+                {
+                    "word": " no",
+                    "start": 5.7,
+                    "end": 5.9,
+                    "probability": 0.9944475889205933
+                },
+                {
+                    "word": " green",
+                    "start": 5.9,
+                    "end": 6.26,
+                    "probability": 0.9907656908035278
+                },
+                {
+                    "word": " or",
+                    "start": 6.26,
+                    "end": 6.62,
+                    "probability": 0.9323893189430237
+                },
+                {
+                    "word": " blue.",
+                    "start": 6.62,
+                    "end": 6.9,
+                    "probability": 0.9973432421684265
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

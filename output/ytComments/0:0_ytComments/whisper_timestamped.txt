@@ -1,0 +1,473 @@
+{
+    "text": " Hello Internet, I'm here to talk about an experiment on the channel. There's a problem on YouTube. See, down in the comments there are so many scambots and sex bots and sex bots and scambots. I don't know what the deal is, it's been a problem for years that multiple creators have complained about and",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " Hello Internet, I'm here to talk about an experiment on the channel.",
+            "tokens": [
+                50364,
+                2425,
+                7703,
+                11,
+                286,
+                478,
+                510,
+                281,
+                751,
+                466,
+                364,
+                5120,
+                322,
+                264,
+                2269,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1622610703492776,
+            "compression_ratio": 1.601063829787234,
+            "no_speech_prob": 0.018221266567707062,
+            "words": [
+                {
+                    "word": " Hello",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.871963381767273
+                },
+                {
+                    "word": " Internet,",
+                    "start": 0.28,
+                    "end": 0.64,
+                    "probability": 0.48631489276885986
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.88,
+                    "end": 0.96,
+                    "probability": 0.8792694807052612
+                },
+                {
+                    "word": " here",
+                    "start": 0.96,
+                    "end": 1.08,
+                    "probability": 0.9960801005363464
+                },
+                {
+                    "word": " to",
+                    "start": 1.08,
+                    "end": 1.2,
+                    "probability": 0.9924917817115784
+                },
+                {
+                    "word": " talk",
+                    "start": 1.2,
+                    "end": 1.36,
+                    "probability": 0.9938541650772095
+                },
+                {
+                    "word": " about",
+                    "start": 1.36,
+                    "end": 1.62,
+                    "probability": 0.9925601482391357
+                },
+                {
+                    "word": " an",
+                    "start": 1.62,
+                    "end": 1.78,
+                    "probability": 0.9694024920463562
+                },
+                {
+                    "word": " experiment",
+                    "start": 1.78,
+                    "end": 2.3,
+                    "probability": 0.9703541994094849
+                },
+                {
+                    "word": " on",
+                    "start": 2.3,
+                    "end": 2.58,
+                    "probability": 0.9750023484230042
+                },
+                {
+                    "word": " the",
+                    "start": 2.58,
+                    "end": 2.74,
+                    "probability": 0.969241201877594
+                },
+                {
+                    "word": " channel.",
+                    "start": 2.74,
+                    "end": 3.1,
+                    "probability": 0.9677259922027588
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.42,
+            "end": 6.94,
+            "text": " There's a problem on YouTube. See, down in the comments there are so many",
+            "tokens": [
+                50528,
+                821,
+                311,
+                257,
+                1154,
+                322,
+                3088,
+                13,
+                3008,
+                11,
+                760,
+                294,
+                264,
+                3053,
+                456,
+                366,
+                370,
+                867,
+                50716
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1622610703492776,
+            "compression_ratio": 1.601063829787234,
+            "no_speech_prob": 0.018221266567707062,
+            "words": [
+                {
+                    "word": " There's",
+                    "start": 3.42,
+                    "end": 3.56,
+                    "probability": 0.9543369114398956
+                },
+                {
+                    "word": " a",
+                    "start": 3.56,
+                    "end": 3.62,
+                    "probability": 0.9929264187812805
+                },
+                {
+                    "word": " problem",
+                    "start": 3.62,
+                    "end": 3.9,
+                    "probability": 0.9966136813163757
+                },
+                {
+                    "word": " on",
+                    "start": 3.9,
+                    "end": 4.08,
+                    "probability": 0.9873788952827454
+                },
+                {
+                    "word": " YouTube.",
+                    "start": 4.08,
+                    "end": 4.36,
+                    "probability": 0.8339799046516418
+                },
+                {
+                    "word": " See,",
+                    "start": 4.58,
+                    "end": 4.68,
+                    "probability": 0.889933168888092
+                },
+                {
+                    "word": " down",
+                    "start": 4.86,
+                    "end": 5.04,
+                    "probability": 0.9930938482284546
+                },
+                {
+                    "word": " in",
+                    "start": 5.04,
+                    "end": 5.28,
+                    "probability": 0.9919461607933044
+                },
+                {
+                    "word": " the",
+                    "start": 5.28,
+                    "end": 5.42,
+                    "probability": 0.9960007071495056
+                },
+                {
+                    "word": " comments",
+                    "start": 5.42,
+                    "end": 5.78,
+                    "probability": 0.9978682994842529
+                },
+                {
+                    "word": " there",
+                    "start": 5.78,
+                    "end": 6.08,
+                    "probability": 0.5383338928222656
+                },
+                {
+                    "word": " are",
+                    "start": 6.08,
+                    "end": 6.28,
+                    "probability": 0.9870195388793945
+                },
+                {
+                    "word": " so",
+                    "start": 6.28,
+                    "end": 6.64,
+                    "probability": 0.9548301696777344
+                },
+                {
+                    "word": " many",
+                    "start": 6.64,
+                    "end": 6.94,
+                    "probability": 0.9955000281333923
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.94,
+            "end": 11.02,
+            "text": " scambots and sex bots and sex bots and scambots. I don't know what the deal is,",
+            "tokens": [
+                50716,
+                795,
+                2173,
+                1971,
+                293,
+                3260,
+                35410,
+                293,
+                3260,
+                35410,
+                293,
+                795,
+                2173,
+                1971,
+                13,
+                286,
+                500,
+                380,
+                458,
+                437,
+                264,
+                2028,
+                307,
+                11,
+                50916
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1622610703492776,
+            "compression_ratio": 1.601063829787234,
+            "no_speech_prob": 0.018221266567707062,
+            "words": [
+                {
+                    "word": " scambots",
+                    "start": 6.94,
+                    "end": 7.78,
+                    "probability": 0.5971755584081014
+                },
+                {
+                    "word": " and",
+                    "start": 7.78,
+                    "end": 7.94,
+                    "probability": 0.9326587319374084
+                },
+                {
+                    "word": " sex",
+                    "start": 7.94,
+                    "end": 8.2,
+                    "probability": 0.9524162411689758
+                },
+                {
+                    "word": " bots",
+                    "start": 8.2,
+                    "end": 8.48,
+                    "probability": 0.6367913484573364
+                },
+                {
+                    "word": " and",
+                    "start": 8.48,
+                    "end": 8.7,
+                    "probability": 0.9162418246269226
+                },
+                {
+                    "word": " sex",
+                    "start": 8.7,
+                    "end": 8.9,
+                    "probability": 0.7820525169372559
+                },
+                {
+                    "word": " bots",
+                    "start": 8.9,
+                    "end": 9.22,
+                    "probability": 0.9623305797576904
+                },
+                {
+                    "word": " and",
+                    "start": 9.22,
+                    "end": 9.4,
+                    "probability": 0.9235706925392151
+                },
+                {
+                    "word": " scambots.",
+                    "start": 9.4,
+                    "end": 10.06,
+                    "probability": 0.9606553514798483
+                },
+                {
+                    "word": " I",
+                    "start": 10.2,
+                    "end": 10.28,
+                    "probability": 0.9919284582138062
+                },
+                {
+                    "word": " don't",
+                    "start": 10.28,
+                    "end": 10.38,
+                    "probability": 0.9759006798267365
+                },
+                {
+                    "word": " know",
+                    "start": 10.38,
+                    "end": 10.46,
+                    "probability": 0.9913414120674133
+                },
+                {
+                    "word": " what",
+                    "start": 10.46,
+                    "end": 10.56,
+                    "probability": 0.9875150918960571
+                },
+                {
+                    "word": " the",
+                    "start": 10.56,
+                    "end": 10.64,
+                    "probability": 0.9845559597015381
+                },
+                {
+                    "word": " deal",
+                    "start": 10.64,
+                    "end": 10.82,
+                    "probability": 0.9995129108428955
+                },
+                {
+                    "word": " is,",
+                    "start": 10.82,
+                    "end": 11.02,
+                    "probability": 0.9970945119857788
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.14,
+            "end": 14.98,
+            "text": " it's been a problem for years that multiple creators have complained about and",
+            "tokens": [
+                50916,
+                309,
+                311,
+                668,
+                257,
+                1154,
+                337,
+                924,
+                300,
+                3866,
+                16039,
+                362,
+                33951,
+                466,
+                293,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1622610703492776,
+            "compression_ratio": 1.601063829787234,
+            "no_speech_prob": 0.018221266567707062,
+            "words": [
+                {
+                    "word": " it's",
+                    "start": 11.14,
+                    "end": 11.26,
+                    "probability": 0.9749776422977448
+                },
+                {
+                    "word": " been",
+                    "start": 11.26,
+                    "end": 11.34,
+                    "probability": 0.9908729791641235
+                },
+                {
+                    "word": " a",
+                    "start": 11.34,
+                    "end": 11.44,
+                    "probability": 0.9979588985443115
+                },
+                {
+                    "word": " problem",
+                    "start": 11.44,
+                    "end": 11.8,
+                    "probability": 0.9988040924072266
+                },
+                {
+                    "word": " for",
+                    "start": 11.8,
+                    "end": 12.06,
+                    "probability": 0.9914587736129761
+                },
+                {
+                    "word": " years",
+                    "start": 12.06,
+                    "end": 12.42,
+                    "probability": 0.9939741492271423
+                },
+                {
+                    "word": " that",
+                    "start": 12.42,
+                    "end": 12.7,
+                    "probability": 0.9791933298110962
+                },
+                {
+                    "word": " multiple",
+                    "start": 12.7,
+                    "end": 12.98,
+                    "probability": 0.9669419527053833
+                },
+                {
+                    "word": " creators",
+                    "start": 12.98,
+                    "end": 13.66,
+                    "probability": 0.9942599534988403
+                },
+                {
+                    "word": " have",
+                    "start": 13.66,
+                    "end": 13.94,
+                    "probability": 0.9917160868644714
+                },
+                {
+                    "word": " complained",
+                    "start": 13.94,
+                    "end": 14.34,
+                    "probability": 0.992489218711853
+                },
+                {
+                    "word": " about",
+                    "start": 14.34,
+                    "end": 14.68,
+                    "probability": 0.9968147873878479
+                },
+                {
+                    "word": " and",
+                    "start": 14.68,
+                    "end": 14.98,
+                    "probability": 0.502040684223175
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

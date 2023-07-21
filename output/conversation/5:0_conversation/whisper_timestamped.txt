@@ -1,0 +1,277 @@
+{
+    "text": " That was the wrong answer. In fact, the record-breaking conversation lasted 54 hours and 4 minutes. About the same as 540 programmes of 6 minutes English. Wow!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " That was the wrong answer.",
+            "tokens": [
+                50364,
+                663,
+                390,
+                264,
+                2085,
+                1867,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33017806573347613,
+            "compression_ratio": 1.2325581395348837,
+            "no_speech_prob": 0.03781920671463013,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.11336065828800201
+                },
+                {
+                    "word": " was",
+                    "start": 0.46,
+                    "end": 0.74,
+                    "probability": 0.8518943786621094
+                },
+                {
+                    "word": " the",
+                    "start": 0.74,
+                    "end": 1.36,
+                    "probability": 0.9438318014144897
+                },
+                {
+                    "word": " wrong",
+                    "start": 1.36,
+                    "end": 1.68,
+                    "probability": 0.9913239479064941
+                },
+                {
+                    "word": " answer.",
+                    "start": 1.68,
+                    "end": 2.22,
+                    "probability": 0.9990710020065308
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.98,
+            "end": 8.22,
+            "text": " In fact, the record-breaking conversation lasted 54 hours and 4 minutes.",
+            "tokens": [
+                50464,
+                682,
+                1186,
+                11,
+                264,
+                2136,
+                12,
+                20602,
+                3761,
+                21116,
+                20793,
+                2496,
+                293,
+                1017,
+                2077,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33017806573347613,
+            "compression_ratio": 1.2325581395348837,
+            "no_speech_prob": 0.03781920671463013,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 2.98,
+                    "end": 2.98,
+                    "probability": 0.8909030556678772
+                },
+                {
+                    "word": " fact,",
+                    "start": 2.98,
+                    "end": 3.38,
+                    "probability": 0.9989332556724548
+                },
+                {
+                    "word": " the",
+                    "start": 3.7,
+                    "end": 3.74,
+                    "probability": 0.9785526394844055
+                },
+                {
+                    "word": " record",
+                    "start": 3.74,
+                    "end": 4.08,
+                    "probability": 0.8994283080101013
+                },
+                {
+                    "word": "-breaking",
+                    "start": 4.08,
+                    "end": 4.44,
+                    "probability": 0.7479632794857025
+                },
+                {
+                    "word": " conversation",
+                    "start": 4.44,
+                    "end": 5.18,
+                    "probability": 0.9969713687896729
+                },
+                {
+                    "word": " lasted",
+                    "start": 5.18,
+                    "end": 5.66,
+                    "probability": 0.9989280104637146
+                },
+                {
+                    "word": " 54",
+                    "start": 5.66,
+                    "end": 6.64,
+                    "probability": 0.9670985341072083
+                },
+                {
+                    "word": " hours",
+                    "start": 6.64,
+                    "end": 7.08,
+                    "probability": 0.9880301356315613
+                },
+                {
+                    "word": " and",
+                    "start": 7.08,
+                    "end": 7.46,
+                    "probability": 0.967359721660614
+                },
+                {
+                    "word": " 4",
+                    "start": 7.46,
+                    "end": 7.86,
+                    "probability": 0.4737323224544525
+                },
+                {
+                    "word": " minutes.",
+                    "start": 7.86,
+                    "end": 8.22,
+                    "probability": 0.9959264993667603
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.88,
+            "end": 13.56,
+            "text": " About the same as 540 programmes of 6 minutes English.",
+            "tokens": [
+                50814,
+                7769,
+                264,
+                912,
+                382,
+                1025,
+                5254,
+                31097,
+                295,
+                1386,
+                2077,
+                3669,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33017806573347613,
+            "compression_ratio": 1.2325581395348837,
+            "no_speech_prob": 0.03781920671463013,
+            "words": [
+                {
+                    "word": " About",
+                    "start": 8.88,
+                    "end": 9.12,
+                    "probability": 0.9847676157951355
+                },
+                {
+                    "word": " the",
+                    "start": 9.12,
+                    "end": 9.34,
+                    "probability": 0.9974296689033508
+                },
+                {
+                    "word": " same",
+                    "start": 9.34,
+                    "end": 9.64,
+                    "probability": 0.9993005990982056
+                },
+                {
+                    "word": " as",
+                    "start": 9.64,
+                    "end": 9.98,
+                    "probability": 0.9933826923370361
+                },
+                {
+                    "word": " 540",
+                    "start": 9.98,
+                    "end": 11.6,
+                    "probability": 0.983696848154068
+                },
+                {
+                    "word": " programmes",
+                    "start": 11.6,
+                    "end": 12.1,
+                    "probability": 0.7778739333152771
+                },
+                {
+                    "word": " of",
+                    "start": 12.1,
+                    "end": 12.6,
+                    "probability": 0.9591842293739319
+                },
+                {
+                    "word": " 6",
+                    "start": 12.6,
+                    "end": 12.92,
+                    "probability": 0.7069222331047058
+                },
+                {
+                    "word": " minutes",
+                    "start": 12.92,
+                    "end": 13.12,
+                    "probability": 0.534013569355011
+                },
+                {
+                    "word": " English.",
+                    "start": 13.12,
+                    "end": 13.56,
+                    "probability": 0.9574099779129028
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.86,
+            "end": 14.14,
+            "text": " Wow!",
+            "tokens": [
+                51064,
+                3153,
+                0,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33017806573347613,
+            "compression_ratio": 1.2325581395348837,
+            "no_speech_prob": 0.03781920671463013,
+            "words": [
+                {
+                    "word": " Wow!",
+                    "start": 13.86,
+                    "end": 14.14,
+                    "probability": 0.7994945049285889
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

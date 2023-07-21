@@ -1,0 +1,329 @@
+{
+    "text": " we are enriched by listening. We're improved by having something else added. As a British Asian boy growing up in a white community, Nehal also thinks conversation was a way for him to make friends and find protection.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.48,
+            "text": " we are enriched by listening. We're improved by having something else added.",
+            "tokens": [
+                50364,
+                321,
+                366,
+                48624,
+                538,
+                4764,
+                13,
+                492,
+                434,
+                9689,
+                538,
+                1419,
+                746,
+                1646,
+                3869,
+                13,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943017024619907,
+            "compression_ratio": 1.371069182389937,
+            "no_speech_prob": 0.009401584975421429,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.43428972363471985
+                },
+                {
+                    "word": " are",
+                    "start": 0.3,
+                    "end": 0.54,
+                    "probability": 0.9828428626060486
+                },
+                {
+                    "word": " enriched",
+                    "start": 0.54,
+                    "end": 1.26,
+                    "probability": 0.9157977104187012
+                },
+                {
+                    "word": " by",
+                    "start": 1.26,
+                    "end": 1.64,
+                    "probability": 0.9885678291320801
+                },
+                {
+                    "word": " listening.",
+                    "start": 1.64,
+                    "end": 2.12,
+                    "probability": 0.9777364134788513
+                },
+                {
+                    "word": " We're",
+                    "start": 2.48,
+                    "end": 2.64,
+                    "probability": 0.9410889446735382
+                },
+                {
+                    "word": " improved",
+                    "start": 2.64,
+                    "end": 3.42,
+                    "probability": 0.9853964447975159
+                },
+                {
+                    "word": " by",
+                    "start": 3.42,
+                    "end": 3.66,
+                    "probability": 0.9951346516609192
+                },
+                {
+                    "word": " having",
+                    "start": 3.66,
+                    "end": 4.04,
+                    "probability": 0.9967515468597412
+                },
+                {
+                    "word": " something",
+                    "start": 4.04,
+                    "end": 4.62,
+                    "probability": 0.9973956346511841
+                },
+                {
+                    "word": " else",
+                    "start": 4.62,
+                    "end": 5.0,
+                    "probability": 0.9985033273696899
+                },
+                {
+                    "word": " added.",
+                    "start": 5.0,
+                    "end": 5.48,
+                    "probability": 0.996421217918396
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.82,
+            "end": 12.24,
+            "text": " As a British Asian boy growing up in a white community, Nehal also thinks conversation was a way",
+            "tokens": [
+                50648,
+                1018,
+                257,
+                6221,
+                10645,
+                3237,
+                4194,
+                493,
+                294,
+                257,
+                2418,
+                1768,
+                11,
+                1734,
+                4947,
+                611,
+                7309,
+                3761,
+                390,
+                257,
+                636,
+                50972
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943017024619907,
+            "compression_ratio": 1.371069182389937,
+            "no_speech_prob": 0.009401584975421429,
+            "words": [
+                {
+                    "word": " As",
+                    "start": 5.82,
+                    "end": 6.0,
+                    "probability": 0.9004292488098145
+                },
+                {
+                    "word": " a",
+                    "start": 6.0,
+                    "end": 6.1,
+                    "probability": 0.7652548551559448
+                },
+                {
+                    "word": " British",
+                    "start": 6.1,
+                    "end": 6.36,
+                    "probability": 0.9956477284431458
+                },
+                {
+                    "word": " Asian",
+                    "start": 6.36,
+                    "end": 6.82,
+                    "probability": 0.8994544148445129
+                },
+                {
+                    "word": " boy",
+                    "start": 6.82,
+                    "end": 7.22,
+                    "probability": 0.9876667261123657
+                },
+                {
+                    "word": " growing",
+                    "start": 7.22,
+                    "end": 7.62,
+                    "probability": 0.9519452452659607
+                },
+                {
+                    "word": " up",
+                    "start": 7.62,
+                    "end": 7.84,
+                    "probability": 0.9981991648674011
+                },
+                {
+                    "word": " in",
+                    "start": 7.84,
+                    "end": 8.04,
+                    "probability": 0.9983691573143005
+                },
+                {
+                    "word": " a",
+                    "start": 8.04,
+                    "end": 8.14,
+                    "probability": 0.9857825040817261
+                },
+                {
+                    "word": " white",
+                    "start": 8.14,
+                    "end": 8.36,
+                    "probability": 0.9575932621955872
+                },
+                {
+                    "word": " community,",
+                    "start": 8.36,
+                    "end": 9.04,
+                    "probability": 0.9981462955474854
+                },
+                {
+                    "word": " Nehal",
+                    "start": 9.58,
+                    "end": 9.8,
+                    "probability": 0.5684756636619568
+                },
+                {
+                    "word": " also",
+                    "start": 9.8,
+                    "end": 10.24,
+                    "probability": 0.9880979657173157
+                },
+                {
+                    "word": " thinks",
+                    "start": 10.24,
+                    "end": 10.68,
+                    "probability": 0.9928656816482544
+                },
+                {
+                    "word": " conversation",
+                    "start": 10.68,
+                    "end": 11.34,
+                    "probability": 0.9352771043777466
+                },
+                {
+                    "word": " was",
+                    "start": 11.34,
+                    "end": 11.92,
+                    "probability": 0.9980605244636536
+                },
+                {
+                    "word": " a",
+                    "start": 11.92,
+                    "end": 12.06,
+                    "probability": 0.9946975708007812
+                },
+                {
+                    "word": " way",
+                    "start": 12.06,
+                    "end": 12.24,
+                    "probability": 0.9979388117790222
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.24,
+            "end": 14.78,
+            "text": " for him to make friends and find protection.",
+            "tokens": [
+                50972,
+                337,
+                796,
+                281,
+                652,
+                1855,
+                293,
+                915,
+                6334,
+                13,
+                51108
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24943017024619907,
+            "compression_ratio": 1.371069182389937,
+            "no_speech_prob": 0.009401584975421429,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 12.24,
+                    "end": 12.46,
+                    "probability": 0.9914599657058716
+                },
+                {
+                    "word": " him",
+                    "start": 12.46,
+                    "end": 12.58,
+                    "probability": 0.9989408850669861
+                },
+                {
+                    "word": " to",
+                    "start": 12.58,
+                    "end": 12.78,
+                    "probability": 0.998683512210846
+                },
+                {
+                    "word": " make",
+                    "start": 12.78,
+                    "end": 12.94,
+                    "probability": 0.9985702037811279
+                },
+                {
+                    "word": " friends",
+                    "start": 12.94,
+                    "end": 13.4,
+                    "probability": 0.9979435801506042
+                },
+                {
+                    "word": " and",
+                    "start": 13.4,
+                    "end": 13.84,
+                    "probability": 0.97343510389328
+                },
+                {
+                    "word": " find",
+                    "start": 13.84,
+                    "end": 14.14,
+                    "probability": 0.9787518382072449
+                },
+                {
+                    "word": " protection.",
+                    "start": 14.14,
+                    "end": 14.78,
+                    "probability": 0.9937291145324707
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

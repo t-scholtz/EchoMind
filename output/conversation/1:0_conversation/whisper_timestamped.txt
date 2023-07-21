@@ -1,0 +1,321 @@
+{
+    "text": " competition in Latvia broke the world record for the longest telephone conversation. So Neil, my question is this. How long did this record-breaking conversation last? Was it? A. 24 hours and 4 minutes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.44,
+            "text": " competition in Latvia broke the world record for the longest telephone conversation.",
+            "tokens": [
+                50364,
+                6211,
+                294,
+                7354,
+                11617,
+                6902,
+                264,
+                1002,
+                2136,
+                337,
+                264,
+                15438,
+                19800,
+                3761,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33295411330003005,
+            "compression_ratio": 1.3557046979865772,
+            "no_speech_prob": 0.06748658418655396,
+            "words": [
+                {
+                    "word": " competition",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.331023246049881
+                },
+                {
+                    "word": " in",
+                    "start": 0.58,
+                    "end": 0.82,
+                    "probability": 0.9851338863372803
+                },
+                {
+                    "word": " Latvia",
+                    "start": 0.82,
+                    "end": 1.36,
+                    "probability": 0.9914556443691254
+                },
+                {
+                    "word": " broke",
+                    "start": 1.36,
+                    "end": 2.04,
+                    "probability": 0.602388858795166
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 2.26,
+                    "probability": 0.9858096241950989
+                },
+                {
+                    "word": " world",
+                    "start": 2.26,
+                    "end": 2.56,
+                    "probability": 0.8832245469093323
+                },
+                {
+                    "word": " record",
+                    "start": 2.56,
+                    "end": 3.0,
+                    "probability": 0.9978775978088379
+                },
+                {
+                    "word": " for",
+                    "start": 3.0,
+                    "end": 3.3,
+                    "probability": 0.9900044798851013
+                },
+                {
+                    "word": " the",
+                    "start": 3.3,
+                    "end": 3.42,
+                    "probability": 0.9925898313522339
+                },
+                {
+                    "word": " longest",
+                    "start": 3.42,
+                    "end": 3.88,
+                    "probability": 0.987405002117157
+                },
+                {
+                    "word": " telephone",
+                    "start": 3.88,
+                    "end": 4.62,
+                    "probability": 0.9936842322349548
+                },
+                {
+                    "word": " conversation.",
+                    "start": 4.62,
+                    "end": 5.44,
+                    "probability": 0.9959486722946167
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.02,
+            "end": 12.26,
+            "text": " So Neil, my question is this. How long did this record-breaking conversation last? Was",
+            "tokens": [
+                50664,
+                407,
+                18615,
+                11,
+                452,
+                1168,
+                307,
+                341,
+                13,
+                1012,
+                938,
+                630,
+                341,
+                2136,
+                12,
+                20602,
+                3761,
+                1036,
+                30,
+                3027,
+                50978
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33295411330003005,
+            "compression_ratio": 1.3557046979865772,
+            "no_speech_prob": 0.06748658418655396,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 6.02,
+                    "end": 6.04,
+                    "probability": 0.9135433435440063
+                },
+                {
+                    "word": " Neil,",
+                    "start": 6.04,
+                    "end": 6.62,
+                    "probability": 0.5170137882232666
+                },
+                {
+                    "word": " my",
+                    "start": 6.84,
+                    "end": 6.92,
+                    "probability": 0.9901179671287537
+                },
+                {
+                    "word": " question",
+                    "start": 6.92,
+                    "end": 7.3,
+                    "probability": 0.9989463686943054
+                },
+                {
+                    "word": " is",
+                    "start": 7.3,
+                    "end": 7.48,
+                    "probability": 0.9925358295440674
+                },
+                {
+                    "word": " this.",
+                    "start": 7.48,
+                    "end": 7.68,
+                    "probability": 0.9940788745880127
+                },
+                {
+                    "word": " How",
+                    "start": 8.38,
+                    "end": 8.5,
+                    "probability": 0.9482048153877258
+                },
+                {
+                    "word": " long",
+                    "start": 8.5,
+                    "end": 8.94,
+                    "probability": 0.9969340562820435
+                },
+                {
+                    "word": " did",
+                    "start": 8.94,
+                    "end": 9.22,
+                    "probability": 0.9977705478668213
+                },
+                {
+                    "word": " this",
+                    "start": 9.22,
+                    "end": 9.5,
+                    "probability": 0.9911659359931946
+                },
+                {
+                    "word": " record",
+                    "start": 9.5,
+                    "end": 9.82,
+                    "probability": 0.9927627444267273
+                },
+                {
+                    "word": "-breaking",
+                    "start": 9.82,
+                    "end": 10.18,
+                    "probability": 0.6810640096664429
+                },
+                {
+                    "word": " conversation",
+                    "start": 10.18,
+                    "end": 10.94,
+                    "probability": 0.9971838593482971
+                },
+                {
+                    "word": " last?",
+                    "start": 10.94,
+                    "end": 11.46,
+                    "probability": 0.9906848073005676
+                },
+                {
+                    "word": " Was",
+                    "start": 12.12,
+                    "end": 12.26,
+                    "probability": 0.982781708240509
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.26,
+            "end": 12.6,
+            "text": " it?",
+            "tokens": [
+                50978,
+                309,
+                30,
+                51028
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33295411330003005,
+            "compression_ratio": 1.3557046979865772,
+            "no_speech_prob": 0.06748658418655396,
+            "words": [
+                {
+                    "word": " it?",
+                    "start": 12.26,
+                    "end": 12.6,
+                    "probability": 0.9959932565689087
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.88,
+            "end": 14.98,
+            "text": " A. 24 hours and 4 minutes.",
+            "tokens": [
+                51028,
+                316,
+                13,
+                4022,
+                2496,
+                293,
+                1017,
+                2077,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33295411330003005,
+            "compression_ratio": 1.3557046979865772,
+            "no_speech_prob": 0.06748658418655396,
+            "words": [
+                {
+                    "word": " A.",
+                    "start": 12.88,
+                    "end": 13.1,
+                    "probability": 0.5488772392272949
+                },
+                {
+                    "word": " 24",
+                    "start": 13.36,
+                    "end": 14.06,
+                    "probability": 0.9170684814453125
+                },
+                {
+                    "word": " hours",
+                    "start": 14.06,
+                    "end": 14.42,
+                    "probability": 0.9714152812957764
+                },
+                {
+                    "word": " and",
+                    "start": 14.42,
+                    "end": 14.62,
+                    "probability": 0.7460263967514038
+                },
+                {
+                    "word": " 4",
+                    "start": 14.62,
+                    "end": 14.86,
+                    "probability": 0.39045196771621704
+                },
+                {
+                    "word": " minutes.",
+                    "start": 14.86,
+                    "end": 14.98,
+                    "probability": 0.8160746693611145
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,342 @@
+{
+    "text": " his reach, his friends say he is looking for the pot of gold at the end of the rainbow. Throughout the centuries, people have explained the rainbow in various ways. Some have accepted it as a miracle without physical aid.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.02,
+            "text": " his reach, his friends say he is looking for the pot of gold at the end of the rainbow.",
+            "tokens": [
+                50364,
+                702,
+                2524,
+                11,
+                702,
+                1855,
+                584,
+                415,
+                307,
+                1237,
+                337,
+                264,
+                1847,
+                295,
+                3821,
+                412,
+                264,
+                917,
+                295,
+                264,
+                18526,
+                13,
+                50726
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16686507633754186,
+            "compression_ratio": 1.469387755102041,
+            "no_speech_prob": 0.0027715174946933985,
+            "words": [
+                {
+                    "word": " his",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.752190351486206
+                },
+                {
+                    "word": " reach,",
+                    "start": 0.16,
+                    "end": 0.6,
+                    "probability": 0.9330981969833374
+                },
+                {
+                    "word": " his",
+                    "start": 1.04,
+                    "end": 1.16,
+                    "probability": 0.9878893494606018
+                },
+                {
+                    "word": " friends",
+                    "start": 1.16,
+                    "end": 1.52,
+                    "probability": 0.7524427771568298
+                },
+                {
+                    "word": " say",
+                    "start": 1.52,
+                    "end": 1.9,
+                    "probability": 0.9944993257522583
+                },
+                {
+                    "word": " he",
+                    "start": 1.9,
+                    "end": 2.1,
+                    "probability": 0.9867776036262512
+                },
+                {
+                    "word": " is",
+                    "start": 2.1,
+                    "end": 2.24,
+                    "probability": 0.9578579068183899
+                },
+                {
+                    "word": " looking",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.9798325300216675
+                },
+                {
+                    "word": " for",
+                    "start": 2.52,
+                    "end": 2.8,
+                    "probability": 0.9963513612747192
+                },
+                {
+                    "word": " the",
+                    "start": 2.8,
+                    "end": 2.9,
+                    "probability": 0.971044659614563
+                },
+                {
+                    "word": " pot",
+                    "start": 2.9,
+                    "end": 3.12,
+                    "probability": 0.8520768284797668
+                },
+                {
+                    "word": " of",
+                    "start": 3.12,
+                    "end": 3.28,
+                    "probability": 0.9959130883216858
+                },
+                {
+                    "word": " gold",
+                    "start": 3.28,
+                    "end": 3.56,
+                    "probability": 0.9970250725746155
+                },
+                {
+                    "word": " at",
+                    "start": 3.56,
+                    "end": 3.84,
+                    "probability": 0.9927091598510742
+                },
+                {
+                    "word": " the",
+                    "start": 3.84,
+                    "end": 4.0,
+                    "probability": 0.9975847005844116
+                },
+                {
+                    "word": " end",
+                    "start": 4.0,
+                    "end": 4.28,
+                    "probability": 0.9957029223442078
+                },
+                {
+                    "word": " of",
+                    "start": 4.28,
+                    "end": 4.44,
+                    "probability": 0.9954074025154114
+                },
+                {
+                    "word": " the",
+                    "start": 4.44,
+                    "end": 4.56,
+                    "probability": 0.990705668926239
+                },
+                {
+                    "word": " rainbow.",
+                    "start": 4.56,
+                    "end": 5.02,
+                    "probability": 0.8774919509887695
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.8,
+            "end": 11.14,
+            "text": " Throughout the centuries, people have explained the rainbow in various ways.",
+            "tokens": [
+                50726,
+                22775,
+                264,
+                13926,
+                11,
+                561,
+                362,
+                8825,
+                264,
+                18526,
+                294,
+                3683,
+                2098,
+                13,
+                50980
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16686507633754186,
+            "compression_ratio": 1.469387755102041,
+            "no_speech_prob": 0.0027715174946933985,
+            "words": [
+                {
+                    "word": " Throughout",
+                    "start": 6.8,
+                    "end": 7.42,
+                    "probability": 0.8780127167701721
+                },
+                {
+                    "word": " the",
+                    "start": 7.42,
+                    "end": 7.66,
+                    "probability": 0.9920086860656738
+                },
+                {
+                    "word": " centuries,",
+                    "start": 7.66,
+                    "end": 8.2,
+                    "probability": 0.9950075149536133
+                },
+                {
+                    "word": " people",
+                    "start": 8.72,
+                    "end": 8.94,
+                    "probability": 0.9930664300918579
+                },
+                {
+                    "word": " have",
+                    "start": 8.94,
+                    "end": 9.1,
+                    "probability": 0.9949671626091003
+                },
+                {
+                    "word": " explained",
+                    "start": 9.1,
+                    "end": 9.5,
+                    "probability": 0.9863757491111755
+                },
+                {
+                    "word": " the",
+                    "start": 9.5,
+                    "end": 9.76,
+                    "probability": 0.9917728304862976
+                },
+                {
+                    "word": " rainbow",
+                    "start": 9.76,
+                    "end": 10.14,
+                    "probability": 0.990721583366394
+                },
+                {
+                    "word": " in",
+                    "start": 10.14,
+                    "end": 10.34,
+                    "probability": 0.998012900352478
+                },
+                {
+                    "word": " various",
+                    "start": 10.34,
+                    "end": 10.7,
+                    "probability": 0.9987063407897949
+                },
+                {
+                    "word": " ways.",
+                    "start": 10.7,
+                    "end": 11.14,
+                    "probability": 0.9976307153701782
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 1114,
+            "start": 11.56,
+            "end": 14.98,
+            "text": " Some have accepted it as a miracle without physical aid.",
+            "tokens": [
+                50404,
+                2188,
+                362,
+                9035,
+                309,
+                382,
+                257,
+                14660,
+                1553,
+                4001,
+                9418,
+                13,
+                50554
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47999368395124165,
+            "compression_ratio": 0.9180327868852459,
+            "no_speech_prob": 0.6719027161598206,
+            "words": [
+                {
+                    "word": " Some",
+                    "start": 11.56,
+                    "end": 12.28,
+                    "probability": 0.4160770773887634
+                },
+                {
+                    "word": " have",
+                    "start": 12.28,
+                    "end": 12.62,
+                    "probability": 0.98822021484375
+                },
+                {
+                    "word": " accepted",
+                    "start": 12.62,
+                    "end": 13.08,
+                    "probability": 0.9670119285583496
+                },
+                {
+                    "word": " it",
+                    "start": 13.08,
+                    "end": 13.3,
+                    "probability": 0.9913989305496216
+                },
+                {
+                    "word": " as",
+                    "start": 13.3,
+                    "end": 13.48,
+                    "probability": 0.9967169165611267
+                },
+                {
+                    "word": " a",
+                    "start": 13.48,
+                    "end": 13.54,
+                    "probability": 0.9873385429382324
+                },
+                {
+                    "word": " miracle",
+                    "start": 13.54,
+                    "end": 13.92,
+                    "probability": 0.9800856709480286
+                },
+                {
+                    "word": " without",
+                    "start": 13.92,
+                    "end": 14.3,
+                    "probability": 0.9609169363975525
+                },
+                {
+                    "word": " physical",
+                    "start": 14.3,
+                    "end": 14.84,
+                    "probability": 0.9860042929649353
+                },
+                {
+                    "word": " aid.",
+                    "start": 14.84,
+                    "end": 14.98,
+                    "probability": 0.1504073292016983
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,269 @@
+{
+    "text": " fingers. They didn't do that much anyway. But everything else, packing them, making sure that it's going to the right person, making sure that it's not going to break.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.16,
+            "text": " fingers. They didn't do that much anyway. But everything else, packing them, making",
+            "tokens": [
+                50364,
+                7350,
+                13,
+                814,
+                994,
+                380,
+                360,
+                300,
+                709,
+                4033,
+                13,
+                583,
+                1203,
+                1646,
+                11,
+                20815,
+                552,
+                11,
+                1455,
+                50778
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24301319122314452,
+            "compression_ratio": 1.4396551724137931,
+            "no_speech_prob": 0.06061411276459694,
+            "words": [
+                {
+                    "word": " fingers.",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.5800080895423889
+                },
+                {
+                    "word": " They",
+                    "start": 0.82,
+                    "end": 1.78,
+                    "probability": 0.6855559945106506
+                },
+                {
+                    "word": " didn't",
+                    "start": 1.78,
+                    "end": 2.04,
+                    "probability": 0.9951484501361847
+                },
+                {
+                    "word": " do",
+                    "start": 2.04,
+                    "end": 2.16,
+                    "probability": 0.9973737001419067
+                },
+                {
+                    "word": " that",
+                    "start": 2.16,
+                    "end": 2.3,
+                    "probability": 0.9966272115707397
+                },
+                {
+                    "word": " much",
+                    "start": 2.3,
+                    "end": 2.62,
+                    "probability": 0.9993591904640198
+                },
+                {
+                    "word": " anyway.",
+                    "start": 2.62,
+                    "end": 2.92,
+                    "probability": 0.9379605650901794
+                },
+                {
+                    "word": " But",
+                    "start": 3.92,
+                    "end": 4.0,
+                    "probability": 0.9575238823890686
+                },
+                {
+                    "word": " everything",
+                    "start": 4.0,
+                    "end": 4.86,
+                    "probability": 0.9448729753494263
+                },
+                {
+                    "word": " else,",
+                    "start": 4.86,
+                    "end": 5.24,
+                    "probability": 0.9995135068893433
+                },
+                {
+                    "word": " packing",
+                    "start": 5.76,
+                    "end": 7.1,
+                    "probability": 0.8983086347579956
+                },
+                {
+                    "word": " them,",
+                    "start": 7.1,
+                    "end": 7.44,
+                    "probability": 0.9984793066978455
+                },
+                {
+                    "word": " making",
+                    "start": 7.9,
+                    "end": 8.16,
+                    "probability": 0.9959532022476196
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.16,
+            "end": 14.88,
+            "text": " sure that it's going to the right person, making sure that it's not going to",
+            "tokens": [
+                50778,
+                988,
+                300,
+                309,
+                311,
+                516,
+                281,
+                264,
+                558,
+                954,
+                11,
+                1455,
+                988,
+                300,
+                309,
+                311,
+                406,
+                516,
+                281,
+                51108
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24301319122314452,
+            "compression_ratio": 1.4396551724137931,
+            "no_speech_prob": 0.06061411276459694,
+            "words": [
+                {
+                    "word": " sure",
+                    "start": 8.16,
+                    "end": 8.46,
+                    "probability": 0.9994251728057861
+                },
+                {
+                    "word": " that",
+                    "start": 8.46,
+                    "end": 8.68,
+                    "probability": 0.9911128878593445
+                },
+                {
+                    "word": " it's",
+                    "start": 8.68,
+                    "end": 8.88,
+                    "probability": 0.9952661395072937
+                },
+                {
+                    "word": " going",
+                    "start": 8.88,
+                    "end": 9.16,
+                    "probability": 0.9993895292282104
+                },
+                {
+                    "word": " to",
+                    "start": 9.16,
+                    "end": 9.58,
+                    "probability": 0.9986825585365295
+                },
+                {
+                    "word": " the",
+                    "start": 9.58,
+                    "end": 9.92,
+                    "probability": 0.995964765548706
+                },
+                {
+                    "word": " right",
+                    "start": 9.92,
+                    "end": 10.1,
+                    "probability": 0.9984591007232666
+                },
+                {
+                    "word": " person,",
+                    "start": 10.1,
+                    "end": 10.64,
+                    "probability": 0.9942401647567749
+                },
+                {
+                    "word": " making",
+                    "start": 11.64,
+                    "end": 11.84,
+                    "probability": 0.9940176010131836
+                },
+                {
+                    "word": " sure",
+                    "start": 11.84,
+                    "end": 12.14,
+                    "probability": 0.9996721744537354
+                },
+                {
+                    "word": " that",
+                    "start": 12.14,
+                    "end": 12.42,
+                    "probability": 0.9920141100883484
+                },
+                {
+                    "word": " it's",
+                    "start": 12.42,
+                    "end": 14.52,
+                    "probability": 0.9849731028079987
+                },
+                {
+                    "word": " not",
+                    "start": 14.52,
+                    "end": 14.66,
+                    "probability": 0.9994097948074341
+                },
+                {
+                    "word": " going",
+                    "start": 14.66,
+                    "end": 14.8,
+                    "probability": 0.8153821229934692
+                },
+                {
+                    "word": " to",
+                    "start": 14.8,
+                    "end": 14.88,
+                    "probability": 0.9986110925674438
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.88,
+            "end": 14.98,
+            "text": " break.",
+            "tokens": [
+                51108,
+                1821,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24301319122314452,
+            "compression_ratio": 1.4396551724137931,
+            "no_speech_prob": 0.06061411276459694,
+            "words": [
+                {
+                    "word": " break.",
+                    "start": 14.88,
+                    "end": 14.98,
+                    "probability": 0.8624974489212036
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

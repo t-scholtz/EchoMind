@@ -1,0 +1,300 @@
+{
+    "text": " Okay, come on in. Just bet all of what? A minute? Walking through the garden? And oh, wait a second. Ah, check this out. Fall color is here. Again, why am I here?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 3.84,
+            "end": 7.78,
+            "text": " Okay, come on in. Just bet all of what? A minute? Walking through the garden?",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                808,
+                322,
+                294,
+                13,
+                1449,
+                778,
+                439,
+                295,
+                437,
+                30,
+                316,
+                3456,
+                30,
+                26964,
+                807,
+                264,
+                7431,
+                30,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42667168837327224,
+            "compression_ratio": 1.2461538461538462,
+            "no_speech_prob": 0.0895078256726265,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 3.84,
+                    "end": 4.28,
+                    "probability": 0.3095199465751648
+                },
+                {
+                    "word": " come",
+                    "start": 4.48,
+                    "end": 4.6,
+                    "probability": 0.9513875842094421
+                },
+                {
+                    "word": " on",
+                    "start": 4.6,
+                    "end": 4.76,
+                    "probability": 0.9908964037895203
+                },
+                {
+                    "word": " in.",
+                    "start": 4.76,
+                    "end": 4.94,
+                    "probability": 0.9929916858673096
+                },
+                {
+                    "word": " Just",
+                    "start": 5.18,
+                    "end": 5.28,
+                    "probability": 0.9661502242088318
+                },
+                {
+                    "word": " bet",
+                    "start": 5.28,
+                    "end": 5.5,
+                    "probability": 0.21377205848693848
+                },
+                {
+                    "word": " all",
+                    "start": 5.5,
+                    "end": 5.7,
+                    "probability": 0.9825344681739807
+                },
+                {
+                    "word": " of",
+                    "start": 5.7,
+                    "end": 5.88,
+                    "probability": 0.9790109395980835
+                },
+                {
+                    "word": " what?",
+                    "start": 5.88,
+                    "end": 6.04,
+                    "probability": 0.9710080027580261
+                },
+                {
+                    "word": " A",
+                    "start": 6.22,
+                    "end": 6.32,
+                    "probability": 0.9546581506729126
+                },
+                {
+                    "word": " minute?",
+                    "start": 6.32,
+                    "end": 6.64,
+                    "probability": 0.9898682832717896
+                },
+                {
+                    "word": " Walking",
+                    "start": 7.0,
+                    "end": 7.24,
+                    "probability": 0.9094246029853821
+                },
+                {
+                    "word": " through",
+                    "start": 7.24,
+                    "end": 7.44,
+                    "probability": 0.85671466588974
+                },
+                {
+                    "word": " the",
+                    "start": 7.44,
+                    "end": 7.54,
+                    "probability": 0.995574951171875
+                },
+                {
+                    "word": " garden?",
+                    "start": 7.54,
+                    "end": 7.78,
+                    "probability": 0.9837493896484375
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.08,
+            "end": 12.34,
+            "text": " And oh, wait a second. Ah, check this out. Fall color is here.",
+            "tokens": [
+                50764,
+                400,
+                1954,
+                11,
+                1699,
+                257,
+                1150,
+                13,
+                2438,
+                11,
+                1520,
+                341,
+                484,
+                13,
+                7465,
+                2017,
+                307,
+                510,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42667168837327224,
+            "compression_ratio": 1.2461538461538462,
+            "no_speech_prob": 0.0895078256726265,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 8.08,
+                    "end": 8.18,
+                    "probability": 0.12795357406139374
+                },
+                {
+                    "word": " oh,",
+                    "start": 8.18,
+                    "end": 8.84,
+                    "probability": 0.2663131654262543
+                },
+                {
+                    "word": " wait",
+                    "start": 9.06,
+                    "end": 9.22,
+                    "probability": 0.988799512386322
+                },
+                {
+                    "word": " a",
+                    "start": 9.22,
+                    "end": 9.34,
+                    "probability": 0.9985917210578918
+                },
+                {
+                    "word": " second.",
+                    "start": 9.34,
+                    "end": 9.64,
+                    "probability": 0.9895911812782288
+                },
+                {
+                    "word": " Ah,",
+                    "start": 9.92,
+                    "end": 10.0,
+                    "probability": 0.5683876276016235
+                },
+                {
+                    "word": " check",
+                    "start": 10.34,
+                    "end": 10.56,
+                    "probability": 0.9935235977172852
+                },
+                {
+                    "word": " this",
+                    "start": 10.56,
+                    "end": 10.8,
+                    "probability": 0.9994627833366394
+                },
+                {
+                    "word": " out.",
+                    "start": 10.8,
+                    "end": 11.02,
+                    "probability": 0.9989792704582214
+                },
+                {
+                    "word": " Fall",
+                    "start": 11.32,
+                    "end": 11.56,
+                    "probability": 0.9247270822525024
+                },
+                {
+                    "word": " color",
+                    "start": 11.56,
+                    "end": 11.94,
+                    "probability": 0.7942556142807007
+                },
+                {
+                    "word": " is",
+                    "start": 11.94,
+                    "end": 12.16,
+                    "probability": 0.9953082203865051
+                },
+                {
+                    "word": " here.",
+                    "start": 12.16,
+                    "end": 12.34,
+                    "probability": 0.9977161884307861
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.16,
+            "end": 14.98,
+            "text": " Again, why am I here?",
+            "tokens": [
+                51014,
+                3764,
+                11,
+                983,
+                669,
+                286,
+                510,
+                30,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42667168837327224,
+            "compression_ratio": 1.2461538461538462,
+            "no_speech_prob": 0.0895078256726265,
+            "words": [
+                {
+                    "word": " Again,",
+                    "start": 13.16,
+                    "end": 14.12,
+                    "probability": 0.9672626852989197
+                },
+                {
+                    "word": " why",
+                    "start": 14.58,
+                    "end": 14.88,
+                    "probability": 0.5577876567840576
+                },
+                {
+                    "word": " am",
+                    "start": 14.88,
+                    "end": 14.98,
+                    "probability": 0.9721678495407104
+                },
+                {
+                    "word": " I",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.9937129616737366
+                },
+                {
+                    "word": " here?",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.07911684364080429
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

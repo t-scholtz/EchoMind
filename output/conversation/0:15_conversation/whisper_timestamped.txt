@@ -1,0 +1,349 @@
+{
+    "text": " I hadn't seen for years. We talked for hours. All right, sounds like you had a good chinwag, a long and pleasant conversation between friends, which is great because in this program we're talking about talking. We'll be discussing conversation.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " I hadn't seen for years. We talked for hours.",
+            "tokens": [
+                50364,
+                286,
+                8782,
+                380,
+                1612,
+                337,
+                924,
+                13,
+                492,
+                2825,
+                337,
+                2496,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3009550450211864,
+            "compression_ratio": 1.4610778443113772,
+            "no_speech_prob": 0.11416606605052948,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.12267550826072693
+                },
+                {
+                    "word": " hadn't",
+                    "start": 0.36,
+                    "end": 0.7,
+                    "probability": 0.8627943694591522
+                },
+                {
+                    "word": " seen",
+                    "start": 0.7,
+                    "end": 0.86,
+                    "probability": 0.9820521473884583
+                },
+                {
+                    "word": " for",
+                    "start": 0.86,
+                    "end": 1.16,
+                    "probability": 0.9467237591743469
+                },
+                {
+                    "word": " years.",
+                    "start": 1.16,
+                    "end": 1.66,
+                    "probability": 0.9906606078147888
+                },
+                {
+                    "word": " We",
+                    "start": 2.24,
+                    "end": 2.32,
+                    "probability": 0.9662100076675415
+                },
+                {
+                    "word": " talked",
+                    "start": 2.32,
+                    "end": 2.58,
+                    "probability": 0.9710384607315063
+                },
+                {
+                    "word": " for",
+                    "start": 2.58,
+                    "end": 2.86,
+                    "probability": 0.9932500123977661
+                },
+                {
+                    "word": " hours.",
+                    "start": 2.86,
+                    "end": 3.32,
+                    "probability": 0.9900109171867371
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.62,
+            "end": 9.04,
+            "text": " All right, sounds like you had a good chinwag, a long and pleasant conversation between friends,",
+            "tokens": [
+                50544,
+                1057,
+                558,
+                11,
+                3263,
+                411,
+                291,
+                632,
+                257,
+                665,
+                14210,
+                86,
+                559,
+                11,
+                257,
+                938,
+                293,
+                16232,
+                3761,
+                1296,
+                1855,
+                11,
+                50824
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3009550450211864,
+            "compression_ratio": 1.4610778443113772,
+            "no_speech_prob": 0.11416606605052948,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 3.62,
+                    "end": 3.66,
+                    "probability": 0.23564080893993378
+                },
+                {
+                    "word": " right,",
+                    "start": 3.66,
+                    "end": 3.82,
+                    "probability": 0.9970026612281799
+                },
+                {
+                    "word": " sounds",
+                    "start": 4.0,
+                    "end": 4.18,
+                    "probability": 0.5912230610847473
+                },
+                {
+                    "word": " like",
+                    "start": 4.18,
+                    "end": 4.44,
+                    "probability": 0.9986931681632996
+                },
+                {
+                    "word": " you",
+                    "start": 4.44,
+                    "end": 4.64,
+                    "probability": 0.9963170289993286
+                },
+                {
+                    "word": " had",
+                    "start": 4.64,
+                    "end": 4.8,
+                    "probability": 0.9784719347953796
+                },
+                {
+                    "word": " a",
+                    "start": 4.8,
+                    "end": 4.92,
+                    "probability": 0.9945981502532959
+                },
+                {
+                    "word": " good",
+                    "start": 4.92,
+                    "end": 5.06,
+                    "probability": 0.9934485554695129
+                },
+                {
+                    "word": " chinwag,",
+                    "start": 5.06,
+                    "end": 5.88,
+                    "probability": 0.9190498987833658
+                },
+                {
+                    "word": " a",
+                    "start": 6.34,
+                    "end": 6.4,
+                    "probability": 0.9777007699012756
+                },
+                {
+                    "word": " long",
+                    "start": 6.4,
+                    "end": 6.72,
+                    "probability": 0.9958030581474304
+                },
+                {
+                    "word": " and",
+                    "start": 6.72,
+                    "end": 7.0,
+                    "probability": 0.9761127829551697
+                },
+                {
+                    "word": " pleasant",
+                    "start": 7.0,
+                    "end": 7.38,
+                    "probability": 0.9961190223693848
+                },
+                {
+                    "word": " conversation",
+                    "start": 7.38,
+                    "end": 7.96,
+                    "probability": 0.9978038668632507
+                },
+                {
+                    "word": " between",
+                    "start": 7.96,
+                    "end": 8.46,
+                    "probability": 0.9914268255233765
+                },
+                {
+                    "word": " friends,",
+                    "start": 8.46,
+                    "end": 9.04,
+                    "probability": 0.9822114109992981
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.36,
+            "end": 14.92,
+            "text": " which is great because in this program we're talking about talking. We'll be discussing conversation.",
+            "tokens": [
+                50824,
+                597,
+                307,
+                869,
+                570,
+                294,
+                341,
+                1461,
+                321,
+                434,
+                1417,
+                466,
+                1417,
+                13,
+                492,
+                603,
+                312,
+                10850,
+                3761,
+                13,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3009550450211864,
+            "compression_ratio": 1.4610778443113772,
+            "no_speech_prob": 0.11416606605052948,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 9.36,
+                    "end": 9.5,
+                    "probability": 0.9951363205909729
+                },
+                {
+                    "word": " is",
+                    "start": 9.5,
+                    "end": 9.62,
+                    "probability": 0.9982712268829346
+                },
+                {
+                    "word": " great",
+                    "start": 9.62,
+                    "end": 9.9,
+                    "probability": 0.999016284942627
+                },
+                {
+                    "word": " because",
+                    "start": 9.9,
+                    "end": 10.28,
+                    "probability": 0.6916801333427429
+                },
+                {
+                    "word": " in",
+                    "start": 10.28,
+                    "end": 10.52,
+                    "probability": 0.9620063900947571
+                },
+                {
+                    "word": " this",
+                    "start": 10.52,
+                    "end": 10.66,
+                    "probability": 0.9988528490066528
+                },
+                {
+                    "word": " program",
+                    "start": 10.66,
+                    "end": 11.12,
+                    "probability": 0.7150959372520447
+                },
+                {
+                    "word": " we're",
+                    "start": 11.12,
+                    "end": 11.58,
+                    "probability": 0.7913706004619598
+                },
+                {
+                    "word": " talking",
+                    "start": 11.58,
+                    "end": 11.88,
+                    "probability": 0.996316134929657
+                },
+                {
+                    "word": " about",
+                    "start": 11.88,
+                    "end": 12.38,
+                    "probability": 0.9866118431091309
+                },
+                {
+                    "word": " talking.",
+                    "start": 12.38,
+                    "end": 13.06,
+                    "probability": 0.774745762348175
+                },
+                {
+                    "word": " We'll",
+                    "start": 13.54,
+                    "end": 13.88,
+                    "probability": 0.9907138347625732
+                },
+                {
+                    "word": " be",
+                    "start": 13.88,
+                    "end": 13.98,
+                    "probability": 0.9959201812744141
+                },
+                {
+                    "word": " discussing",
+                    "start": 13.98,
+                    "end": 14.52,
+                    "probability": 0.998376727104187
+                },
+                {
+                    "word": " conversation.",
+                    "start": 14.52,
+                    "end": 14.92,
+                    "probability": 0.5592027902603149
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

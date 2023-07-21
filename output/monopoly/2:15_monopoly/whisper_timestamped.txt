@@ -1,0 +1,401 @@
+{
+    "text": " other loved. I blame marketing. Monopoly is advertised as family fun, setting the wrong expectations. Papers please knows what it is. Alright, when you get frustrated playing Monopoly, you're looking at the box thinking, you lied, this isn't fun. Monopoly lets you",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.22,
+            "text": " other loved. I blame marketing. Monopoly is advertised as family fun, setting the wrong",
+            "tokens": [
+                50364,
+                661,
+                4333,
+                13,
+                286,
+                10127,
+                6370,
+                13,
+                4713,
+                27891,
+                307,
+                42310,
+                382,
+                1605,
+                1019,
+                11,
+                3287,
+                264,
+                2085,
+                50626
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34588985166687897,
+            "compression_ratio": 1.4585635359116023,
+            "no_speech_prob": 0.024936353787779808,
+            "words": [
+                {
+                    "word": " other",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.5060096979141235
+                },
+                {
+                    "word": " loved.",
+                    "start": 0.18,
+                    "end": 0.66,
+                    "probability": 0.47164133191108704
+                },
+                {
+                    "word": " I",
+                    "start": 0.94,
+                    "end": 1.04,
+                    "probability": 0.6926187872886658
+                },
+                {
+                    "word": " blame",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.9388719797134399
+                },
+                {
+                    "word": " marketing.",
+                    "start": 1.26,
+                    "end": 1.92,
+                    "probability": 0.6960397958755493
+                },
+                {
+                    "word": " Monopoly",
+                    "start": 2.42,
+                    "end": 2.74,
+                    "probability": 0.8369157612323761
+                },
+                {
+                    "word": " is",
+                    "start": 2.74,
+                    "end": 2.94,
+                    "probability": 0.9949514865875244
+                },
+                {
+                    "word": " advertised",
+                    "start": 2.94,
+                    "end": 3.38,
+                    "probability": 0.9841462969779968
+                },
+                {
+                    "word": " as",
+                    "start": 3.38,
+                    "end": 3.68,
+                    "probability": 0.9969354867935181
+                },
+                {
+                    "word": " family",
+                    "start": 3.68,
+                    "end": 4.08,
+                    "probability": 0.4118489921092987
+                },
+                {
+                    "word": " fun,",
+                    "start": 4.08,
+                    "end": 4.42,
+                    "probability": 0.9001071453094482
+                },
+                {
+                    "word": " setting",
+                    "start": 4.66,
+                    "end": 4.82,
+                    "probability": 0.9891623258590698
+                },
+                {
+                    "word": " the",
+                    "start": 4.82,
+                    "end": 5.0,
+                    "probability": 0.9918311238288879
+                },
+                {
+                    "word": " wrong",
+                    "start": 5.0,
+                    "end": 5.22,
+                    "probability": 0.9946879148483276
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.22,
+            "end": 7.84,
+            "text": " expectations. Papers please knows what it is.",
+            "tokens": [
+                50626,
+                9843,
+                13,
+                430,
+                14441,
+                1767,
+                3255,
+                437,
+                309,
+                307,
+                13,
+                50766
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34588985166687897,
+            "compression_ratio": 1.4585635359116023,
+            "no_speech_prob": 0.024936353787779808,
+            "words": [
+                {
+                    "word": " expectations.",
+                    "start": 5.22,
+                    "end": 5.86,
+                    "probability": 0.9949042797088623
+                },
+                {
+                    "word": " Papers",
+                    "start": 6.44,
+                    "end": 6.64,
+                    "probability": 0.7099795937538147
+                },
+                {
+                    "word": " please",
+                    "start": 6.64,
+                    "end": 6.88,
+                    "probability": 0.8432979583740234
+                },
+                {
+                    "word": " knows",
+                    "start": 6.88,
+                    "end": 7.2,
+                    "probability": 0.46469491720199585
+                },
+                {
+                    "word": " what",
+                    "start": 7.2,
+                    "end": 7.46,
+                    "probability": 0.9927172660827637
+                },
+                {
+                    "word": " it",
+                    "start": 7.46,
+                    "end": 7.62,
+                    "probability": 0.9811210036277771
+                },
+                {
+                    "word": " is.",
+                    "start": 7.62,
+                    "end": 7.84,
+                    "probability": 0.9919330477714539
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.32,
+            "end": 11.7,
+            "text": " Alright, when you get frustrated playing Monopoly, you're looking at the box thinking,",
+            "tokens": [
+                50766,
+                2798,
+                11,
+                562,
+                291,
+                483,
+                15751,
+                2433,
+                4713,
+                27891,
+                11,
+                291,
+                434,
+                1237,
+                412,
+                264,
+                2424,
+                1953,
+                11,
+                50960
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34588985166687897,
+            "compression_ratio": 1.4585635359116023,
+            "no_speech_prob": 0.024936353787779808,
+            "words": [
+                {
+                    "word": " Alright,",
+                    "start": 8.32,
+                    "end": 8.44,
+                    "probability": 0.2755436301231384
+                },
+                {
+                    "word": " when",
+                    "start": 8.74,
+                    "end": 8.88,
+                    "probability": 0.9598281383514404
+                },
+                {
+                    "word": " you",
+                    "start": 8.88,
+                    "end": 8.98,
+                    "probability": 0.9948928356170654
+                },
+                {
+                    "word": " get",
+                    "start": 8.98,
+                    "end": 9.12,
+                    "probability": 0.9968039989471436
+                },
+                {
+                    "word": " frustrated",
+                    "start": 9.12,
+                    "end": 9.54,
+                    "probability": 0.9970585107803345
+                },
+                {
+                    "word": " playing",
+                    "start": 9.54,
+                    "end": 9.9,
+                    "probability": 0.9642444849014282
+                },
+                {
+                    "word": " Monopoly,",
+                    "start": 9.9,
+                    "end": 10.4,
+                    "probability": 0.9745575189590454
+                },
+                {
+                    "word": " you're",
+                    "start": 10.68,
+                    "end": 10.74,
+                    "probability": 0.9601434767246246
+                },
+                {
+                    "word": " looking",
+                    "start": 10.74,
+                    "end": 10.92,
+                    "probability": 0.9605637192726135
+                },
+                {
+                    "word": " at",
+                    "start": 10.92,
+                    "end": 11.1,
+                    "probability": 0.9976634979248047
+                },
+                {
+                    "word": " the",
+                    "start": 11.1,
+                    "end": 11.18,
+                    "probability": 0.9819768667221069
+                },
+                {
+                    "word": " box",
+                    "start": 11.18,
+                    "end": 11.38,
+                    "probability": 0.9908532500267029
+                },
+                {
+                    "word": " thinking,",
+                    "start": 11.38,
+                    "end": 11.7,
+                    "probability": 0.7222274541854858
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.02,
+            "end": 13.34,
+            "text": " you lied, this isn't fun.",
+            "tokens": [
+                50960,
+                291,
+                20101,
+                11,
+                341,
+                1943,
+                380,
+                1019,
+                13,
+                51069
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34588985166687897,
+            "compression_ratio": 1.4585635359116023,
+            "no_speech_prob": 0.024936353787779808,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 12.02,
+                    "end": 12.12,
+                    "probability": 0.27019834518432617
+                },
+                {
+                    "word": " lied,",
+                    "start": 12.12,
+                    "end": 12.44,
+                    "probability": 0.9266709089279175
+                },
+                {
+                    "word": " this",
+                    "start": 12.68,
+                    "end": 12.8,
+                    "probability": 0.9868122935295105
+                },
+                {
+                    "word": " isn't",
+                    "start": 12.8,
+                    "end": 13.1,
+                    "probability": 0.994636744260788
+                },
+                {
+                    "word": " fun.",
+                    "start": 13.1,
+                    "end": 13.34,
+                    "probability": 0.9985650181770325
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.14,
+            "end": 14.98,
+            "text": " Monopoly lets you",
+            "tokens": [
+                51069,
+                4713,
+                27891,
+                6653,
+                291,
+                51116
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34588985166687897,
+            "compression_ratio": 1.4585635359116023,
+            "no_speech_prob": 0.024936353787779808,
+            "words": [
+                {
+                    "word": " Monopoly",
+                    "start": 14.14,
+                    "end": 14.64,
+                    "probability": 0.9830714166164398
+                },
+                {
+                    "word": " lets",
+                    "start": 14.64,
+                    "end": 14.84,
+                    "probability": 0.9136394262313843
+                },
+                {
+                    "word": " you",
+                    "start": 14.84,
+                    "end": 14.98,
+                    "probability": 0.9963663816452026
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

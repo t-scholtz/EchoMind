@@ -1,0 +1,170 @@
+{
+    "text": " us to spend an unreasonable amount of time working on animated explainers for the internet. It's an honor.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.68,
+            "text": " us to spend an unreasonable amount of time working on animated explainers for the internet.",
+            "tokens": [
+                50364,
+                505,
+                281,
+                3496,
+                364,
+                41730,
+                2372,
+                295,
+                565,
+                1364,
+                322,
+                18947,
+                2903,
+                433,
+                337,
+                264,
+                4705,
+                13,
+                50686
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2827106405187536,
+            "compression_ratio": 1.164835164835165,
+            "no_speech_prob": 0.0031362255103886127,
+            "words": [
+                {
+                    "word": " us",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.8973854184150696
+                },
+                {
+                    "word": " to",
+                    "start": 0.18,
+                    "end": 0.3,
+                    "probability": 0.9719846844673157
+                },
+                {
+                    "word": " spend",
+                    "start": 0.3,
+                    "end": 0.6,
+                    "probability": 0.9959767460823059
+                },
+                {
+                    "word": " an",
+                    "start": 0.6,
+                    "end": 0.86,
+                    "probability": 0.9909622073173523
+                },
+                {
+                    "word": " unreasonable",
+                    "start": 0.86,
+                    "end": 1.7,
+                    "probability": 0.8699650168418884
+                },
+                {
+                    "word": " amount",
+                    "start": 1.7,
+                    "end": 2.28,
+                    "probability": 0.9976760745048523
+                },
+                {
+                    "word": " of",
+                    "start": 2.28,
+                    "end": 2.54,
+                    "probability": 0.9966981410980225
+                },
+                {
+                    "word": " time",
+                    "start": 2.54,
+                    "end": 2.86,
+                    "probability": 0.9976449608802795
+                },
+                {
+                    "word": " working",
+                    "start": 2.86,
+                    "end": 3.3,
+                    "probability": 0.992989182472229
+                },
+                {
+                    "word": " on",
+                    "start": 3.3,
+                    "end": 3.54,
+                    "probability": 0.9990965127944946
+                },
+                {
+                    "word": " animated",
+                    "start": 3.54,
+                    "end": 4.08,
+                    "probability": 0.9955981373786926
+                },
+                {
+                    "word": " explainers",
+                    "start": 4.08,
+                    "end": 4.8,
+                    "probability": 0.9369263052940369
+                },
+                {
+                    "word": " for",
+                    "start": 4.8,
+                    "end": 5.18,
+                    "probability": 0.9841511249542236
+                },
+                {
+                    "word": " the",
+                    "start": 5.18,
+                    "end": 5.34,
+                    "probability": 0.9926704168319702
+                },
+                {
+                    "word": " internet.",
+                    "start": 5.34,
+                    "end": 5.68,
+                    "probability": 0.4800606966018677
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.1,
+            "end": 6.82,
+            "text": " It's an honor.",
+            "tokens": [
+                50686,
+                467,
+                311,
+                364,
+                5968,
+                13,
+                50711
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2827106405187536,
+            "compression_ratio": 1.164835164835165,
+            "no_speech_prob": 0.0031362255103886127,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 6.1,
+                    "end": 6.5,
+                    "probability": 0.9832983911037445
+                },
+                {
+                    "word": " an",
+                    "start": 6.5,
+                    "end": 6.58,
+                    "probability": 0.7539925575256348
+                },
+                {
+                    "word": " honor.",
+                    "start": 6.58,
+                    "end": 6.82,
+                    "probability": 0.957435131072998
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

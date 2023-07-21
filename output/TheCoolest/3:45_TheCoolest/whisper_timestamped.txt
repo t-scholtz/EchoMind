@@ -1,0 +1,409 @@
+{
+    "text": " center up lifts for up unlike in the north there's actual land under the ice and it casts a shadow to create the symbol of a compass pointing south which as a bonus makes this design mirror the northern most flag on the northern most continent just with flipped color placement for flipped pole placement",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 14.98,
+            "text": " center up lifts for up unlike in the north there's actual land under the ice and it casts a shadow to create the symbol of a compass pointing south which as a bonus makes this design mirror the northern most flag on the northern most continent just with flipped color placement for flipped pole placement",
+            "tokens": [
+                50364,
+                3056,
+                493,
+                30501,
+                337,
+                493,
+                8343,
+                294,
+                264,
+                6830,
+                456,
+                311,
+                3539,
+                2117,
+                833,
+                264,
+                4435,
+                293,
+                309,
+                41921,
+                257,
+                8576,
+                281,
+                1884,
+                264,
+                5986,
+                295,
+                257,
+                10707,
+                12166,
+                7377,
+                597,
+                382,
+                257,
+                10882,
+                1669,
+                341,
+                1715,
+                8013,
+                264,
+                14197,
+                881,
+                7166,
+                322,
+                264,
+                14197,
+                881,
+                18932,
+                445,
+                365,
+                26273,
+                2017,
+                17257,
+                337,
+                26273,
+                13208,
+                17257,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24492771342649297,
+            "compression_ratio": 1.6888888888888889,
+            "no_speech_prob": 0.07035698741674423,
+            "words": [
+                {
+                    "word": " center",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.40936756134033203
+                },
+                {
+                    "word": " up",
+                    "start": 0.26,
+                    "end": 0.48,
+                    "probability": 0.8532334566116333
+                },
+                {
+                    "word": " lifts",
+                    "start": 0.48,
+                    "end": 0.7,
+                    "probability": 0.5846567153930664
+                },
+                {
+                    "word": " for",
+                    "start": 0.7,
+                    "end": 1.02,
+                    "probability": 0.8019760847091675
+                },
+                {
+                    "word": " up",
+                    "start": 1.02,
+                    "end": 1.18,
+                    "probability": 0.2790684700012207
+                },
+                {
+                    "word": " unlike",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.6487954258918762
+                },
+                {
+                    "word": " in",
+                    "start": 1.38,
+                    "end": 1.54,
+                    "probability": 0.9695538282394409
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.62,
+                    "probability": 0.9973834156990051
+                },
+                {
+                    "word": " north",
+                    "start": 1.62,
+                    "end": 1.8,
+                    "probability": 0.7754954099655151
+                },
+                {
+                    "word": " there's",
+                    "start": 1.8,
+                    "end": 2.12,
+                    "probability": 0.8193961381912231
+                },
+                {
+                    "word": " actual",
+                    "start": 2.12,
+                    "end": 2.48,
+                    "probability": 0.9421230554580688
+                },
+                {
+                    "word": " land",
+                    "start": 2.48,
+                    "end": 2.84,
+                    "probability": 0.9944232106208801
+                },
+                {
+                    "word": " under",
+                    "start": 2.84,
+                    "end": 3.16,
+                    "probability": 0.9660029411315918
+                },
+                {
+                    "word": " the",
+                    "start": 3.16,
+                    "end": 3.34,
+                    "probability": 0.9969436526298523
+                },
+                {
+                    "word": " ice",
+                    "start": 3.34,
+                    "end": 3.56,
+                    "probability": 0.9935465455055237
+                },
+                {
+                    "word": " and",
+                    "start": 3.56,
+                    "end": 3.94,
+                    "probability": 0.7893314361572266
+                },
+                {
+                    "word": " it",
+                    "start": 3.94,
+                    "end": 4.12,
+                    "probability": 0.9824088215827942
+                },
+                {
+                    "word": " casts",
+                    "start": 4.12,
+                    "end": 4.42,
+                    "probability": 0.9866639375686646
+                },
+                {
+                    "word": " a",
+                    "start": 4.42,
+                    "end": 4.64,
+                    "probability": 0.9103550910949707
+                },
+                {
+                    "word": " shadow",
+                    "start": 4.64,
+                    "end": 4.9,
+                    "probability": 0.9960883855819702
+                },
+                {
+                    "word": " to",
+                    "start": 4.9,
+                    "end": 5.08,
+                    "probability": 0.9969825148582458
+                },
+                {
+                    "word": " create",
+                    "start": 5.08,
+                    "end": 5.42,
+                    "probability": 0.9987862706184387
+                },
+                {
+                    "word": " the",
+                    "start": 5.42,
+                    "end": 5.72,
+                    "probability": 0.963759183883667
+                },
+                {
+                    "word": " symbol",
+                    "start": 5.72,
+                    "end": 6.1,
+                    "probability": 0.9926612377166748
+                },
+                {
+                    "word": " of",
+                    "start": 6.1,
+                    "end": 6.32,
+                    "probability": 0.9963064193725586
+                },
+                {
+                    "word": " a",
+                    "start": 6.32,
+                    "end": 6.44,
+                    "probability": 0.9769813418388367
+                },
+                {
+                    "word": " compass",
+                    "start": 6.44,
+                    "end": 6.86,
+                    "probability": 0.9851086735725403
+                },
+                {
+                    "word": " pointing",
+                    "start": 6.86,
+                    "end": 7.32,
+                    "probability": 0.9809834361076355
+                },
+                {
+                    "word": " south",
+                    "start": 7.32,
+                    "end": 7.86,
+                    "probability": 0.9675778746604919
+                },
+                {
+                    "word": " which",
+                    "start": 7.86,
+                    "end": 8.18,
+                    "probability": 0.6042044758796692
+                },
+                {
+                    "word": " as",
+                    "start": 8.18,
+                    "end": 8.44,
+                    "probability": 0.9374357461929321
+                },
+                {
+                    "word": " a",
+                    "start": 8.44,
+                    "end": 8.52,
+                    "probability": 0.9954883456230164
+                },
+                {
+                    "word": " bonus",
+                    "start": 8.52,
+                    "end": 8.8,
+                    "probability": 0.9955183267593384
+                },
+                {
+                    "word": " makes",
+                    "start": 8.8,
+                    "end": 9.14,
+                    "probability": 0.9690386652946472
+                },
+                {
+                    "word": " this",
+                    "start": 9.14,
+                    "end": 9.4,
+                    "probability": 0.9895220398902893
+                },
+                {
+                    "word": " design",
+                    "start": 9.4,
+                    "end": 9.76,
+                    "probability": 0.9943180680274963
+                },
+                {
+                    "word": " mirror",
+                    "start": 9.76,
+                    "end": 10.08,
+                    "probability": 0.9665806889533997
+                },
+                {
+                    "word": " the",
+                    "start": 10.08,
+                    "end": 10.32,
+                    "probability": 0.9916371703147888
+                },
+                {
+                    "word": " northern",
+                    "start": 10.32,
+                    "end": 10.62,
+                    "probability": 0.9324418902397156
+                },
+                {
+                    "word": " most",
+                    "start": 10.62,
+                    "end": 10.92,
+                    "probability": 0.5418751835823059
+                },
+                {
+                    "word": " flag",
+                    "start": 10.92,
+                    "end": 11.2,
+                    "probability": 0.9834216237068176
+                },
+                {
+                    "word": " on",
+                    "start": 11.2,
+                    "end": 11.4,
+                    "probability": 0.9891176819801331
+                },
+                {
+                    "word": " the",
+                    "start": 11.4,
+                    "end": 11.5,
+                    "probability": 0.9983522891998291
+                },
+                {
+                    "word": " northern",
+                    "start": 11.5,
+                    "end": 11.76,
+                    "probability": 0.9729719161987305
+                },
+                {
+                    "word": " most",
+                    "start": 11.76,
+                    "end": 12.06,
+                    "probability": 0.7413452863693237
+                },
+                {
+                    "word": " continent",
+                    "start": 12.06,
+                    "end": 12.42,
+                    "probability": 0.993730902671814
+                },
+                {
+                    "word": " just",
+                    "start": 12.42,
+                    "end": 12.66,
+                    "probability": 0.9559844732284546
+                },
+                {
+                    "word": " with",
+                    "start": 12.66,
+                    "end": 12.86,
+                    "probability": 0.9971262812614441
+                },
+                {
+                    "word": " flipped",
+                    "start": 12.86,
+                    "end": 13.18,
+                    "probability": 0.9685235619544983
+                },
+                {
+                    "word": " color",
+                    "start": 13.18,
+                    "end": 13.5,
+                    "probability": 0.8845622539520264
+                },
+                {
+                    "word": " placement",
+                    "start": 13.5,
+                    "end": 13.9,
+                    "probability": 0.996864378452301
+                },
+                {
+                    "word": " for",
+                    "start": 13.9,
+                    "end": 14.16,
+                    "probability": 0.8995075821876526
+                },
+                {
+                    "word": " flipped",
+                    "start": 14.16,
+                    "end": 14.5,
+                    "probability": 0.9849107265472412
+                },
+                {
+                    "word": " pole",
+                    "start": 14.5,
+                    "end": 14.78,
+                    "probability": 0.6655758619308472
+                },
+                {
+                    "word": " placement",
+                    "start": 14.78,
+                    "end": 14.98,
+                    "probability": 0.7943484783172607
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,277 @@
+{
+    "text": " over each other. Good conversation brings people together, unlike Tittletattl. Talk about other people's lives that is usually unkind, disapproving, or untrue. And good conversation involves taking turns, not.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.14,
+            "text": " over each other. Good conversation brings people together, unlike",
+            "tokens": [
+                50364,
+                670,
+                1184,
+                661,
+                13,
+                2205,
+                3761,
+                5607,
+                561,
+                1214,
+                11,
+                8343,
+                50576
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38433229698325105,
+            "compression_ratio": 1.4217687074829932,
+            "no_speech_prob": 0.0958847850561142,
+            "words": [
+                {
+                    "word": " over",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.14102593064308167
+                },
+                {
+                    "word": " each",
+                    "start": 0.32,
+                    "end": 0.64,
+                    "probability": 0.9853366017341614
+                },
+                {
+                    "word": " other.",
+                    "start": 0.64,
+                    "end": 0.98,
+                    "probability": 0.9950299263000488
+                },
+                {
+                    "word": " Good",
+                    "start": 1.4,
+                    "end": 1.48,
+                    "probability": 0.7959184050559998
+                },
+                {
+                    "word": " conversation",
+                    "start": 1.48,
+                    "end": 2.04,
+                    "probability": 0.9478445053100586
+                },
+                {
+                    "word": " brings",
+                    "start": 2.04,
+                    "end": 2.52,
+                    "probability": 0.9963066577911377
+                },
+                {
+                    "word": " people",
+                    "start": 2.52,
+                    "end": 2.96,
+                    "probability": 0.9986072182655334
+                },
+                {
+                    "word": " together,",
+                    "start": 2.96,
+                    "end": 3.52,
+                    "probability": 0.997819185256958
+                },
+                {
+                    "word": " unlike",
+                    "start": 3.8,
+                    "end": 4.14,
+                    "probability": 0.9967909455299377
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.14,
+            "end": 11.14,
+            "text": " Tittletattl. Talk about other people's lives that is usually unkind, disapproving, or untrue.",
+            "tokens": [
+                50576,
+                314,
+                593,
+                2631,
+                1591,
+                75,
+                13,
+                8780,
+                466,
+                661,
+                561,
+                311,
+                2909,
+                300,
+                307,
+                2673,
+                517,
+                14445,
+                11,
+                4518,
+                340,
+                798,
+                11,
+                420,
+                1701,
+                41729,
+                13,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38433229698325105,
+            "compression_ratio": 1.4217687074829932,
+            "no_speech_prob": 0.0958847850561142,
+            "words": [
+                {
+                    "word": " Tittletattl.",
+                    "start": 4.14,
+                    "end": 5.24,
+                    "probability": 0.39110749810934065
+                },
+                {
+                    "word": " Talk",
+                    "start": 5.58,
+                    "end": 5.84,
+                    "probability": 0.9809133410453796
+                },
+                {
+                    "word": " about",
+                    "start": 5.84,
+                    "end": 6.32,
+                    "probability": 0.9958299994468689
+                },
+                {
+                    "word": " other",
+                    "start": 6.32,
+                    "end": 6.66,
+                    "probability": 0.9729257822036743
+                },
+                {
+                    "word": " people's",
+                    "start": 6.66,
+                    "end": 7.14,
+                    "probability": 0.9773649871349335
+                },
+                {
+                    "word": " lives",
+                    "start": 7.14,
+                    "end": 7.52,
+                    "probability": 0.9980411529541016
+                },
+                {
+                    "word": " that",
+                    "start": 7.52,
+                    "end": 7.92,
+                    "probability": 0.96683269739151
+                },
+                {
+                    "word": " is",
+                    "start": 7.92,
+                    "end": 8.1,
+                    "probability": 0.839006781578064
+                },
+                {
+                    "word": " usually",
+                    "start": 8.1,
+                    "end": 8.44,
+                    "probability": 0.9861915111541748
+                },
+                {
+                    "word": " unkind,",
+                    "start": 8.44,
+                    "end": 9.14,
+                    "probability": 0.9627893269062042
+                },
+                {
+                    "word": " disapproving,",
+                    "start": 9.48,
+                    "end": 10.12,
+                    "probability": 0.9894135991732279
+                },
+                {
+                    "word": " or",
+                    "start": 10.36,
+                    "end": 10.46,
+                    "probability": 0.9968814849853516
+                },
+                {
+                    "word": " untrue.",
+                    "start": 10.46,
+                    "end": 11.14,
+                    "probability": 0.9971388578414917
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.32,
+            "end": 14.8,
+            "text": " And good conversation involves taking turns, not.",
+            "tokens": [
+                50914,
+                400,
+                665,
+                3761,
+                11626,
+                1940,
+                4523,
+                11,
+                406,
+                13,
+                51104
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38433229698325105,
+            "compression_ratio": 1.4217687074829932,
+            "no_speech_prob": 0.0958847850561142,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 11.32,
+                    "end": 11.48,
+                    "probability": 0.8761020302772522
+                },
+                {
+                    "word": " good",
+                    "start": 11.48,
+                    "end": 11.68,
+                    "probability": 0.8819741010665894
+                },
+                {
+                    "word": " conversation",
+                    "start": 11.68,
+                    "end": 12.44,
+                    "probability": 0.9952633380889893
+                },
+                {
+                    "word": " involves",
+                    "start": 12.44,
+                    "end": 12.94,
+                    "probability": 0.9882744550704956
+                },
+                {
+                    "word": " taking",
+                    "start": 12.94,
+                    "end": 13.44,
+                    "probability": 0.9984513521194458
+                },
+                {
+                    "word": " turns,",
+                    "start": 13.44,
+                    "end": 14.26,
+                    "probability": 0.9981300234794617
+                },
+                {
+                    "word": " not.",
+                    "start": 14.54,
+                    "end": 14.8,
+                    "probability": 0.9905297160148621
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

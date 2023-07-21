@@ -1,0 +1,273 @@
+{
+    "text": " Anyone watching this video there when you see your flag fly high to know that others know how awesome it is and have that brightened a day out of six months of dark.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.2,
+            "text": " Anyone watching this video there when you see your flag fly high to know that others know",
+            "tokens": [
+                50364,
+                14643,
+                1976,
+                341,
+                960,
+                456,
+                562,
+                291,
+                536,
+                428,
+                7166,
+                3603,
+                1090,
+                281,
+                458,
+                300,
+                2357,
+                458,
+                50632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22499403953552247,
+            "compression_ratio": 1.3983050847457628,
+            "no_speech_prob": 0.011162607930600643,
+            "words": [
+                {
+                    "word": " Anyone",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6801052093505859
+                },
+                {
+                    "word": " watching",
+                    "start": 0.2,
+                    "end": 0.62,
+                    "probability": 0.995644211769104
+                },
+                {
+                    "word": " this",
+                    "start": 0.62,
+                    "end": 0.82,
+                    "probability": 0.9907588958740234
+                },
+                {
+                    "word": " video",
+                    "start": 0.82,
+                    "end": 1.18,
+                    "probability": 0.9963724613189697
+                },
+                {
+                    "word": " there",
+                    "start": 1.18,
+                    "end": 1.52,
+                    "probability": 0.9307255744934082
+                },
+                {
+                    "word": " when",
+                    "start": 1.52,
+                    "end": 1.78,
+                    "probability": 0.6434710025787354
+                },
+                {
+                    "word": " you",
+                    "start": 1.78,
+                    "end": 1.96,
+                    "probability": 0.9968949556350708
+                },
+                {
+                    "word": " see",
+                    "start": 1.96,
+                    "end": 2.2,
+                    "probability": 0.992148756980896
+                },
+                {
+                    "word": " your",
+                    "start": 2.2,
+                    "end": 2.42,
+                    "probability": 0.9787827730178833
+                },
+                {
+                    "word": " flag",
+                    "start": 2.42,
+                    "end": 2.74,
+                    "probability": 0.9673993587493896
+                },
+                {
+                    "word": " fly",
+                    "start": 2.74,
+                    "end": 3.1,
+                    "probability": 0.9937034249305725
+                },
+                {
+                    "word": " high",
+                    "start": 3.1,
+                    "end": 3.54,
+                    "probability": 0.9983250498771667
+                },
+                {
+                    "word": " to",
+                    "start": 3.54,
+                    "end": 3.84,
+                    "probability": 0.5944995284080505
+                },
+                {
+                    "word": " know",
+                    "start": 3.84,
+                    "end": 4.08,
+                    "probability": 0.987835705280304
+                },
+                {
+                    "word": " that",
+                    "start": 4.08,
+                    "end": 4.52,
+                    "probability": 0.9539818167686462
+                },
+                {
+                    "word": " others",
+                    "start": 4.52,
+                    "end": 4.88,
+                    "probability": 0.9845837354660034
+                },
+                {
+                    "word": " know",
+                    "start": 4.88,
+                    "end": 5.2,
+                    "probability": 0.9953345656394958
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.2,
+            "end": 9.18,
+            "text": " how awesome it is and have that brightened a day out of six months of dark.",
+            "tokens": [
+                50632,
+                577,
+                3476,
+                309,
+                307,
+                293,
+                362,
+                300,
+                4730,
+                5320,
+                257,
+                786,
+                484,
+                295,
+                2309,
+                2493,
+                295,
+                2877,
+                13,
+                50828
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22499403953552247,
+            "compression_ratio": 1.3983050847457628,
+            "no_speech_prob": 0.011162607930600643,
+            "words": [
+                {
+                    "word": " how",
+                    "start": 5.2,
+                    "end": 5.48,
+                    "probability": 0.996051013469696
+                },
+                {
+                    "word": " awesome",
+                    "start": 5.48,
+                    "end": 5.9,
+                    "probability": 0.9943956136703491
+                },
+                {
+                    "word": " it",
+                    "start": 5.9,
+                    "end": 6.14,
+                    "probability": 0.9958659410476685
+                },
+                {
+                    "word": " is",
+                    "start": 6.14,
+                    "end": 6.5,
+                    "probability": 0.9956961870193481
+                },
+                {
+                    "word": " and",
+                    "start": 6.5,
+                    "end": 6.66,
+                    "probability": 0.9001127481460571
+                },
+                {
+                    "word": " have",
+                    "start": 6.66,
+                    "end": 6.84,
+                    "probability": 0.9910646677017212
+                },
+                {
+                    "word": " that",
+                    "start": 6.84,
+                    "end": 7.08,
+                    "probability": 0.9622976183891296
+                },
+                {
+                    "word": " brightened",
+                    "start": 7.08,
+                    "end": 7.54,
+                    "probability": 0.5154435187578201
+                },
+                {
+                    "word": " a",
+                    "start": 7.54,
+                    "end": 7.66,
+                    "probability": 0.7580666542053223
+                },
+                {
+                    "word": " day",
+                    "start": 7.66,
+                    "end": 7.92,
+                    "probability": 0.9987310767173767
+                },
+                {
+                    "word": " out",
+                    "start": 7.92,
+                    "end": 8.16,
+                    "probability": 0.9726348519325256
+                },
+                {
+                    "word": " of",
+                    "start": 8.16,
+                    "end": 8.28,
+                    "probability": 0.9948655962944031
+                },
+                {
+                    "word": " six",
+                    "start": 8.28,
+                    "end": 8.54,
+                    "probability": 0.652906596660614
+                },
+                {
+                    "word": " months",
+                    "start": 8.54,
+                    "end": 8.72,
+                    "probability": 0.9961020946502686
+                },
+                {
+                    "word": " of",
+                    "start": 8.72,
+                    "end": 8.92,
+                    "probability": 0.9871869087219238
+                },
+                {
+                    "word": " dark.",
+                    "start": 8.92,
+                    "end": 9.18,
+                    "probability": 0.9865579009056091
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,86 @@
+{
+    "text": " some bubbles. Come on, Mr. Machine.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.28,
+            "end": 0.96,
+            "text": " some bubbles.",
+            "tokens": [
+                50364,
+                512,
+                16295,
+                13,
+                50424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8740310033162435,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.01899469643831253,
+            "words": [
+                {
+                    "word": " some",
+                    "start": 0.28,
+                    "end": 0.84,
+                    "probability": 0.4590834081172943
+                },
+                {
+                    "word": " bubbles.",
+                    "start": 0.84,
+                    "end": 0.96,
+                    "probability": 0.9810636043548584
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.4,
+            "end": 2.5,
+            "text": " Come on, Mr. Machine.",
+            "tokens": [
+                50424,
+                2492,
+                322,
+                11,
+                2221,
+                13,
+                22155,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8740310033162435,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.01899469643831253,
+            "words": [
+                {
+                    "word": " Come",
+                    "start": 1.4,
+                    "end": 1.48,
+                    "probability": 0.09941820800304413
+                },
+                {
+                    "word": " on,",
+                    "start": 1.48,
+                    "end": 1.68,
+                    "probability": 0.9463629722595215
+                },
+                {
+                    "word": " Mr.",
+                    "start": 1.74,
+                    "end": 2.18,
+                    "probability": 0.8412107825279236
+                },
+                {
+                    "word": " Machine.",
+                    "start": 2.3,
+                    "end": 2.5,
+                    "probability": 0.7714963555335999
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

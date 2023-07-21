@@ -1,0 +1,288 @@
+{
+    "text": " I'll replace it. Is my little fork lift robot to go pick climb bottles from stock? Tell the thing, if you look carefully at it, let's see if I actually show this.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 2.06,
+            "text": " I'll replace it.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                7406,
+                309,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41693351579749066,
+            "compression_ratio": 1.296,
+            "no_speech_prob": 0.016015009954571724,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.06,
+                    "end": 0.7,
+                    "probability": 0.8623300194740295
+                },
+                {
+                    "word": " replace",
+                    "start": 0.7,
+                    "end": 1.0,
+                    "probability": 0.9957081079483032
+                },
+                {
+                    "word": " it.",
+                    "start": 1.0,
+                    "end": 2.06,
+                    "probability": 0.989018976688385
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.54,
+            "end": 8.76,
+            "text": " Is my little fork lift robot to go pick climb bottles from stock?",
+            "tokens": [
+                50414,
+                1119,
+                452,
+                707,
+                17716,
+                5533,
+                7881,
+                281,
+                352,
+                1888,
+                10724,
+                15923,
+                490,
+                4127,
+                30,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41693351579749066,
+            "compression_ratio": 1.296,
+            "no_speech_prob": 0.016015009954571724,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 2.54,
+                    "end": 3.44,
+                    "probability": 0.2836304008960724
+                },
+                {
+                    "word": " my",
+                    "start": 3.44,
+                    "end": 3.82,
+                    "probability": 0.9881916642189026
+                },
+                {
+                    "word": " little",
+                    "start": 3.82,
+                    "end": 4.18,
+                    "probability": 0.9918587803840637
+                },
+                {
+                    "word": " fork",
+                    "start": 4.18,
+                    "end": 4.64,
+                    "probability": 0.5555881261825562
+                },
+                {
+                    "word": " lift",
+                    "start": 4.64,
+                    "end": 4.92,
+                    "probability": 0.8234504461288452
+                },
+                {
+                    "word": " robot",
+                    "start": 4.92,
+                    "end": 5.24,
+                    "probability": 0.9880752563476562
+                },
+                {
+                    "word": " to",
+                    "start": 5.24,
+                    "end": 5.94,
+                    "probability": 0.9113685488700867
+                },
+                {
+                    "word": " go",
+                    "start": 5.94,
+                    "end": 6.18,
+                    "probability": 0.992964506149292
+                },
+                {
+                    "word": " pick",
+                    "start": 6.18,
+                    "end": 6.82,
+                    "probability": 0.9783216118812561
+                },
+                {
+                    "word": " climb",
+                    "start": 6.82,
+                    "end": 7.74,
+                    "probability": 0.4214383065700531
+                },
+                {
+                    "word": " bottles",
+                    "start": 7.74,
+                    "end": 8.06,
+                    "probability": 0.9859857559204102
+                },
+                {
+                    "word": " from",
+                    "start": 8.06,
+                    "end": 8.46,
+                    "probability": 0.9956825971603394
+                },
+                {
+                    "word": " stock?",
+                    "start": 8.46,
+                    "end": 8.76,
+                    "probability": 0.77018803358078
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.88,
+            "end": 14.26,
+            "text": " Tell the thing, if you look carefully at it, let's see if I actually show this.",
+            "tokens": [
+                50814,
+                5115,
+                264,
+                551,
+                11,
+                498,
+                291,
+                574,
+                7500,
+                412,
+                309,
+                11,
+                718,
+                311,
+                536,
+                498,
+                286,
+                767,
+                855,
+                341,
+                13,
+                51082
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41693351579749066,
+            "compression_ratio": 1.296,
+            "no_speech_prob": 0.016015009954571724,
+            "words": [
+                {
+                    "word": " Tell",
+                    "start": 8.88,
+                    "end": 9.0,
+                    "probability": 0.09797786921262741
+                },
+                {
+                    "word": " the",
+                    "start": 9.0,
+                    "end": 9.18,
+                    "probability": 0.3184305429458618
+                },
+                {
+                    "word": " thing,",
+                    "start": 9.18,
+                    "end": 9.38,
+                    "probability": 0.9830625057220459
+                },
+                {
+                    "word": " if",
+                    "start": 10.0,
+                    "end": 10.46,
+                    "probability": 0.8566855788230896
+                },
+                {
+                    "word": " you",
+                    "start": 10.46,
+                    "end": 10.58,
+                    "probability": 0.9986328482627869
+                },
+                {
+                    "word": " look",
+                    "start": 10.58,
+                    "end": 10.8,
+                    "probability": 0.9812419414520264
+                },
+                {
+                    "word": " carefully",
+                    "start": 10.8,
+                    "end": 11.3,
+                    "probability": 0.9943376183509827
+                },
+                {
+                    "word": " at",
+                    "start": 11.3,
+                    "end": 11.6,
+                    "probability": 0.9810518026351929
+                },
+                {
+                    "word": " it,",
+                    "start": 11.6,
+                    "end": 11.76,
+                    "probability": 0.995896577835083
+                },
+                {
+                    "word": " let's",
+                    "start": 11.84,
+                    "end": 12.02,
+                    "probability": 0.9402552247047424
+                },
+                {
+                    "word": " see",
+                    "start": 12.02,
+                    "end": 12.14,
+                    "probability": 0.9955808520317078
+                },
+                {
+                    "word": " if",
+                    "start": 12.14,
+                    "end": 12.22,
+                    "probability": 0.9795956015586853
+                },
+                {
+                    "word": " I",
+                    "start": 12.22,
+                    "end": 12.3,
+                    "probability": 0.9908251166343689
+                },
+                {
+                    "word": " actually",
+                    "start": 12.3,
+                    "end": 12.92,
+                    "probability": 0.7080367207527161
+                },
+                {
+                    "word": " show",
+                    "start": 12.92,
+                    "end": 14.02,
+                    "probability": 0.9281344413757324
+                },
+                {
+                    "word": " this.",
+                    "start": 14.02,
+                    "end": 14.26,
+                    "probability": 0.9946349859237671
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

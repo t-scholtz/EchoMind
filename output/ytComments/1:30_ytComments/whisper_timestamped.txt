@@ -1,0 +1,426 @@
+{
+    "text": " have never really gotten around to it, and if and only if you are in a financially stable place, perhaps this benefit is the thing that will finally push you over the edge, and click here to sign up. If it does, thank you from me and from my team for allowing",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.38,
+            "text": " have never really gotten around to it, and if and only if you are in a financially stable place,",
+            "tokens": [
+                50364,
+                362,
+                1128,
+                534,
+                5768,
+                926,
+                281,
+                309,
+                11,
+                293,
+                498,
+                293,
+                787,
+                498,
+                291,
+                366,
+                294,
+                257,
+                20469,
+                8351,
+                1081,
+                11,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16330301761627197,
+            "compression_ratio": 1.5508982035928143,
+            "no_speech_prob": 0.03103896789252758,
+            "words": [
+                {
+                    "word": " have",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.8130724430084229
+                },
+                {
+                    "word": " never",
+                    "start": 0.36,
+                    "end": 0.66,
+                    "probability": 0.927575945854187
+                },
+                {
+                    "word": " really",
+                    "start": 0.66,
+                    "end": 1.02,
+                    "probability": 0.7206308245658875
+                },
+                {
+                    "word": " gotten",
+                    "start": 1.02,
+                    "end": 1.38,
+                    "probability": 0.7979183197021484
+                },
+                {
+                    "word": " around",
+                    "start": 1.38,
+                    "end": 1.82,
+                    "probability": 0.5677965879440308
+                },
+                {
+                    "word": " to",
+                    "start": 1.82,
+                    "end": 2.08,
+                    "probability": 0.7871124744415283
+                },
+                {
+                    "word": " it,",
+                    "start": 2.08,
+                    "end": 2.22,
+                    "probability": 0.8976045250892639
+                },
+                {
+                    "word": " and",
+                    "start": 2.4,
+                    "end": 2.62,
+                    "probability": 0.9110385775566101
+                },
+                {
+                    "word": " if",
+                    "start": 2.62,
+                    "end": 3.28,
+                    "probability": 0.7058095932006836
+                },
+                {
+                    "word": " and",
+                    "start": 3.28,
+                    "end": 3.5,
+                    "probability": 0.5757823586463928
+                },
+                {
+                    "word": " only",
+                    "start": 3.5,
+                    "end": 4.06,
+                    "probability": 0.919660747051239
+                },
+                {
+                    "word": " if",
+                    "start": 4.06,
+                    "end": 4.38,
+                    "probability": 0.9431445002555847
+                },
+                {
+                    "word": " you",
+                    "start": 4.38,
+                    "end": 4.58,
+                    "probability": 0.9608477354049683
+                },
+                {
+                    "word": " are",
+                    "start": 4.58,
+                    "end": 4.7,
+                    "probability": 0.9113938808441162
+                },
+                {
+                    "word": " in",
+                    "start": 4.7,
+                    "end": 4.9,
+                    "probability": 0.9476134777069092
+                },
+                {
+                    "word": " a",
+                    "start": 4.9,
+                    "end": 5.0,
+                    "probability": 0.9813335537910461
+                },
+                {
+                    "word": " financially",
+                    "start": 5.0,
+                    "end": 5.36,
+                    "probability": 0.8549779057502747
+                },
+                {
+                    "word": " stable",
+                    "start": 5.36,
+                    "end": 5.98,
+                    "probability": 0.9950220584869385
+                },
+                {
+                    "word": " place,",
+                    "start": 5.98,
+                    "end": 6.38,
+                    "probability": 0.987743616104126
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.7,
+            "end": 11.48,
+            "text": " perhaps this benefit is the thing that will finally push you over the edge, and click here to sign up.",
+            "tokens": [
+                50692,
+                4317,
+                341,
+                5121,
+                307,
+                264,
+                551,
+                300,
+                486,
+                2721,
+                2944,
+                291,
+                670,
+                264,
+                4691,
+                11,
+                293,
+                2052,
+                510,
+                281,
+                1465,
+                493,
+                13,
+                50944
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16330301761627197,
+            "compression_ratio": 1.5508982035928143,
+            "no_speech_prob": 0.03103896789252758,
+            "words": [
+                {
+                    "word": " perhaps",
+                    "start": 6.7,
+                    "end": 6.88,
+                    "probability": 0.9053958058357239
+                },
+                {
+                    "word": " this",
+                    "start": 6.88,
+                    "end": 7.14,
+                    "probability": 0.758551299571991
+                },
+                {
+                    "word": " benefit",
+                    "start": 7.14,
+                    "end": 7.46,
+                    "probability": 0.953201949596405
+                },
+                {
+                    "word": " is",
+                    "start": 7.46,
+                    "end": 7.68,
+                    "probability": 0.942798912525177
+                },
+                {
+                    "word": " the",
+                    "start": 7.68,
+                    "end": 7.84,
+                    "probability": 0.9699762463569641
+                },
+                {
+                    "word": " thing",
+                    "start": 7.84,
+                    "end": 8.02,
+                    "probability": 0.9911916851997375
+                },
+                {
+                    "word": " that",
+                    "start": 8.02,
+                    "end": 8.2,
+                    "probability": 0.9450523853302002
+                },
+                {
+                    "word": " will",
+                    "start": 8.2,
+                    "end": 8.32,
+                    "probability": 0.9679341316223145
+                },
+                {
+                    "word": " finally",
+                    "start": 8.32,
+                    "end": 8.72,
+                    "probability": 0.9084541201591492
+                },
+                {
+                    "word": " push",
+                    "start": 8.72,
+                    "end": 9.04,
+                    "probability": 0.9904125332832336
+                },
+                {
+                    "word": " you",
+                    "start": 9.04,
+                    "end": 9.2,
+                    "probability": 0.9721903800964355
+                },
+                {
+                    "word": " over",
+                    "start": 9.2,
+                    "end": 9.44,
+                    "probability": 0.9807105660438538
+                },
+                {
+                    "word": " the",
+                    "start": 9.44,
+                    "end": 9.62,
+                    "probability": 0.9857891201972961
+                },
+                {
+                    "word": " edge,",
+                    "start": 9.62,
+                    "end": 9.94,
+                    "probability": 0.9943276047706604
+                },
+                {
+                    "word": " and",
+                    "start": 10.14,
+                    "end": 10.24,
+                    "probability": 0.9623459577560425
+                },
+                {
+                    "word": " click",
+                    "start": 10.24,
+                    "end": 10.42,
+                    "probability": 0.978752613067627
+                },
+                {
+                    "word": " here",
+                    "start": 10.42,
+                    "end": 10.76,
+                    "probability": 0.9707996845245361
+                },
+                {
+                    "word": " to",
+                    "start": 10.76,
+                    "end": 11.06,
+                    "probability": 0.969669759273529
+                },
+                {
+                    "word": " sign",
+                    "start": 11.06,
+                    "end": 11.3,
+                    "probability": 0.9912761449813843
+                },
+                {
+                    "word": " up.",
+                    "start": 11.3,
+                    "end": 11.48,
+                    "probability": 0.9846622943878174
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.72,
+            "end": 14.82,
+            "text": " If it does, thank you from me and from my team for allowing",
+            "tokens": [
+                50944,
+                759,
+                309,
+                775,
+                11,
+                1309,
+                291,
+                490,
+                385,
+                293,
+                490,
+                452,
+                1469,
+                337,
+                8293,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16330301761627197,
+            "compression_ratio": 1.5508982035928143,
+            "no_speech_prob": 0.03103896789252758,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 11.72,
+                    "end": 11.84,
+                    "probability": 0.9447854161262512
+                },
+                {
+                    "word": " it",
+                    "start": 11.84,
+                    "end": 12.0,
+                    "probability": 0.9710953235626221
+                },
+                {
+                    "word": " does,",
+                    "start": 12.0,
+                    "end": 12.16,
+                    "probability": 0.9911749362945557
+                },
+                {
+                    "word": " thank",
+                    "start": 12.46,
+                    "end": 12.62,
+                    "probability": 0.9700502157211304
+                },
+                {
+                    "word": " you",
+                    "start": 12.62,
+                    "end": 12.82,
+                    "probability": 0.9969491362571716
+                },
+                {
+                    "word": " from",
+                    "start": 12.82,
+                    "end": 13.0,
+                    "probability": 0.7150518298149109
+                },
+                {
+                    "word": " me",
+                    "start": 13.0,
+                    "end": 13.22,
+                    "probability": 0.9842579364776611
+                },
+                {
+                    "word": " and",
+                    "start": 13.22,
+                    "end": 13.46,
+                    "probability": 0.9483428001403809
+                },
+                {
+                    "word": " from",
+                    "start": 13.46,
+                    "end": 13.64,
+                    "probability": 0.832099437713623
+                },
+                {
+                    "word": " my",
+                    "start": 13.64,
+                    "end": 13.84,
+                    "probability": 0.992489218711853
+                },
+                {
+                    "word": " team",
+                    "start": 13.84,
+                    "end": 14.1,
+                    "probability": 0.9961937665939331
+                },
+                {
+                    "word": " for",
+                    "start": 14.1,
+                    "end": 14.4,
+                    "probability": 0.9809837937355042
+                },
+                {
+                    "word": " allowing",
+                    "start": 14.4,
+                    "end": 14.82,
+                    "probability": 0.9648169875144958
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

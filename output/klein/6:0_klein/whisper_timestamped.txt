@@ -1,0 +1,186 @@
+{
+    "text": " I mean this is just home bruh this is only incidental this is not Klein battles is how to run a warehouse really",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.18,
+            "end": 5.58,
+            "text": " I mean this is just home bruh this is only incidental this is not Klein battles is how to run a warehouse really",
+            "tokens": [
+                50364,
+                286,
+                914,
+                341,
+                307,
+                445,
+                1280,
+                738,
+                3232,
+                341,
+                307,
+                787,
+                9348,
+                304,
+                341,
+                307,
+                406,
+                33327,
+                14648,
+                307,
+                577,
+                281,
+                1190,
+                257,
+                22244,
+                534,
+                50647
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38200102533612934,
+            "compression_ratio": 1.3176470588235294,
+            "no_speech_prob": 0.027852075174450874,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.18,
+                    "end": 0.5,
+                    "probability": 0.6043415069580078
+                },
+                {
+                    "word": " mean",
+                    "start": 0.5,
+                    "end": 0.56,
+                    "probability": 0.9855351448059082
+                },
+                {
+                    "word": " this",
+                    "start": 0.56,
+                    "end": 0.66,
+                    "probability": 0.5279197692871094
+                },
+                {
+                    "word": " is",
+                    "start": 0.66,
+                    "end": 0.78,
+                    "probability": 0.9953474402427673
+                },
+                {
+                    "word": " just",
+                    "start": 0.78,
+                    "end": 0.94,
+                    "probability": 0.9307822585105896
+                },
+                {
+                    "word": " home",
+                    "start": 0.94,
+                    "end": 1.22,
+                    "probability": 0.7262245416641235
+                },
+                {
+                    "word": " bruh",
+                    "start": 1.22,
+                    "end": 1.36,
+                    "probability": 0.45929986983537674
+                },
+                {
+                    "word": " this",
+                    "start": 1.36,
+                    "end": 1.52,
+                    "probability": 0.4237440824508667
+                },
+                {
+                    "word": " is",
+                    "start": 1.52,
+                    "end": 1.64,
+                    "probability": 0.9493385553359985
+                },
+                {
+                    "word": " only",
+                    "start": 1.64,
+                    "end": 2.04,
+                    "probability": 0.8936848640441895
+                },
+                {
+                    "word": " incidental",
+                    "start": 2.04,
+                    "end": 2.62,
+                    "probability": 0.9783927500247955
+                },
+                {
+                    "word": " this",
+                    "start": 2.62,
+                    "end": 2.74,
+                    "probability": 0.4110128581523895
+                },
+                {
+                    "word": " is",
+                    "start": 2.74,
+                    "end": 2.9,
+                    "probability": 0.9905925393104553
+                },
+                {
+                    "word": " not",
+                    "start": 2.9,
+                    "end": 3.64,
+                    "probability": 0.8845847845077515
+                },
+                {
+                    "word": " Klein",
+                    "start": 3.64,
+                    "end": 4.02,
+                    "probability": 0.3463403582572937
+                },
+                {
+                    "word": " battles",
+                    "start": 4.02,
+                    "end": 4.26,
+                    "probability": 0.36309492588043213
+                },
+                {
+                    "word": " is",
+                    "start": 4.26,
+                    "end": 4.44,
+                    "probability": 0.4982655346393585
+                },
+                {
+                    "word": " how",
+                    "start": 4.44,
+                    "end": 4.62,
+                    "probability": 0.9904265999794006
+                },
+                {
+                    "word": " to",
+                    "start": 4.62,
+                    "end": 4.72,
+                    "probability": 0.9950395226478577
+                },
+                {
+                    "word": " run",
+                    "start": 4.72,
+                    "end": 4.86,
+                    "probability": 0.9960696697235107
+                },
+                {
+                    "word": " a",
+                    "start": 4.86,
+                    "end": 4.98,
+                    "probability": 0.9499680995941162
+                },
+                {
+                    "word": " warehouse",
+                    "start": 4.98,
+                    "end": 5.26,
+                    "probability": 0.9921619296073914
+                },
+                {
+                    "word": " really",
+                    "start": 5.26,
+                    "end": 5.58,
+                    "probability": 0.9512046575546265
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

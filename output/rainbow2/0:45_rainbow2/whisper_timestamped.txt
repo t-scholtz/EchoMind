@@ -1,0 +1,359 @@
+{
+    "text": " explanation. To the Hebrews it was a token that there would be no more universal floods. The Greeks used to imagine that it was assigned from the Goves to Fortell War or heavy reign. The Norsemen considered the rainbow as a bridge.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.68,
+            "end": 5.2,
+            "text": " explanation. To the Hebrews it was a token that there would be no more universal floods.",
+            "tokens": [
+                50364,
+                10835,
+                13,
+                1407,
+                264,
+                44604,
+                309,
+                390,
+                257,
+                14862,
+                300,
+                456,
+                576,
+                312,
+                572,
+                544,
+                11455,
+                35536,
+                13,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2581913429394103,
+            "compression_ratio": 1.434782608695652,
+            "no_speech_prob": 0.005687785800546408,
+            "words": [
+                {
+                    "word": " explanation.",
+                    "start": 0.68,
+                    "end": 1.18,
+                    "probability": 0.9019776582717896
+                },
+                {
+                    "word": " To",
+                    "start": 1.56,
+                    "end": 1.68,
+                    "probability": 0.9740006923675537
+                },
+                {
+                    "word": " the",
+                    "start": 1.68,
+                    "end": 1.82,
+                    "probability": 0.9852773547172546
+                },
+                {
+                    "word": " Hebrews",
+                    "start": 1.82,
+                    "end": 2.1,
+                    "probability": 0.6278467774391174
+                },
+                {
+                    "word": " it",
+                    "start": 2.1,
+                    "end": 2.36,
+                    "probability": 0.6984175443649292
+                },
+                {
+                    "word": " was",
+                    "start": 2.36,
+                    "end": 2.46,
+                    "probability": 0.9984248876571655
+                },
+                {
+                    "word": " a",
+                    "start": 2.46,
+                    "end": 2.58,
+                    "probability": 0.9244409203529358
+                },
+                {
+                    "word": " token",
+                    "start": 2.58,
+                    "end": 2.94,
+                    "probability": 0.9883528351783752
+                },
+                {
+                    "word": " that",
+                    "start": 2.94,
+                    "end": 3.28,
+                    "probability": 0.9836850166320801
+                },
+                {
+                    "word": " there",
+                    "start": 3.28,
+                    "end": 3.46,
+                    "probability": 0.9977428913116455
+                },
+                {
+                    "word": " would",
+                    "start": 3.46,
+                    "end": 3.6,
+                    "probability": 0.9917278289794922
+                },
+                {
+                    "word": " be",
+                    "start": 3.6,
+                    "end": 3.72,
+                    "probability": 0.9683274626731873
+                },
+                {
+                    "word": " no",
+                    "start": 3.72,
+                    "end": 3.96,
+                    "probability": 0.9980251789093018
+                },
+                {
+                    "word": " more",
+                    "start": 3.96,
+                    "end": 4.2,
+                    "probability": 0.974903404712677
+                },
+                {
+                    "word": " universal",
+                    "start": 4.2,
+                    "end": 4.72,
+                    "probability": 0.9853311777114868
+                },
+                {
+                    "word": " floods.",
+                    "start": 4.72,
+                    "end": 5.2,
+                    "probability": 0.9779468178749084
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.12,
+            "end": 11.08,
+            "text": " The Greeks used to imagine that it was assigned from the Goves to Fortell War or heavy",
+            "tokens": [
+                50680,
+                440,
+                31029,
+                1143,
+                281,
+                3811,
+                300,
+                309,
+                390,
+                13279,
+                490,
+                264,
+                1037,
+                977,
+                281,
+                11002,
+                898,
+                3630,
+                420,
+                4676,
+                50918
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2581913429394103,
+            "compression_ratio": 1.434782608695652,
+            "no_speech_prob": 0.005687785800546408,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 6.12,
+                    "end": 6.36,
+                    "probability": 0.9868800640106201
+                },
+                {
+                    "word": " Greeks",
+                    "start": 6.36,
+                    "end": 6.58,
+                    "probability": 0.996266782283783
+                },
+                {
+                    "word": " used",
+                    "start": 6.58,
+                    "end": 6.92,
+                    "probability": 0.9928650856018066
+                },
+                {
+                    "word": " to",
+                    "start": 6.92,
+                    "end": 7.1,
+                    "probability": 0.9996390342712402
+                },
+                {
+                    "word": " imagine",
+                    "start": 7.1,
+                    "end": 7.5,
+                    "probability": 0.991443932056427
+                },
+                {
+                    "word": " that",
+                    "start": 7.5,
+                    "end": 8.04,
+                    "probability": 0.9885088801383972
+                },
+                {
+                    "word": " it",
+                    "start": 8.04,
+                    "end": 8.14,
+                    "probability": 0.9968066215515137
+                },
+                {
+                    "word": " was",
+                    "start": 8.14,
+                    "end": 8.22,
+                    "probability": 0.9958674907684326
+                },
+                {
+                    "word": " assigned",
+                    "start": 8.22,
+                    "end": 8.62,
+                    "probability": 0.5020636916160583
+                },
+                {
+                    "word": " from",
+                    "start": 8.62,
+                    "end": 8.86,
+                    "probability": 0.9922783374786377
+                },
+                {
+                    "word": " the",
+                    "start": 8.86,
+                    "end": 9.04,
+                    "probability": 0.9937512278556824
+                },
+                {
+                    "word": " Goves",
+                    "start": 9.04,
+                    "end": 9.34,
+                    "probability": 0.34306612610816956
+                },
+                {
+                    "word": " to",
+                    "start": 9.34,
+                    "end": 9.48,
+                    "probability": 0.985275387763977
+                },
+                {
+                    "word": " Fortell",
+                    "start": 9.48,
+                    "end": 9.88,
+                    "probability": 0.46674127131700516
+                },
+                {
+                    "word": " War",
+                    "start": 9.88,
+                    "end": 10.3,
+                    "probability": 0.6683968901634216
+                },
+                {
+                    "word": " or",
+                    "start": 10.3,
+                    "end": 10.78,
+                    "probability": 0.7830983996391296
+                },
+                {
+                    "word": " heavy",
+                    "start": 10.78,
+                    "end": 11.08,
+                    "probability": 0.692476212978363
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.08,
+            "end": 14.88,
+            "text": " reign. The Norsemen considered the rainbow as a bridge.",
+            "tokens": [
+                50918,
+                20350,
+                13,
+                440,
+                6966,
+                405,
+                2558,
+                4888,
+                264,
+                18526,
+                382,
+                257,
+                7283,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2581913429394103,
+            "compression_ratio": 1.434782608695652,
+            "no_speech_prob": 0.005687785800546408,
+            "words": [
+                {
+                    "word": " reign.",
+                    "start": 11.08,
+                    "end": 11.42,
+                    "probability": 0.08261747658252716
+                },
+                {
+                    "word": " The",
+                    "start": 12.6,
+                    "end": 12.7,
+                    "probability": 0.9913803935050964
+                },
+                {
+                    "word": " Norsemen",
+                    "start": 12.7,
+                    "end": 13.28,
+                    "probability": 0.8903770844141642
+                },
+                {
+                    "word": " considered",
+                    "start": 13.28,
+                    "end": 13.76,
+                    "probability": 0.9867334961891174
+                },
+                {
+                    "word": " the",
+                    "start": 13.76,
+                    "end": 13.98,
+                    "probability": 0.9959543943405151
+                },
+                {
+                    "word": " rainbow",
+                    "start": 13.98,
+                    "end": 14.32,
+                    "probability": 0.8110193014144897
+                },
+                {
+                    "word": " as",
+                    "start": 14.32,
+                    "end": 14.56,
+                    "probability": 0.9941850304603577
+                },
+                {
+                    "word": " a",
+                    "start": 14.56,
+                    "end": 14.64,
+                    "probability": 0.9954909682273865
+                },
+                {
+                    "word": " bridge.",
+                    "start": 14.64,
+                    "end": 14.88,
+                    "probability": 0.8810692429542542
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
