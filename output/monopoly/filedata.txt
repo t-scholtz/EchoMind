@@ -1,8 +1,0 @@
-The file came from: /monopoly.mp3
-_______________
-Number of channels  - 1
-Sample Width - 2
-Frame rate  - 16000
-Number of Frames  - 2727695
-lenght of Audio sample - 170.481
-Compression type  - not compressed --- Orignal file type: .mp3

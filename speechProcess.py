@@ -104,8 +104,6 @@ except:
 def combine_transcripts(transcripts):
     for i in range(len(transcripts)):
         transcripts[i] = "start: " + transcripts[i] + " ;end"
-
-    # Find segments that exist in all transcripts
     # Find word frequencies across all transcripts
     word_frequencies = Counter()
     for transcript in transcripts:
@@ -120,25 +118,27 @@ def combine_transcripts(transcripts):
     non_matching_parts = []
     for transcript in transcripts:
         transcript_parts = []
-        current_part = []
+        current_phrase = []
         for word in transcript.split():
             if word in common_segments:
-                if current_part:
-                    transcript_parts.append(current_part)
-                    current_part = []
-                transcript_parts.append([word])
+                if current_phrase:
+                    transcript_parts.append(" ".join(current_phrase))
+                    current_phrase = []
+                transcript_parts.append(word)
             else:
-                current_part.append(word)
-        if current_part:
-            transcript_parts.append(current_part)
+                current_phrase.append(word)
+        if current_phrase:
+            transcript_parts.append(" ".join(current_phrase))
         matching_parts.append(transcript_parts)
-
+    print("transcription parts "+str(transcript_parts))
+    print("Matching parts "+ str(matching_parts))
     # Insert <blank> into non-matching parts
     max_len = max(len(sublist) for sublist in matching_parts)
     for sublist in matching_parts:
         while len(sublist) < max_len:
             sublist.append(['<blank>'])
-
+    
+    print(matching_parts)
     # Insert <blank> into non-matching parts
     size = len(matching_parts)
     for count in range(max([len(i) for i in matching_parts])):
@@ -153,7 +153,7 @@ def combine_transcripts(transcripts):
                 for j in range(3):
                     while len(matching_parts[j][count]) < maxLen:
                         matching_parts[j][count].append('<blank>')
-
+    print(matching_parts)
     # Choose most common word at each position
     final_transcript = []
     for parts in zip(*matching_parts):
@@ -161,7 +161,7 @@ def combine_transcripts(transcripts):
             word_counts = Counter([part[i] for part in parts])
             most_common_word = word_counts.most_common(1)[0][0]
             final_transcript.append(most_common_word)
-
+    print(final_transcript)
     return ' '.join(final_transcript)
 
 

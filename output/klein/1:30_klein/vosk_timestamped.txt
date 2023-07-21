@@ -1,8 +1,0 @@
- silencesilence{'conf': 0.561, 'end': 13.2, 'start': 12.9, 'word': 'well'}
-{'conf': 0.500564, 'end': 13.68, 'start': 13.35, 'word': 'bottle'}
-{'conf': 0.364746, 'end': 14.01, 'start': 13.68, 'word': 'rep'}
-{'conf': 0.530963, 'end': 14.37, 'start': 14.13, 'word': 'not'}
-{'conf': 0.452656, 'end': 14.55, 'start': 14.390755, 'word': "you're"}
-{'conf': 1.0, 'end': 14.73, 'start': 14.55, 'word': 'out'}
-{'conf': 1.0, 'end': 14.82, 'start': 14.73, 'word': 'the'}
-{'conf': 1.0, 'end': 14.97, 'start': 14.82, 'word': 'door'}

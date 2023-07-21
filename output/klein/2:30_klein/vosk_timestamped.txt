@@ -1,6 +1,0 @@
- {'conf': 1.0, 'end': 0.54, 'start': 0.06, 'word': 'some'}
-{'conf': 0.535988, 'end': 1.23, 'start': 0.66, 'word': 'bubbles'}
-{'conf': 0.505001, 'end': 1.74, 'start': 1.35, 'word': 'plant'}
-{'conf': 0.598644, 'end': 2.25, 'start': 1.92, 'word': 'mr'}
-{'conf': 0.661512, 'end': 2.64, 'start': 2.25, 'word': 'machine'}
-silencesilencesilence

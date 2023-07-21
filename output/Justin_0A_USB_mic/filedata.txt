@@ -1,8 +1,0 @@
-The file came from: /Justin_0A_USB_mic.wav
-_______________
-Number of channels  - 1
-Sample Width - 2
-Frame rate  - 44100
-Number of Frames  - 1376256
-lenght of Audio sample - 31.208
-Compression type  - not compressed --- Orignal file type: .wav

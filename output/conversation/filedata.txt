@@ -1,8 +1,0 @@
-The file came from: /conversation.mp3
-_______________
-Number of channels  - 1
-Sample Width - 2
-Frame rate  - 16000
-Number of Frames  - 6127096
-lenght of Audio sample - 382.943
-Compression type  - not compressed --- Orignal file type: .mp3

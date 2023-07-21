@@ -1,1 +1,0 @@
- silencesilence{'conf': 0.725957, 'end': 13.62, 'start': 13.35, 'word': "it's"}

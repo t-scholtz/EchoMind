@@ -71,12 +71,9 @@ for folder in os.listdir(dir_path + '/testData/input'):
         if file != 'text.txt':
             shutil.copy(dir_path + '/testData/input/' + folder + '/' + file, dir_path + '/InputAudioData')
 
-
-
 # Run tests
 with open("speechProcess.py") as f:
     exec(f.read())
-
 
 # field names
 fields = [
