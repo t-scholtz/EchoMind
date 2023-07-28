@@ -1,6 +1,9 @@
 from collections import Counter
 
 def combine_transcripts(transcripts):
+    # Preprocess each transcript to remove leading and trailing whitespaces
+    transcripts = [transcript.strip() for transcript in transcripts]
+
     # Find word frequencies across all transcripts
     word_frequencies = Counter()
     for transcript in transcripts:
@@ -16,7 +19,7 @@ def combine_transcripts(transcripts):
     for transcript in transcripts:
         transcript_parts = []
         current_phrase = []
-        for word in transcript.split():  # Update this line to use word directly (since it's an array of strings)
+        for word in transcript.split():
             if word in common_segments:
                 if current_phrase:
                     transcript_parts.append(" ".join(current_phrase))
@@ -27,60 +30,36 @@ def combine_transcripts(transcripts):
         if current_phrase:
             transcript_parts.append(" ".join(current_phrase))
         matching_parts.append(transcript_parts)
-    
-    for line in matching_parts:
-        print(line)
-    print("__________________________________________________________________________________________________________________")
-    # Insert <blank> into non-matching parts
-    size = len(matching_parts)
-    tracker = [1,1,1]
-    for count in range(max([len(i) for i in matching_parts])):
-        if all(matching_parts[0][count] == sublist[count] for sublist in matching_parts[1:]):
-            pass
-        else:
-            if all(len(matching_parts[0][count]) == len(sublist[count]) for sublist in matching_parts[1:]):
-                pass
-            else:
-                maxLen = max(len(matching_parts[i][count].split()) for i in range(len(transcripts)))
 
-                for j in range(len(transcripts)):
-                    tracking = 0
-                    while (len(matching_parts[j][count].split())+tracking) < maxLen:  
-                        matching_parts[j].insert(count+tracker[j],' <blank>')
-                        tracker[j]+=1
-                        tracking+=1
-    for line in matching_parts:
-        print(line)
+    # Insert <blank> into non-matching parts
+    max_len = max(len(sublist) for sublist in matching_parts)
+    for sublist in matching_parts:
+        while len(sublist) < max_len:
+            sublist.append('<blank>')
+
     # Choose most common word at each position
     final_transcript = []
+    print(matching_parts)
     for parts in zip(*matching_parts):
-        for i in range(len(parts[0])):
-            print(parts)
-            print(i)
-            word_counts = Counter([part[i] for part in parts])
-            most_common_word = word_counts.most_common(1)[0][0]
+        for i in range(max_len):
+            # Exclude empty parts to avoid IndexError
+            word_counts = Counter([part.split()[i] for part in parts if len(part.split()) > i])
+            print(word_counts)
+            if word_counts:
+                most_common_word = word_counts.most_common(1)[0][0]
+            else:
+                most_common_word = '<blank>'
             final_transcript.append(most_common_word)
 
-    return ' '.join(final_transcript)
+    return final_transcript
 
 # Example usage
 input_strings = [
-    "either way a slow painful death begins for all but one player the rest of the game can take ayear or six",
-    "either way a slow painful death begins for all but one player the rest of the game can take an hour or six",
-    "by their way a slow painful death begins for all but one player the rest of the game can take an hour or six"
+    "antarctica is earths coolest continent and most complicated the claimed continent yet sadly has no official flag to unite her now you might say theres this and that flag is antarctica associated but its not official official and comes",
+    "antarctica is earths coolest continent and most complicatedly claimed continent yet sadly has no official flag to unite her now you might say theres this and that flag is antarctica associated but its not official official and comes with",
+    "and arctica is earths coolest continent and most complicatedly claimed continent yet sadly has no official flag to unite her nay you might say theres this and that flag is antarctica associated but its not official official and comes"
 ]
 
 combined_transcript = combine_transcripts(input_strings)
-print(combined_transcript)
+print("Final Answer:", combined_transcript)
 
-
-
-# Example usage
-input_transcripts = [
-    "start: antarctica is earths coolest cat continent",
-    "start: antarctica is earths coolest continent",
-    "start: and arctica is earths coolest continent"
-]
-
-combined_transcript = combine_transcripts(input_transcripts)
-print(combined_transcript)
